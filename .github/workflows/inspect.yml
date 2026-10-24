@@ -1,0 +1,29 @@
+name: Inspect ESPN feed (temporary)
+on: workflow_dispatch
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -sS "https://site.api.espn.com/apis/site/v2/sports/mma/ufc/scoreboard?dates=20261101-20261130&limit=200" -o nov.json
+          curl -sS "https://site.api.espn.com/apis/site/v2/sports/mma/ufc/scoreboard?dates=20261001-20261031&limit=200" -o oct.json
+          python3 - <<'PY'
+          import json
+          for f in ("oct.json", "nov.json"):
+              d = json.load(open(f))
+              for ev in d.get("events", [])[:3]:
+                  print("EVENT", ev.get("id"), ev.get("name"), ev.get("date"), "keys:", sorted(ev))
+                  comps = ev.get("competitions", [])
+                  for c in comps:
+                      names = [x.get("athlete", {}).get("displayName") for x in c.get("competitors", [])]
+                      print("  BOUT", c.get("matchNumber"), c.get("date"), c.get("startDate"),
+                            json.dumps(c.get("cardSegment")), json.dumps(c.get("type")), names)
+                  if comps:
+                      c = dict(comps[0]); c.pop("competitors", None)
+                      print("  FIRST COMP (no competitors):", json.dumps(c)[:3000])
+                      print("  COMPETITOR KEYS:", sorted(comps[0]["competitors"][0]))
+          PY
+          curl -sS "https://site.web.api.espn.com/apis/common/v3/sports/mma/ufc/fightcenter/600061268?region=us&lang=en" -o fc.json || true
+          python3 -c "
+          import json; d=json.load(open('fc.json')); print('FIGHTCENTER keys', sorted(d))
+          print(json.dumps(d)[:4000])" || true
