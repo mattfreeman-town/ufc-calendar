@@ -23,7 +23,7 @@ GitHub Actions (every 3h)
 
 Data comes from ESPN's public (unofficial, unauthenticated) scoreboard API, the same JSON that powers espn.com's MMA Fightcenter. It's standard library Python only; no dependencies.
 
-Segment detection: ESPN tags each bout with a `cardSegment`. If those labels clearly say early prelims / prelims / main card they're used directly; otherwise the segments are ordered by start time and assigned from the main card backwards.
+Segment detection: ESPN's scoreboard gives each bout its segment's start time (all prelims bouts share one time, all main card bouts another), so bouts are grouped by start time and the groups are assigned from the main card backwards: the latest block is the Main Card, the one before it Prelims, the one before that Early Prelims. If ESPN ever adds explicit `cardSegment` labels those are used instead. Bouts arrive in fight order, so each segment lists the last fight (the headliner) first. ESPN pads far-off cards with "TBA vs Opponent TBA" bouts; those are ignored, and the event shows as "card TBA".
 
 Safety: if a fetch fails the run exits without publishing, and if the feed suddenly has zero upcoming events when the last run had some, it refuses to overwrite the calendar.
 
@@ -38,14 +38,6 @@ Safety: if a fetch fails the run exits without publishing, and if the feed sudde
    - **Fastmail**: Settings → Calendars → Subscribe to a calendar. Refresh interval is configurable.
 
 Set your own alerts on the subscribed calendar; the feed doesn't include any.
-
-## First live run: things to check
-
-This was built and tested against a fixture shaped like ESPN's feed, because ESPN wasn't reachable from the environment it was written in. On the first real run, open the generated `docs/ufc.ics` and confirm:
-
-- **Segments.** A typical Fight Night should show separate Prelims and Main Card entries at different times. If everything lands in "Main Card", ESPN isn't giving per-segment times for that event; check the `cardSegment` and `date` fields in the raw JSON (`https://site.api.espn.com/apis/site/v2/sports/mma/ufc/scoreboard?dates=20261101-20261130`).
-- **Headliner order.** The main event should be listed first in Main Card notes. Bouts are sorted by ESPN's `matchNumber`, highest first; if it comes out reversed, flip `reverse=True` in `build_segments`.
-- **DWCS.** Contender Series nights should appear (they run summers, roughly August to October). If they're missing, ESPN is filing them under another league slug: find it in the URL on ESPN's DWCS schedule page and add it, e.g. `--leagues ufc,<slug>` in the workflow.
 
 ## Local use
 

@@ -152,6 +152,11 @@ def parse_bout(comp: dict, index: int) -> dict:
     }
 
 
+def is_placeholder(bout: dict) -> bool:
+    """ESPN pads unbooked cards with "TBA vs Opponent TBA" bouts."""
+    return all("tba" in f["name"].lower().split() for f in bout["fighters"])
+
+
 def bout_line(bout: dict) -> str:
     parts = []
     for f in bout["fighters"]:
@@ -182,10 +187,13 @@ def split_segments(bouts: list[dict]) -> dict[str, list[dict]]:
 
     Uses ESPN's segment labels when they map cleanly; otherwise orders the
     raw segments by start time and assigns them from the main card backwards.
+    The scoreboard feed usually has no labels at all, but gives every bout in
+    a segment that segment's start time, so unlabelled bouts group by time.
     """
     groups: dict[str, list[dict]] = {}
     for b in bouts:
-        groups.setdefault(b["segment_raw"].lower(), []).append(b)
+        key = b["segment_raw"].lower() or (b["time"].isoformat() if b["time"] else "")
+        groups.setdefault(key, []).append(b)
 
     kinds = {raw: _label_kind(raw) for raw in groups}
     labelled = [k for k in kinds.values() if k]
@@ -224,6 +232,7 @@ def build_segments(ev: dict) -> list[dict]:
     name = (ev.get("name") or ev.get("shortName") or "UFC").strip()
     event_time = parse_time(ev.get("date"))
     bouts = [parse_bout(c, i) for i, c in enumerate(ev.get("competitions") or [])]
+    bouts = [b for b in bouts if not is_placeholder(b)]
     league = ev.get("_league", "ufc")
     base = {
         "event_id": str(ev["id"]),

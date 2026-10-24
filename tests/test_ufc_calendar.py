@@ -64,6 +64,19 @@ class SegmentTests(unittest.TestCase):
         self.assertEqual(prop(self.by_uid["ufc-600200-prelims@ufc-calendar"], "SUMMARY"),
                          "UFC Fight Night Prelims: Charlie vs. Delta")
 
+    def test_no_segment_labels_split_by_bout_time(self):
+        # The live scoreboard feed: no cardSegment, no matchNumber, bouts in fight order.
+        data = copy.deepcopy(FIXTURE)
+        for c in data["events"][0]["competitions"]:
+            c.pop("cardSegment"); c.pop("matchNumber")
+        ics, _ = build(data)
+        by_uid = {prop(v, "UID"): v for v in vevents(ics)}
+        for kind, start in (("early", "20261115T000000Z"), ("prelims", "20261115T010000Z"),
+                            ("main", "20261115T030000Z")):
+            self.assertEqual(prop(by_uid[f"ufc-600100-{kind}@ufc-calendar"], "DTSTART"), start)
+        desc = prop(by_uid["ufc-600100-main@ufc-calendar"], "DESCRIPTION")
+        self.assertLess(desc.index("Alpha (10-2)"), desc.index("Main One"))
+
     def test_dwcs_is_single_entry(self):
         dwcs = [u for u in self.by_uid if u.startswith("ufc-600300-")]
         self.assertEqual(dwcs, ["ufc-600300-card@ufc-calendar"])
@@ -117,6 +130,16 @@ class UpdateTests(unittest.TestCase):
         ics, _ = build(data, state, NOW + dt.timedelta(days=1))
         dwcs = {prop(v, "UID"): v for v in vevents(ics)}["ufc-600300-card@ufc-calendar"]
         self.assertIn("Card start moved to Tue Nov 10 5:00 PM PST", prop(dwcs, "DESCRIPTION"))
+
+    def test_tba_padding_bouts_make_placeholder(self):
+        data = copy.deepcopy(FIXTURE)
+        for c in data["events"][1]["competitions"]:
+            c["competitors"][0]["athlete"]["displayName"] = "TBA"
+            c["competitors"][1]["athlete"]["displayName"] = "Opponent TBA"
+        ics, _ = build(data)
+        by_uid = {prop(v, "UID"): v for v in vevents(ics)}
+        self.assertEqual(prop(by_uid["ufc-600200-card@ufc-calendar"], "SUMMARY"),
+                         "UFC Fight Night: Charlie vs. Delta (card TBA)")
 
     def test_cancelled_event(self):
         data = copy.deepcopy(FIXTURE)
