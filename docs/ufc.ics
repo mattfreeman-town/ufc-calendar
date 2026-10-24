@@ -9,31 +9,49 @@ X-WR-CALDESC:UFC events and Dana White's Contender Series\, split by card s
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-600061266-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061266-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20260926T210000Z
 DTEND:20260927T000000Z
+SUMMARY:UFC Fight Night Prelims: Rosas Jr. vs. Barcelos
+DESCRIPTION:Prelims starts Sat Sep 26 2:00 PM PDT\nWatch: Paramount+\n\nBra
+ dy Hiestand (10-2-0) vs Rinya Nakamura (10-2-0) · Bantamweight · W: Brad
+ y Hiestand\nRodolfo Vieira (12-5-0) vs Robert Bryczek (18-8-0) · Middlewe
+ ight · W: Rodolfo Vieira\nRodolfo Bellato (13-4-1) vs Christian Edwards (
+ 9-5-0) · Light Heavyweight · W: Christian Edwards\nElves Brener (17-6-0)
+  vs Josiah Harrell (11-2-0) · Lightweight · W: Elves Brener\nMontel Jack
+ son (16-4-0) vs Ricky Simon (22-8-1) · Bantamweight · W: Montel Jackson\
+ nJohn Castaneda (21-9-1) vs Alatengheili (18-10-2) · Bantamweight · W: A
+ latengheili\nVanessa Demopoulos (11-9-0) vs Yazmin Jauregui (12-2-0) · W 
+ Strawweight · W: Yazmin Jauregui\n\nFull card: https://www.espn.com/mma/f
+ ightcenter/_/id/600061266/league/ufc\nTimes and bouts can change\; this ca
+ lendar refreshes every few hours.
+LOCATION:Meta APEX\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061266/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061266-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20260927T000000Z
+DTEND:20260927T030000Z
 SUMMARY:UFC Fight Night Main Card: Rosas Jr. vs. Barcelos
-DESCRIPTION:Main Card starts Sat Sep 26 2:00 PM PDT\nWatch: Paramount+\n\nR
+DESCRIPTION:Main Card starts Sat Sep 26 5:00 PM PDT\nWatch: Paramount+\n\nR
  aul Rosas Jr. (13-1-0) vs Raoni Barcelos (22-6-0) · Bantamweight · W: Ra
  ul Rosas Jr.\nNorma Dumont (13-4-0) vs Ailin Perez (14-2-0) · W Bantamwei
  ght · W: Ailin Perez\nLuis Hernandez (9-0-0) vs Sedriques Dumas (10-6-0) 
  · Light Heavyweight · W: Luis Hernandez\nMehemmedeli Osmanli (12-2-0) vs
   Ilimbek Akylbek Uulu (11-3-0) · Bantamweight · W: Ilimbek Akylbek Uulu\
  nMelissa Amaya (8-1-0) vs Tina Black (16-4-0) · W Strawweight · W: Tina 
- Black\nBrady Hiestand (10-2-0) vs Rinya Nakamura (10-2-0) · Bantamweight 
- · W: Brady Hiestand\nRodolfo Vieira (12-5-0) vs Robert Bryczek (18-8-0) 
- · Middleweight · W: Rodolfo Vieira\nRodolfo Bellato (13-4-1) vs Christia
- n Edwards (9-5-0) · Light Heavyweight · W: Christian Edwards\nElves Bren
- er (17-6-0) vs Josiah Harrell (11-2-0) · Lightweight · W: Elves Brener\n
- Montel Jackson (16-4-0) vs Ricky Simon (22-8-1) · Bantamweight · W: Mont
- el Jackson\nJohn Castaneda (21-9-1) vs Alatengheili (18-10-2) · Bantamwei
- ght · W: Alatengheili\nVanessa Demopoulos (11-9-0) vs Yazmin Jauregui (12
- -2-0) · W Strawweight · W: Yazmin Jauregui\n\nFull card: https://www.esp
- n.com/mma/fightcenter/_/id/600061266/league/ufc\nTimes and bouts can chang
- e\; this calendar refreshes every few hours.
+ Black\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061266/le
+ ague/ufc\nTimes and bouts can change\; this calendar refreshes every few h
+ ours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061266/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -42,8 +60,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600060739-card@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20260929T230000Z
 DTEND:20260930T020000Z
@@ -63,33 +81,67 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061182-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061182-early@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261003T200000Z
-DTEND:20261003T230000Z
+DTEND:20261003T220000Z
+SUMMARY:UFC 332 Early Prelims: Silva vs. Wang
+DESCRIPTION:Early Prelims starts Sat Oct 3 1:00 PM PDT\nWatch: Paramount+\n
+ \nJohnny Walker (23-10-0) vs Mick Parkin (10-2-0) · Heavyweight · W: Joh
+ nny Walker\nJacobe Smith (13-0-0) vs Bruce Whitehead (8-3-0) · Welterweig
+ ht · W: Jacobe Smith\nRafael Dos Anjos (32-18-0) vs Alexander Hernandez (
+ 19-9-0) · Lightweight · W: Alexander Hernandez\nMarvin Vettori (19-11-1)
+  vs Ismail Naurdiev (26-8-0) · Middleweight · W: Ismail Naurdiev\nCourt 
+ McGee (23-15-0) vs Eric Nolan (9-5-0) · Welterweight · W: Eric Nolan\n\n
+ Full card: https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc\
+ nTimes and bouts can change\; this calendar refreshes every few hours.
+LOCATION:Delta Center\, Salt Lake City\, UT
+URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061182-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261003T220000Z
+DTEND:20261004T000000Z
+SUMMARY:UFC 332 Prelims: Silva vs. Wang
+DESCRIPTION:Prelims starts Sat Oct 3 3:00 PM PDT\nWatch: Paramount+\n\nIman
+ ol Rodriguez (8-1-0) vs Alden Coria (13-4-0) · Flyweight · W: Imanol Rod
+ riguez\nDamian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) · Middleweight 
+ · W: Damian Pinas\nMarcus McGhee (12-2-0) vs Anthony Romero (12-3-0) · F
+ eatherweight · W: Marcus McGhee\nAnthony Wint (9-0-0) vs Lucas Armand (6-
+ 1-0) · Heavyweight · W: Anthony Wint\n\nFull card: https://www.espn.com/
+ mma/fightcenter/_/id/600061182/league/ufc\nTimes and bouts can change\; th
+ is calendar refreshes every few hours.
+LOCATION:Delta Center\, Salt Lake City\, UT
+URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061182-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261004T000000Z
+DTEND:20261004T030000Z
 SUMMARY:UFC 332 Main Card: Silva vs. Wang
-DESCRIPTION:Main Card starts Sat Oct 3 1:00 PM PDT\nWatch: Paramount+\n\nNa
+DESCRIPTION:Main Card starts Sat Oct 3 5:00 PM PDT\nWatch: Paramount+\n\nNa
  talia Silva (21-5-1) vs Wang Cong (10-2-0) · W Flyweight · W: Natalia Si
  lva\nDeiveson Figueiredo (25-8-1) vs Payton Talbott (12-1-0) · Bantamweig
  ht · W: Payton Talbott\nKing Green (36-18-1) vs Esteban Ribovics (17-3-0)
   · Lightweight · W: Esteban Ribovics\nRoberto Soldić (22-4-0) vs Khaos 
  Williams (16-6-0) · Welterweight · W: Roberto Soldić\nAteba Gautier (11
- -2-0) vs Roman Kopylov (16-5-0) · Middleweight · W: Roman Kopylov\nImano
- l Rodriguez (8-1-0) vs Alden Coria (13-4-0) · Flyweight · W: Imanol Rodr
- iguez\nDamian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) · Middleweight ·
-  W: Damian Pinas\nMarcus McGhee (12-2-0) vs Anthony Romero (12-3-0) · Fea
- therweight · W: Marcus McGhee\nAnthony Wint (9-0-0) vs Lucas Armand (6-1-
- 0) · Heavyweight · W: Anthony Wint\nJohnny Walker (23-10-0) vs Mick Park
- in (10-2-0) · Heavyweight · W: Johnny Walker\nJacobe Smith (13-0-0) vs B
- ruce Whitehead (8-3-0) · Welterweight · W: Jacobe Smith\nRafael Dos Anjo
- s (32-18-0) vs Alexander Hernandez (19-9-0) · Lightweight · W: Alexander
-  Hernandez\nMarvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) · Middle
- weight · W: Ismail Naurdiev\nCourt McGee (23-15-0) vs Eric Nolan (9-5-0) 
- · Welterweight · W: Eric Nolan\n\nFull card: https://www.espn.com/mma/fi
- ghtcenter/_/id/600061182/league/ufc\nTimes and bouts can change\; this cal
- endar refreshes every few hours.
+ -2-0) vs Roman Kopylov (16-5-0) · Middleweight · W: Roman Kopylov\n\nFul
+ l card: https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc\nTi
+ mes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Delta Center\, Salt Lake City\, UT
 URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -98,8 +150,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600060740-card@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261006T230000Z
 DTEND:20261007T020000Z
@@ -121,31 +173,48 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061541-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061541-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261010T210000Z
 DTEND:20261011T000000Z
+SUMMARY:UFC Fight Night Prelims: Allen vs. Duncan
+DESCRIPTION:Prelims starts Sat Oct 10 2:00 PM PDT\nWatch: Paramount+\n\nJul
+ ius Walker (8-3-0) vs Gerald Meerschaert (37-23-0) · Light Heavyweight ·
+  W: Julius Walker\nFrancisco Prado (13-5-0) vs Ismael Bonfim (20-8-0) · L
+ ightweight · W: Francisco Prado\nNiko Price (17-11-0) vs Leon Shahbazyan 
+ (12-6-0) · Welterweight · W: Niko Price\nFelipe Franco (11-3-0) vs Brend
+ son Ribeiro (18-11-0) · Light Heavyweight · W: Brendson Ribeiro\nAllen F
+ rye Jr. (7-1-0) vs RJ Harris (6-1-0) · Heavyweight · W: Allen Frye Jr.\n
+ Alice Pereira (8-1-0) vs Daria Zhelezniakova (10-4-0) · W Bantamweight ·
+  W: Alice Pereira\nErnesta Kareckaite (6-2-2) vs Melissa Gatto (9-3-3) · 
+ W Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061
+ 541/league/ufc\nTimes and bouts can change\; this calendar refreshes every
+  few hours.
+LOCATION:Meta APEX\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061541-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261011T000000Z
+DTEND:20261011T030000Z
 SUMMARY:UFC Fight Night Main Card: Allen vs. Duncan
-DESCRIPTION:Main Card starts Sat Oct 10 2:00 PM PDT\nWatch: Paramount+\n\nB
+DESCRIPTION:Main Card starts Sat Oct 10 5:00 PM PDT\nWatch: Paramount+\n\nB
  rendan Allen (28-7-0) vs Christian Leroy Duncan (15-3-0) · Middleweight 
  · W: Brendan Allen\nMatheus Camilo (11-4-0) vs Jai Herbert (15-6-1) · Li
  ghtweight · W: Jai Herbert\nLoopy Godínez (15-6-0) vs Ketlen Souza (17-7
  -0) · W Strawweight · W: Loopy Godínez\nAndre Fili (26-14-0) vs Kai Kam
  aka III (18-9-1) · Featherweight · W: Andre Fili\nMalcolm Wellmaker (10-
- 3-0) vs Otari Tanzilovi (11-2-0) · Bantamweight · W: Otari Tanzilovi\nJu
- lius Walker (8-3-0) vs Gerald Meerschaert (37-23-0) · Light Heavyweight 
- · W: Julius Walker\nFrancisco Prado (13-5-0) vs Ismael Bonfim (20-8-0) ·
-  Lightweight · W: Francisco Prado\nNiko Price (17-11-0) vs Leon Shahbazya
- n (12-6-0) · Welterweight · W: Niko Price\nFelipe Franco (11-3-0) vs Bre
- ndson Ribeiro (18-11-0) · Light Heavyweight · W: Brendson Ribeiro\nAllen
-  Frye Jr. (7-1-0) vs RJ Harris (6-1-0) · Heavyweight · W: Allen Frye Jr.
- \nAlice Pereira (8-1-0) vs Daria Zhelezniakova (10-4-0) · W Bantamweight 
- · W: Alice Pereira\nErnesta Kareckaite (6-2-2) vs Melissa Gatto (9-3-3) 
- · W Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600
- 061541/league/ufc\nTimes and bouts can change\; this calendar refreshes ev
- ery few hours.
+ 3-0) vs Otari Tanzilovi (11-2-0) · Bantamweight · W: Otari Tanzilovi\n\n
+ Full card: https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc\
+ nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -154,8 +223,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600060741-card@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261013T230000Z
 DTEND:20261014T020000Z
@@ -176,14 +245,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600060773-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600060773-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
+SUMMARY:UFC Fight Night Prelims: Buckley vs. Malott
+DESCRIPTION:Prelims starts Sat Oct 17 2:00 PM PDT\nWatch: Paramount+\n\nTan
+ ner Boser (23-11-1) vs Jhonata Diniz (9-3-0) · Heavyweight · W: Tanner B
+ oser\nJulien LeBlanc (10-4-0) vs Nick Galanti (9-1-0) · Middleweight · W
+ : Nick Galanti\nJavad Mahjoub (5-1-0) vs Joel Faglier (7-0-0) · Heavyweig
+ ht · W: Joel Faglier\nKatlyn Cerminara (19-6-0) vs Mackenzie Stiller (6-2
+ -0) · W Flyweight · W: Katlyn Cerminara\nChad Anheliger (13-9-0) vs Stev
+ en Koslow (7-1-0) · Bantamweight · W: Steven Koslow\nMelissa Croden (8-4
+ -0) vs Chelsea Chandler (8-4-0) · W Bantamweight · W: Chelsea Chandler\n
+ Cody Chovancek (9-1-0) vs SuYoung You (17-4-0) · Bantamweight · W: SuYou
+ ng You\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600060773/l
+ eague/ufc\nTimes and bouts can change\; this calendar refreshes every few 
+ hours.
+LOCATION:Rogers Place\, Edmonton\, AB
+URL:https://www.espn.com/mma/fightcenter/_/id/600060773/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600060773-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261018T000000Z
+DTEND:20261018T030000Z
 SUMMARY:UFC Fight Night Main Card: Buckley vs. Malott
-DESCRIPTION:Main Card starts Sat Oct 17 2:00 PM PDT\nWatch: Paramount+\n\nJ
+DESCRIPTION:Main Card starts Sat Oct 17 5:00 PM PDT\nWatch: Paramount+\n\nJ
  oaquin Buckley (21-9-0) vs Mike Malott (15-2-1) · Welterweight · W: Mike
   Malott\nErin Blanchfield (14-3-0) vs Jasmine Jasudavicius (16-4-0) · W F
  lyweight · W: Jasmine Jasudavicius\nKyle Nelson (17-8-1) vs Cristian Pér
@@ -191,17 +286,9 @@ DESCRIPTION:Main Card starts Sat Oct 17 2:00 PM PDT\nWatch: Paramount+\n\nJ
  -11-0) vs Kyle Daukaus (17-6-0) · Middleweight · W: Marc-Andre Barriault
  \nLouis Jourdain (9-4-0) vs Timmy Cuamba (11-4-0) · Bantamweight · W: Ti
  mmy Cuamba\nMandel Nallo (15-4-0) vs Nate Landwehr (18-9-0) · Lightweight
-  · W: Mandel Nallo\nTanner Boser (23-11-1) vs Jhonata Diniz (9-3-0) · He
- avyweight · W: Tanner Boser\nJulien LeBlanc (10-4-0) vs Nick Galanti (9-1
- -0) · Middleweight · W: Nick Galanti\nJavad Mahjoub (5-1-0) vs Joel Fagl
- ier (7-0-0) · Heavyweight · W: Joel Faglier\nKatlyn Cerminara (19-6-0) v
- s Mackenzie Stiller (6-2-0) · W Flyweight · W: Katlyn Cerminara\nChad An
- heliger (13-9-0) vs Steven Koslow (7-1-0) · Bantamweight · W: Steven Kos
- low\nMelissa Croden (8-4-0) vs Chelsea Chandler (8-4-0) · W Bantamweight 
- · W: Chelsea Chandler\nCody Chovancek (9-1-0) vs SuYoung You (17-4-0) · 
- Bantamweight · W: SuYoung You\n\nFull card: https://www.espn.com/mma/figh
- tcenter/_/id/600060773/league/ufc\nTimes and bouts can change\; this calen
- dar refreshes every few hours.
+  · W: Mandel Nallo\n\nFull card: https://www.espn.com/mma/fightcenter/_/i
+ d/600060773/league/ufc\nTimes and bouts can change\; this calendar refresh
+ es every few hours.
 LOCATION:Rogers Place\, Edmonton\, AB
 URL:https://www.espn.com/mma/fightcenter/_/id/600060773/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -209,29 +296,64 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061267-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061267-early@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261024T140000Z
-DTEND:20261024T170000Z
+DTEND:20261024T160000Z
+SUMMARY:UFC 333 Early Prelims: Volkanovski vs. Evloev
+DESCRIPTION:Early Prelims starts Sat Oct 24 7:00 AM PDT\nWatch: Paramount+\
+ n\nColby Thicknesse (9-1-0) vs Asaf Chopurov (11-0-0) · Bantamweight\nAbu
+ bakar Vagaev (25-4-0) vs Jacob Malkoun (10-3-0) · Middleweight\nBolaji Ok
+ i (10-4-0) vs Daniel Santos (14-3-0) · Featherweight\nKody Steele (8-1-0)
+  vs Noah Gugnon (10-2-0) · Lightweight\nIasmin Lucindo (18-6-0) vs Nicoll
+ e Caliari (9-4-0) · W Strawweight\n\nFull card: https://www.espn.com/mma/
+ fightcenter/_/id/600061267/league/ufc\nTimes and bouts can change\; this c
+ alendar refreshes every few hours.
+LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
+URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061267-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:UFC 333 Prelims: Volkanovski vs. Evloev
+DESCRIPTION:Prelims starts Sat Oct 24 9:00 AM PDT\nWatch: Paramount+\n\nAza
+ mat Murzakanov (16-1-0) vs Dominick Reyes (16-5-0) · Light Heavyweight\nN
+ ikita Krylov (31-12-0) vs Abdul-Rakhman Yakhyaev (10-0-0) · Light Heavywe
+ ight\nAbus Magomedov (29-7-1) vs Cam Rowston (15-3-0) · Middleweight\nGra
+ nt Dawson (24-3-1) vs Nurullo Aliev (12-0-0) · Lightweight\n\nFull card: 
+ https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc\nTimes and 
+ bouts can change\; this calendar refreshes every few hours.
+LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
+URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061267-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261024T180000Z
+DTEND:20261024T210000Z
 SUMMARY:UFC 333 Main Card: Volkanovski vs. Evloev
-DESCRIPTION:Main Card starts Sat Oct 24 7:00 AM PDT\nWatch: Paramount+\n\nA
- lexander Volkanovski (28-4-0) vs Movsar Evloev (20-0-0) · Featherweight\n
- Petr Yan (20-5-0) vs Merab Dvalishvili (21-5-0) · Bantamweight\nLone'er K
- avanagh (10-2-0) vs Ramazan Temirov (20-3-0) · Flyweight\nAlexander Volko
- v (40-11-0) vs Rizvan Kuniev (14-3-1) · Heavyweight\nAaron Pico (14-5-0) 
- vs Losene Keita (17-2-0) · Featherweight\nAzamat Murzakanov (16-1-0) vs D
- ominick Reyes (16-5-0) · Light Heavyweight\nNikita Krylov (31-12-0) vs Ab
- dul-Rakhman Yakhyaev (10-0-0) · Light Heavyweight\nAbus Magomedov (29-7-1
- ) vs Cam Rowston (15-3-0) · Middleweight\nGrant Dawson (24-3-1) vs Nurull
- o Aliev (12-0-0) · Lightweight\nColby Thicknesse (9-1-0) vs Asaf Chopurov
-  (11-0-0) · Bantamweight\nAbubakar Vagaev (25-4-0) vs Jacob Malkoun (10-3
- -0) · Middleweight\nBolaji Oki (10-4-0) vs Daniel Santos (14-3-0) · Feat
- herweight\nKody Steele (8-1-0) vs Noah Gugnon (10-2-0) · Lightweight\nIas
- min Lucindo (18-6-0) vs Nicolle Caliari (9-4-0) · W Strawweight\n\nFull c
- ard: https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc\nTimes
-  and bouts can change\; this calendar refreshes every few hours.
+DESCRIPTION:Main Card starts Sat Oct 24 11:00 AM PDT\nWatch: Paramount+\n\n
+ Alexander Volkanovski (28-4-0) vs Movsar Evloev (20-0-0) · Featherweight\
+ nPetr Yan (20-5-0) vs Merab Dvalishvili (21-5-0) · Bantamweight\nLone'er 
+ Kavanagh (10-2-0) vs Ramazan Temirov (20-3-0) · Flyweight\nAlexander Volk
+ ov (40-11-0) vs Rizvan Kuniev (14-3-1) · Heavyweight\nAaron Pico (14-5-0)
+  vs Losene Keita (17-2-0) · Featherweight\n\nFull card: https://www.espn.
+ com/mma/fightcenter/_/id/600061267/league/ufc\nTimes and bouts can change\
+ ; this calendar refreshes every few hours.
 LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
 URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -239,25 +361,43 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061420-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061420-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
+SUMMARY:UFC Fight Night Prelims: Moicano vs. Nolan
+DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nAza
+ mat Bekoev (20-5-0) vs Andre Petroski (13-7-0) · Middleweight\nRodrigo Se
+ zinando (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa 
+ (31-14-0) vs JeongYeong Lee (11-3-0) · Featherweight\nNick Klein (6-3-0) 
+ vs Joe Kropschot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera 
+ Rodriguez (12-2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Li
+ sboa (7-4-0) · W Flyweight\n\nFull card: https://www.espn.com/mma/fightce
+ nter/_/id/600061420/league/ufc\nTimes and bouts can change\; this calendar
+  refreshes every few hours.
+LOCATION:Meta APEX\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061420-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261101T000000Z
+DTEND:20261101T030000Z
 SUMMARY:UFC Fight Night Main Card: Moicano vs. Nolan
-DESCRIPTION:Main Card starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nR
+DESCRIPTION:Main Card starts Sat Oct 31 5:00 PM PDT\nWatch: Paramount+\n\nR
  enato Moicano (21-7-1) vs Tom Nolan (11-1-0) · Lightweight\nOde' Osbourne
   (13-10-0) vs Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs 
  Luana Santos (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs
-  Farman Hasanov (6-0-0) · Welterweight\nAzamat Bekoev (20-5-0) vs Andre P
- etroski (13-7-0) · Middleweight\nRodrigo Sezinando (9-2-0) vs Theodor Ber
- ggren (8-4-0) · Welterweight\nJulian Erosa (31-14-0) vs JeongYeong Lee (1
- 1-3-0) · Featherweight\nNick Klein (6-3-0) vs Joe Kropschot (9-3-0) · Mi
- ddleweight\nTalita Alencar (8-1-1) vs Piera Rodriguez (12-2-0) · W Straww
- eight\nLucia Szabová (12-0-0) vs Tainara Lisboa (7-4-0) · W Flyweight\n\
- nFull card: https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
- \nTimes and bouts can change\; this calendar refreshes every few hours.
+  Farman Hasanov (6-0-0) · Welterweight\n\nFull card: https://www.espn.com
+ /mma/fightcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; t
+ his calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -265,28 +405,46 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061268-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
+SUMMARY:UFC Fight Night Prelims: Bonfim vs. Brady
+DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nDave
+ y Grant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (1
+ 3-3-0) vs Wellington Turman (18-8-0) · Welterweight\nGabriel Lorenço (8-
+ 1-0) vs Alvin Hines (7-2-0) · Heavyweight\nKarine Silva (19-7-0) vs Gabri
+ ella Fernandes (11-4-0) · W Flyweight\nJose Delano (17-3-0) vs Murtazali 
+ Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs Ollie S
+ chmid (4-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Miloš
+ ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henrique (9
+ -1-0) · Welterweight\n\nFull card: https://www.espn.com/mma/fightcenter/_
+ /id/600061268/league/ufc\nTimes and bouts can change\; this calendar refre
+ shes every few hours.
+LOCATION:Meta APEX\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061268-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261108T010000Z
+DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Bonfim vs. Brady
-DESCRIPTION:Main Card starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nGa
+DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nGa
  briel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nTatiana Suar
- ez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nDavey Grant (18-
- 8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (13-3-0) vs We
- llington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) vs Lucas 
- Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-1-0) vs 
- Wes Schultz (9-4-0) · Middleweight\nGabriel Lorenço (8-1-0) vs Alvin Hin
- es (7-2-0) · Heavyweight\nKarine Silva (19-7-0) vs Gabriella Fernandes (1
- 1-4-0) · W Flyweight\nJose Delano (17-3-0) vs Murtazali Magomedov (11-0-0
- ) · Featherweight\nKeiichiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) · 
- Featherweight\nAustin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherw
- eight\nPriscila Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantam
- weight\nJonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
+ ez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nBilly Elekana (1
+ 0-2-0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavi
+ čius (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\nAustin Bashi (14-2-0
+ ) vs Lucas Brennan (11-3-0) · Featherweight\n\nFull card: https://www.esp
+ n.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts can chang
+ e\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -294,27 +452,62 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061400-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061400-early@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261114T220000Z
-DTEND:20261115T010000Z
+DTEND:20261115T000000Z
+SUMMARY:UFC 334 Early Prelims: Gane vs. Hokit
+DESCRIPTION:Early Prelims starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\
+ n\nMacy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAdria
+ n Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nNazim Sadykhov (1
+ 1-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\n\nFull card: https
+ ://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTimes and bouts
+  can change\; this calendar refreshes every few hours.
+LOCATION:Madison Square Garden\, New York\, NY
+URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061400-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+SUMMARY:UFC 334 Prelims: Gane vs. Hokit
+DESCRIPTION:Prelims starts Sat Nov 14 4:00 PM PST\nWatch: Paramount+\n\nSte
+ phen Thompson (17-9-1) vs Charles Radtke (12-5-0) · Welterweight\nDrew Do
+ ber (29-15-0) vs Chris Duncan (15-3-0) · Lightweight\nJim Miller (39-19-0
+ ) vs Terrance McKinney (18-9-0) · Lightweight\nDonte Johnson (9-0-0) vs B
+ aisangur Susurkaev (12-0-0) · Middleweight\n\nFull card: https://www.espn
+ .com/mma/fightcenter/_/id/600061400/league/ufc\nTimes and bouts can change
+ \; this calendar refreshes every few hours.
+LOCATION:Madison Square Garden\, New York\, NY
+URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061400-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261115T020000Z
+DTEND:20261115T050000Z
 SUMMARY:UFC 334 Main Card: Gane vs. Hokit
-DESCRIPTION:Main Card starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\n\nC
+DESCRIPTION:Main Card starts Sat Nov 14 6:00 PM PST\nWatch: Paramount+\n\nC
  iryl Gane (14-2-0) vs Josh Hokit (10-0-0) · Heavyweight\nKayla Harrison (
  19-1-0) vs Amanda Nunes (23-5-0) · W Bantamweight\nCaio Borralho (18-2-0)
   vs Yousri Belgaroui (11-3-0) · Middleweight\nUroš Medić (14-3-0) vs Ke
  vin Holland (29-15-0) · Welterweight\nBilal Hasan (10-0-0) vs Luis Gurule
-  (11-4-0) · Flyweight\nStephen Thompson (17-9-1) vs Charles Radtke (12-5-
- 0) · Welterweight\nDrew Dober (29-15-0) vs Chris Duncan (15-3-0) · Light
- weight\nJim Miller (39-19-0) vs Terrance McKinney (18-9-0) · Lightweight\
- nDonte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) · Middleweight\nMa
- cy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAdrian Ya
- ñez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nNazim Sadykhov (11-3-
- 1) vs Jefferson Nascimento (13-1-0) · Lightweight\n\nFull card: https://w
- ww.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTimes and bouts can
-  change\; this calendar refreshes every few hours.
+  (11-4-0) · Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/
+ _/id/600061400/league/ufc\nTimes and bouts can change\; this calendar refr
+ eshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -322,25 +515,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061665-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
+SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
+DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nJak
+ e Matthews (23-8-0) vs Tahir Abdullayev (20-3-0) · Welterweight\nAleksand
+ re Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nAsu Almabayev
+  (24-3-0) vs Kyoji Horiguchi (36-6-0) · Flyweight\nAmir Albazi (17-3-0) v
+ s Alessandro Costa (17-5-0) · Flyweight\n\nFull card: https://www.espn.co
+ m/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can change\; 
+ this calendar refreshes every few hours.
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061665-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
-DESCRIPTION:Main Card starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nJ
- iří Procházka (32-6-1) vs Navajo Stirling (11-0-0) · Light Heavyweight
- \nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\n
- Dan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nJared Cannon
- ier (18-10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nShamil Gaziev (
- 15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nJake Matthews (23-8-0
- ) vs Tahir Abdullayev (20-3-0) · Welterweight\nAleksandre Topuria (7-1-0)
-  vs Santiago Luna (8-1-0) · Bantamweight\nAsu Almabayev (24-3-0) vs Kyoji
-  Horiguchi (36-6-0) · Flyweight\nAmir Albazi (17-3-0) vs Alessandro Costa
-  (17-5-0) · Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/
- _/id/600061665/league/ufc\nTimes and bouts can change\; this calendar refr
- eshes every few hours.
+DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
+ Jiří Procházka (32-6-1) vs Navajo Stirling (11-0-0) · Light Heavyweigh
+ t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
+ nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nJared Canno
+ nier (18-10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nShamil Gaziev 
+ (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\n\nFull card: https:/
+ /www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts c
+ an change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -348,22 +558,56 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061401-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600061401-early@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20261212T220000Z
-DTEND:20261213T010000Z
+DTEND:20261213T000000Z
+SUMMARY:UFC 335 Early Prelims: Oliveira vs. Lopes
+DESCRIPTION:Early Prelims starts Sat Dec 12 2:00 PM PST\nWatch: Paramount+\
+ n\nBrandon Moreno (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nMayc
+ ee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\nQuentin Pasley 
+ (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\n\nFull card: https://
+ www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts ca
+ n change\; this calendar refreshes every few hours.
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061401-prelims@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:UFC 335 Prelims: Oliveira vs. Lopes
+DESCRIPTION:Prelims starts Sat Dec 12 4:00 PM PST\nWatch: Paramount+\n\nJoe
+  Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\n\nFull card: https:/
+ /www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts c
+ an change\; this calendar refreshes every few hours.
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600061401-main@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
+SEQUENCE:0
+DTSTART:20261213T020000Z
+DTEND:20261213T050000Z
 SUMMARY:UFC 335 Main Card: Oliveira vs. Lopes
-DESCRIPTION:Main Card starts Sat Dec 12 2:00 PM PST\nWatch: Paramount+\n\nC
+DESCRIPTION:Main Card starts Sat Dec 12 6:00 PM PST\nWatch: Paramount+\n\nC
  harles Oliveira (37-11-0) vs Diego Lopes (28-8-0) · Lightweight\nSergei P
- avlovich (21-3-0) vs Alex Pereira (13-4-0) · Heavyweight\nJoe Pyfer (16-3
- -0) vs Bo Nickal (9-1-0) · Middleweight\nBrandon Moreno (24-10-2) vs Char
- les Johnson (20-9-0) · Flyweight\nMaycee Barber (15-3-0) vs Carli Judice 
- (7-2-0) · W Flyweight\nQuentin Pasley (4-0-0) vs Junior Tafa (7-6-0) · L
- ight Heavyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6
- 00061401/league/ufc\nTimes and bouts can change\; this calendar refreshes 
- every few hours.
+ avlovich (21-3-0) vs Alex Pereira (13-4-0) · Heavyweight\n\nFull card: ht
+ tps://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bo
+ uts can change\; this calendar refreshes every few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -371,21 +615,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600062191-main@ufc-calendar
-DTSTAMP:20261024T042038Z
-LAST-MODIFIED:20261024T042038Z
+UID:ufc-600062191-card@ufc-calendar
+DTSTAMP:20261024T042139Z
+LAST-MODIFIED:20261024T042139Z
 SEQUENCE:0
 DTSTART:20270130T220000Z
-DTEND:20270131T010000Z
-SUMMARY:UFC 336 Main Card
-DESCRIPTION:Main Card starts Sat Jan 30 2:00 PM PST\nWatch: Paramount+\n\nT
- BA vs Opponent TBA\nTBA vs Opponent TBA\nTBA vs Opponent TBA\n\nFull card:
-  https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc\nTimes and
-  bouts can change\; this calendar refreshes every few hours.
+DTEND:20270131T020000Z
+SUMMARY:UFC 336 (card TBA)
+DESCRIPTION:Card starts Sat Jan 30 2:00 PM PST\n\nFights not announced yet.
+  This entry fills in as bouts are booked.\n\nFull card: https://www.espn.c
+ om/mma/fightcenter/_/id/600062191/league/ufc\nTimes and bouts can change\;
+  this calendar refreshes every few hours.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
-CATEGORIES:UFC\,Main Card
-STATUS:CONFIRMED
+CATEGORIES:UFC\,Card
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
