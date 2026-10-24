@@ -282,7 +282,7 @@
         },
         "abubakar vagaev vs jacob malkoun": {
           "kind": "early",
-          "line": "Abubakar Vagaev (25-4-0) vs Jacob Malkoun (10-3-0) \u00b7 Middleweight"
+          "line": "Abubakar Vagaev (26-4-0) vs Jacob Malkoun (10-4-0) \u00b7 Middleweight \u00b7 W: Abubakar Vagaev"
         },
         "abus magomedov vs cam rowston": {
           "kind": "prelims",
@@ -306,7 +306,7 @@
         },
         "bolaji oki vs daniel santos": {
           "kind": "early",
-          "line": "Bolaji Oki (10-4-0) vs Daniel Santos (14-3-0) \u00b7 Featherweight"
+          "line": "Bolaji Oki (10-5-0) vs Daniel Santos (15-3-0) \u00b7 Featherweight \u00b7 W: Daniel Santos"
         },
         "grant dawson vs nurullo aliev": {
           "kind": "prelims",
@@ -314,11 +314,11 @@
         },
         "iasmin lucindo vs nicolle caliari": {
           "kind": "early",
-          "line": "Iasmin Lucindo (18-6-0) vs Nicolle Caliari (9-4-0) \u00b7 W Strawweight"
+          "line": "Iasmin Lucindo (19-6-0) vs Nicolle Caliari (9-5-0) \u00b7 W Strawweight \u00b7 W: Iasmin Lucindo"
         },
         "kody steele vs noah gugnon": {
           "kind": "early",
-          "line": "Kody Steele (8-1-0) vs Noah Gugnon (10-2-0) \u00b7 Lightweight"
+          "line": "Kody Steele (9-1-0) vs Noah Gugnon (10-3-0) \u00b7 Lightweight \u00b7 W: Kody Steele"
         },
         "lone'er kavanagh vs ramazan temirov": {
           "kind": "main",
@@ -503,9 +503,17 @@
           "kind": "main",
           "line": "Ode' Osbourne (13-10-0) vs Cody Durden (18-11-1) \u00b7 Flyweight"
         },
+        "dakota hope vs francis marshall": {
+          "kind": "main",
+          "line": "Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight"
+        },
         "farman hasanov vs jean-paul lebosnoyani": {
           "kind": "main",
           "line": "Jean-Paul Lebosnoyani (11-2-0) vs Farman Hasanov (6-0-0) \u00b7 Welterweight"
+        },
+        "jacobe smith vs randy brown": {
+          "kind": "main",
+          "line": "Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) \u00b7 Welterweight"
         },
         "jeongyeong lee vs julian erosa": {
           "kind": "prelims",
@@ -523,6 +531,10 @@
           "kind": "prelims",
           "line": "Lucia Szabov\u00e1 (12-0-0) vs Tainara Lisboa (7-4-0) \u00b7 W Flyweight"
         },
+        "mickey gall vs zach reese": {
+          "kind": "prelims",
+          "line": "Zach Reese (10-4-0) vs Mickey Gall (7-7-0) \u00b7 Middleweight"
+        },
         "piera rodriguez vs talita alencar": {
           "kind": "prelims",
           "line": "Talita Alencar (8-1-1) vs Piera Rodriguez (12-2-0) \u00b7 W Strawweight"
@@ -537,7 +549,11 @@
         }
       },
       "last_start": "2026-11-01T00:00:00+00:00",
-      "log": [],
+      "log": [
+        "Oct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7-0) \u00b7 Middleweight (Prelims)",
+        "Oct 24: Added Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight (Main Card)",
+        "Oct 24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) \u00b7 Welterweight (Main Card)"
+      ],
       "starts": {
         "main": "2026-11-01T00:00:00+00:00",
         "prelims": "2026-10-31T21:00:00+00:00"
@@ -708,9 +724,9 @@
       "seq": 0
     },
     "ufc-600061267-early@ufc-calendar": {
-      "hash": "1253d7b17b18188c492732f9f56233e854eb034d7b201d2a0d7f5b79a1867253",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "ef52bfb002ce700043e8ce56e1807e068253f70db8fee2cc054341d9eab418b4",
+      "modified": "20261024T155531Z",
+      "seq": 1
     },
     "ufc-600061267-main@ufc-calendar": {
       "hash": "939da8833fa0bc99e4839d05de1e8b3510a1d5f9331fddfc3af3725cfb0b4b93",
@@ -763,14 +779,14 @@
       "seq": 0
     },
     "ufc-600061420-main@ufc-calendar": {
-      "hash": "29a6138d00de869dfa8082cc858c0e71d76770a999f558f9c40af2f6fa6a2e7e",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "95d5df162b42ac1be36c59489c7f24aed1b1e1b0c080b565b2ef081346a41158",
+      "modified": "20261024T155531Z",
+      "seq": 1
     },
     "ufc-600061420-prelims@ufc-calendar": {
-      "hash": "e9b548d6ca7970810e50e2d25d5302fb0f9b9373b231546cd2badaf752927b82",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "77abda388d9c606c048c7f2703342464043a636e1e49766109ea372d1c83e5d2",
+      "modified": "20261024T155531Z",
+      "seq": 1
     },
     "ufc-600061541-main@ufc-calendar": {
       "hash": "c23c52b9d555348c97603c871c0ea107d0e577048fecf1f0db535c8b922d8c89",
