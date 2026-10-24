@@ -1,0 +1,620 @@
+{
+  "leagues": [
+    {
+      "slug": "ufc",
+      "calendar": [
+        {
+          "label": "UFC 331",
+          "startDate": "2026-12-06T02:00Z",
+          "endDate": "2026-12-06T07:00Z",
+          "event": {
+            "$ref": "http://sports.core.api.espn.com/v2/sports/mma/leagues/ufc/events/600400?lang=en"
+          }
+        },
+        {
+          "label": "UFC 330: Alpha vs. Bravo",
+          "startDate": "2026-11-15T00:00Z",
+          "event": {
+            "$ref": "http://sports.core.api.espn.com/v2/sports/mma/leagues/ufc/events/600100"
+          }
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "600100",
+      "name": "UFC 330: Alpha vs. Bravo",
+      "date": "2026-11-15T00:00Z",
+      "status": {
+        "type": {
+          "name": "STATUS_SCHEDULED"
+        }
+      },
+      "competitions": [
+        {
+          "id": "401",
+          "date": "2026-11-15T00:00Z",
+          "startDate": "2026-11-15T00:00Z",
+          "matchNumber": 1,
+          "type": {
+            "id": "1",
+            "abbreviation": "Fly",
+            "text": "Flyweight"
+          },
+          "cardSegment": {
+            "id": "Early Prelims",
+            "name": "Early Prelims",
+            "description": "Early Prelims"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Early One"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Early Two"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "402",
+          "date": "2026-11-15T00:00Z",
+          "startDate": "2026-11-15T00:00Z",
+          "matchNumber": 2,
+          "type": {
+            "id": "1",
+            "abbreviation": "Ban",
+            "text": "Bantamweight"
+          },
+          "cardSegment": {
+            "id": "Early Prelims",
+            "name": "Early Prelims",
+            "description": "Early Prelims"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Early Three"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Early Four"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "403",
+          "date": "2026-11-15T01:00Z",
+          "startDate": "2026-11-15T01:00Z",
+          "matchNumber": 3,
+          "type": {
+            "id": "1",
+            "abbreviation": "Lig",
+            "text": "Lightweight"
+          },
+          "cardSegment": {
+            "id": "Prelims",
+            "name": "Prelims",
+            "description": "Prelims"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Prelim One"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Prelim Two"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "404",
+          "date": "2026-11-15T01:00Z",
+          "startDate": "2026-11-15T01:00Z",
+          "matchNumber": 4,
+          "type": {
+            "id": "1",
+            "abbreviation": "Wel",
+            "text": "Welterweight"
+          },
+          "cardSegment": {
+            "id": "Prelims",
+            "name": "Prelims",
+            "description": "Prelims"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Prelim Three"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Prelim Four"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "405",
+          "date": "2026-11-15T03:00Z",
+          "startDate": "2026-11-15T03:00Z",
+          "matchNumber": 5,
+          "type": {
+            "id": "1",
+            "abbreviation": "Mid",
+            "text": "Middleweight"
+          },
+          "cardSegment": {
+            "id": "Main Card",
+            "name": "Main Card",
+            "description": "Main Card"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Main One"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Main Two"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "406",
+          "date": "2026-11-15T03:00Z",
+          "startDate": "2026-11-15T03:00Z",
+          "matchNumber": 6,
+          "type": {
+            "id": "1",
+            "abbreviation": "Hea",
+            "text": "Heavyweight"
+          },
+          "cardSegment": {
+            "id": "Main Card",
+            "name": "Main Card",
+            "description": "Main Card"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Alpha"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Bravo"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "600200",
+      "name": "UFC Fight Night: Charlie vs. Delta",
+      "date": "2026-11-22T21:00Z",
+      "competitions": [
+        {
+          "id": "401",
+          "date": "2026-11-22T21:00Z",
+          "startDate": "2026-11-22T21:00Z",
+          "matchNumber": 1,
+          "type": {
+            "id": "1",
+            "abbreviation": "Fea",
+            "text": "Featherweight"
+          },
+          "cardSegment": {
+            "id": "p1",
+            "name": "prelims1"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "FN One"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "FN Two"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "402",
+          "date": "2026-11-23T00:00Z",
+          "startDate": "2026-11-23T00:00Z",
+          "matchNumber": 2,
+          "type": {
+            "id": "1",
+            "abbreviation": "Lig",
+            "text": "Lightweight"
+          },
+          "cardSegment": {
+            "id": "m",
+            "name": "main"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Charlie"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Delta"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "600300",
+      "name": "Dana White's Contender Series: Week 2",
+      "date": "2026-11-11T00:00Z",
+      "competitions": [
+        {
+          "id": "401",
+          "date": "2026-11-11T00:00Z",
+          "startDate": "2026-11-11T00:00Z",
+          "matchNumber": 1,
+          "type": {
+            "id": "1",
+            "abbreviation": "Wel",
+            "text": "Welterweight"
+          },
+          "cardSegment": {
+            "id": "Main Card",
+            "name": "Main Card",
+            "description": "Main Card"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Hopeful One"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Hopeful Two"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "402",
+          "date": "2026-11-11T00:00Z",
+          "startDate": "2026-11-11T00:00Z",
+          "matchNumber": 2,
+          "type": {
+            "id": "1",
+            "abbreviation": "Lig",
+            "text": "Lightweight"
+          },
+          "cardSegment": {
+            "id": "Main Card",
+            "name": "Main Card",
+            "description": "Main Card"
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ESPN+"
+              ]
+            }
+          ],
+          "venue": {
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            }
+          },
+          "competitors": [
+            {
+              "order": 1,
+              "winner": false,
+              "athlete": {
+                "displayName": "Hopeful Three"
+              },
+              "records": [
+                {
+                  "summary": "10-2"
+                }
+              ]
+            },
+            {
+              "order": 2,
+              "winner": false,
+              "athlete": {
+                "displayName": "Hopeful Four"
+              },
+              "records": [
+                {
+                  "summary": "9-3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

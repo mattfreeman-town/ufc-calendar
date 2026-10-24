@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UFC Calendar</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 34rem; margin: 3rem auto; padding: 0 1rem; }
+  a.button { display: inline-block; padding: .6rem 1rem; border-radius: .4rem; background: #c8102e; color: #fff; text-decoration: none; }
+  code { word-break: break-all; }
+</style>
+</head>
+<body>
+<h1>UFC Calendar</h1>
+<p>Every UFC event and Dana White's Contender Series night, split into Early Prelims, Prelims and Main Card. Fights fill in and update as they are announced.</p>
+<p><a class="button" id="subscribe" href="ufc.ics">Subscribe</a></p>
+<p>Or paste this URL into your calendar app's "subscribe" option:<br><code id="url">ufc.ics</code></p>
+<script>
+  const url = new URL("ufc.ics", location.href);
+  document.getElementById("url").textContent = url.href;
+  document.getElementById("subscribe").href = url.href.replace(/^https?:/, "webcal:");
+</script>
+</body>
+</html>
