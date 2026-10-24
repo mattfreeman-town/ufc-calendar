@@ -1,0 +1,722 @@
+{
+  "events": {
+    "600060739": {
+      "bouts": {
+        "adama diop vs zaurbek sabanov": {
+          "kind": "card",
+          "line": "Adama Diop (7-1-0) vs Zaurbek Sabanov (4-1-0) \u00b7 Heavyweight \u00b7 W: Adama Diop"
+        },
+        "aieza bertolso vs camila reynoso": {
+          "kind": "card",
+          "line": "Aieza Bertolso (8-0-0) vs Camila Reynoso (9-2-0) \u00b7 W Strawweight \u00b7 W: Aieza Bertolso"
+        },
+        "george staines vs loai abushaar": {
+          "kind": "card",
+          "line": "Loai Abushaar (7-2-0) vs George Staines (9-0-0) \u00b7 Lightweight \u00b7 W: George Staines"
+        },
+        "ian escuza vs luca borando": {
+          "kind": "card",
+          "line": "Ian Escuza (8-0-0) vs Luca Borando (9-2-0) \u00b7 Featherweight \u00b7 W: Ian Escuza"
+        }
+      },
+      "last_start": "2026-09-29T23:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2026-09-29T23:00:00+00:00"
+      }
+    },
+    "600060740": {
+      "bouts": {
+        "alexander chavez vs roque concei\u00e7\u00e3o": {
+          "kind": "card",
+          "line": "Roque Concei\u00e7\u00e3o (12-3-0) vs Alexander Chavez (9-1-0) \u00b7 Flyweight \u00b7 W: Roque Concei\u00e7\u00e3o"
+        },
+        "alivia bierley vs summer onley": {
+          "kind": "card",
+          "line": "Summer Onley (6-1-0) vs Alivia Bierley (6-1-0) \u00b7 W Bantamweight \u00b7 W: Alivia Bierley"
+        },
+        "mateus soares vs ryuho miyaguchi": {
+          "kind": "card",
+          "line": "Ryuho Miyaguchi (7-2-0) vs Mateus Soares (12-2-0) \u00b7 Bantamweight \u00b7 W: Mateus Soares"
+        },
+        "nell ariano vs preston lagrange": {
+          "kind": "card",
+          "line": "Preston LaGrange (7-1-0) vs Nell Ariano (6-1-0) \u00b7 Light Heavyweight \u00b7 W: Preston LaGrange"
+        },
+        "ozzy martin vs salhahuddin everett": {
+          "kind": "card",
+          "line": "Salhahuddin Everett (5-0-0) vs Ozzy Martin (4-1-0) \u00b7 Welterweight \u00b7 W: Salhahuddin Everett"
+        }
+      },
+      "last_start": "2026-10-06T23:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2026-10-06T23:00:00+00:00"
+      }
+    },
+    "600060741": {
+      "bouts": {
+        "aline pereira vs smilla sundell": {
+          "kind": "card",
+          "line": "Smilla Sundell (3-0-0) vs Aline Pereira (3-3-0) \u00b7 W Bantamweight \u00b7 W: Smilla Sundell"
+        },
+        "davi cabral vs douglas da lapa": {
+          "kind": "card",
+          "line": "Douglas da Lapa (7-0-0) vs Davi Cabral (7-1-0) \u00b7 Middleweight \u00b7 W: Douglas da Lapa"
+        },
+        "erick visconde vs ilias bulaid": {
+          "kind": "card",
+          "line": "Ilias Bulaid (9-1-0) vs Erick Visconde (18-3-0) \u00b7 Featherweight \u00b7 W: Erick Visconde"
+        },
+        "greg foster vs jason asher": {
+          "kind": "card",
+          "line": "Jason Asher (5-1-0) vs Greg Foster (9-1-0) \u00b7 Lightweight \u00b7 W: Greg Foster"
+        },
+        "luis francischinelli vs will rentz": {
+          "kind": "card",
+          "line": "Will Rentz (8-3-0) vs Luis Francischinelli (7-1-0) \u00b7 Welterweight \u00b7 W: Luis Francischinelli"
+        }
+      },
+      "last_start": "2026-10-13T23:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2026-10-13T23:00:00+00:00"
+      }
+    },
+    "600060773": {
+      "bouts": {
+        "chad anheliger vs steven koslow": {
+          "kind": "main",
+          "line": "Chad Anheliger (13-9-0) vs Steven Koslow (7-1-0) \u00b7 Bantamweight \u00b7 W: Steven Koslow"
+        },
+        "chelsea chandler vs melissa croden": {
+          "kind": "main",
+          "line": "Melissa Croden (8-4-0) vs Chelsea Chandler (8-4-0) \u00b7 W Bantamweight \u00b7 W: Chelsea Chandler"
+        },
+        "cody chovancek vs suyoung you": {
+          "kind": "main",
+          "line": "Cody Chovancek (9-1-0) vs SuYoung You (17-4-0) \u00b7 Bantamweight \u00b7 W: SuYoung You"
+        },
+        "cristian p\u00e9rez vs kyle nelson": {
+          "kind": "main",
+          "line": "Kyle Nelson (17-8-1) vs Cristian P\u00e9rez (16-2-0) \u00b7 Lightweight \u00b7 W: Cristian P\u00e9rez"
+        },
+        "erin blanchfield vs jasmine jasudavicius": {
+          "kind": "main",
+          "line": "Erin Blanchfield (14-3-0) vs Jasmine Jasudavicius (16-4-0) \u00b7 W Flyweight \u00b7 W: Jasmine Jasudavicius"
+        },
+        "javad mahjoub vs joel faglier": {
+          "kind": "main",
+          "line": "Javad Mahjoub (5-1-0) vs Joel Faglier (7-0-0) \u00b7 Heavyweight \u00b7 W: Joel Faglier"
+        },
+        "jhonata diniz vs tanner boser": {
+          "kind": "main",
+          "line": "Tanner Boser (23-11-1) vs Jhonata Diniz (9-3-0) \u00b7 Heavyweight \u00b7 W: Tanner Boser"
+        },
+        "joaquin buckley vs mike malott": {
+          "kind": "main",
+          "line": "Joaquin Buckley (21-9-0) vs Mike Malott (15-2-1) \u00b7 Welterweight \u00b7 W: Mike Malott"
+        },
+        "julien leblanc vs nick galanti": {
+          "kind": "main",
+          "line": "Julien LeBlanc (10-4-0) vs Nick Galanti (9-1-0) \u00b7 Middleweight \u00b7 W: Nick Galanti"
+        },
+        "katlyn cerminara vs mackenzie stiller": {
+          "kind": "main",
+          "line": "Katlyn Cerminara (19-6-0) vs Mackenzie Stiller (6-2-0) \u00b7 W Flyweight \u00b7 W: Katlyn Cerminara"
+        },
+        "kyle daukaus vs marc-andre barriault": {
+          "kind": "main",
+          "line": "Marc-Andre Barriault (18-11-0) vs Kyle Daukaus (17-6-0) \u00b7 Middleweight \u00b7 W: Marc-Andre Barriault"
+        },
+        "louis jourdain vs timmy cuamba": {
+          "kind": "main",
+          "line": "Louis Jourdain (9-4-0) vs Timmy Cuamba (11-4-0) \u00b7 Bantamweight \u00b7 W: Timmy Cuamba"
+        },
+        "mandel nallo vs nate landwehr": {
+          "kind": "main",
+          "line": "Mandel Nallo (15-4-0) vs Nate Landwehr (18-9-0) \u00b7 Lightweight \u00b7 W: Mandel Nallo"
+        }
+      },
+      "last_start": "2026-10-17T21:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-10-17T21:00:00+00:00"
+      }
+    },
+    "600061182": {
+      "bouts": {
+        "alden coria vs imanol rodriguez": {
+          "kind": "main",
+          "line": "Imanol Rodriguez (8-1-0) vs Alden Coria (13-4-0) \u00b7 Flyweight \u00b7 W: Imanol Rodriguez"
+        },
+        "alexander hernandez vs rafael dos anjos": {
+          "kind": "main",
+          "line": "Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) \u00b7 Lightweight \u00b7 W: Alexander Hernandez"
+        },
+        "andrey pulyaev vs damian pinas": {
+          "kind": "main",
+          "line": "Damian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) \u00b7 Middleweight \u00b7 W: Damian Pinas"
+        },
+        "anthony romero vs marcus mcghee": {
+          "kind": "main",
+          "line": "Marcus McGhee (12-2-0) vs Anthony Romero (12-3-0) \u00b7 Featherweight \u00b7 W: Marcus McGhee"
+        },
+        "anthony wint vs lucas armand": {
+          "kind": "main",
+          "line": "Anthony Wint (9-0-0) vs Lucas Armand (6-1-0) \u00b7 Heavyweight \u00b7 W: Anthony Wint"
+        },
+        "ateba gautier vs roman kopylov": {
+          "kind": "main",
+          "line": "Ateba Gautier (11-2-0) vs Roman Kopylov (16-5-0) \u00b7 Middleweight \u00b7 W: Roman Kopylov"
+        },
+        "bruce whitehead vs jacobe smith": {
+          "kind": "main",
+          "line": "Jacobe Smith (13-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith"
+        },
+        "court mcgee vs eric nolan": {
+          "kind": "main",
+          "line": "Court McGee (23-15-0) vs Eric Nolan (9-5-0) \u00b7 Welterweight \u00b7 W: Eric Nolan"
+        },
+        "deiveson figueiredo vs payton talbott": {
+          "kind": "main",
+          "line": "Deiveson Figueiredo (25-8-1) vs Payton Talbott (12-1-0) \u00b7 Bantamweight \u00b7 W: Payton Talbott"
+        },
+        "esteban ribovics vs king green": {
+          "kind": "main",
+          "line": "King Green (36-18-1) vs Esteban Ribovics (17-3-0) \u00b7 Lightweight \u00b7 W: Esteban Ribovics"
+        },
+        "ismail naurdiev vs marvin vettori": {
+          "kind": "main",
+          "line": "Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) \u00b7 Middleweight \u00b7 W: Ismail Naurdiev"
+        },
+        "johnny walker vs mick parkin": {
+          "kind": "main",
+          "line": "Johnny Walker (23-10-0) vs Mick Parkin (10-2-0) \u00b7 Heavyweight \u00b7 W: Johnny Walker"
+        },
+        "khaos williams vs roberto soldi\u0107": {
+          "kind": "main",
+          "line": "Roberto Soldi\u0107 (22-4-0) vs Khaos Williams (16-6-0) \u00b7 Welterweight \u00b7 W: Roberto Soldi\u0107"
+        },
+        "natalia silva vs wang cong": {
+          "kind": "main",
+          "line": "Natalia Silva (21-5-1) vs Wang Cong (10-2-0) \u00b7 W Flyweight \u00b7 W: Natalia Silva"
+        }
+      },
+      "last_start": "2026-10-03T20:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-10-03T20:00:00+00:00"
+      }
+    },
+    "600061266": {
+      "bouts": {
+        "ailin perez vs norma dumont": {
+          "kind": "main",
+          "line": "Norma Dumont (13-4-0) vs Ailin Perez (14-2-0) \u00b7 W Bantamweight \u00b7 W: Ailin Perez"
+        },
+        "alatengheili vs john castaneda": {
+          "kind": "main",
+          "line": "John Castaneda (21-9-1) vs Alatengheili (18-10-2) \u00b7 Bantamweight \u00b7 W: Alatengheili"
+        },
+        "brady hiestand vs rinya nakamura": {
+          "kind": "main",
+          "line": "Brady Hiestand (10-2-0) vs Rinya Nakamura (10-2-0) \u00b7 Bantamweight \u00b7 W: Brady Hiestand"
+        },
+        "christian edwards vs rodolfo bellato": {
+          "kind": "main",
+          "line": "Rodolfo Bellato (13-4-1) vs Christian Edwards (9-5-0) \u00b7 Light Heavyweight \u00b7 W: Christian Edwards"
+        },
+        "elves brener vs josiah harrell": {
+          "kind": "main",
+          "line": "Elves Brener (17-6-0) vs Josiah Harrell (11-2-0) \u00b7 Lightweight \u00b7 W: Elves Brener"
+        },
+        "ilimbek akylbek uulu vs mehemmedeli osmanli": {
+          "kind": "main",
+          "line": "Mehemmedeli Osmanli (12-2-0) vs Ilimbek Akylbek Uulu (11-3-0) \u00b7 Bantamweight \u00b7 W: Ilimbek Akylbek Uulu"
+        },
+        "luis hernandez vs sedriques dumas": {
+          "kind": "main",
+          "line": "Luis Hernandez (9-0-0) vs Sedriques Dumas (10-6-0) \u00b7 Light Heavyweight \u00b7 W: Luis Hernandez"
+        },
+        "melissa amaya vs tina black": {
+          "kind": "main",
+          "line": "Melissa Amaya (8-1-0) vs Tina Black (16-4-0) \u00b7 W Strawweight \u00b7 W: Tina Black"
+        },
+        "montel jackson vs ricky simon": {
+          "kind": "main",
+          "line": "Montel Jackson (16-4-0) vs Ricky Simon (22-8-1) \u00b7 Bantamweight \u00b7 W: Montel Jackson"
+        },
+        "raoni barcelos vs raul rosas jr.": {
+          "kind": "main",
+          "line": "Raul Rosas Jr. (13-1-0) vs Raoni Barcelos (22-6-0) \u00b7 Bantamweight \u00b7 W: Raul Rosas Jr."
+        },
+        "robert bryczek vs rodolfo vieira": {
+          "kind": "main",
+          "line": "Rodolfo Vieira (12-5-0) vs Robert Bryczek (18-8-0) \u00b7 Middleweight \u00b7 W: Rodolfo Vieira"
+        },
+        "vanessa demopoulos vs yazmin jauregui": {
+          "kind": "main",
+          "line": "Vanessa Demopoulos (11-9-0) vs Yazmin Jauregui (12-2-0) \u00b7 W Strawweight \u00b7 W: Yazmin Jauregui"
+        }
+      },
+      "last_start": "2026-09-26T21:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-09-26T21:00:00+00:00"
+      }
+    },
+    "600061267": {
+      "bouts": {
+        "aaron pico vs losene keita": {
+          "kind": "main",
+          "line": "Aaron Pico (14-5-0) vs Losene Keita (17-2-0) \u00b7 Featherweight"
+        },
+        "abdul-rakhman yakhyaev vs nikita krylov": {
+          "kind": "main",
+          "line": "Nikita Krylov (31-12-0) vs Abdul-Rakhman Yakhyaev (10-0-0) \u00b7 Light Heavyweight"
+        },
+        "abubakar vagaev vs jacob malkoun": {
+          "kind": "main",
+          "line": "Abubakar Vagaev (25-4-0) vs Jacob Malkoun (10-3-0) \u00b7 Middleweight"
+        },
+        "abus magomedov vs cam rowston": {
+          "kind": "main",
+          "line": "Abus Magomedov (29-7-1) vs Cam Rowston (15-3-0) \u00b7 Middleweight"
+        },
+        "alexander volkanovski vs movsar evloev": {
+          "kind": "main",
+          "line": "Alexander Volkanovski (28-4-0) vs Movsar Evloev (20-0-0) \u00b7 Featherweight"
+        },
+        "alexander volkov vs rizvan kuniev": {
+          "kind": "main",
+          "line": "Alexander Volkov (40-11-0) vs Rizvan Kuniev (14-3-1) \u00b7 Heavyweight"
+        },
+        "asaf chopurov vs colby thicknesse": {
+          "kind": "main",
+          "line": "Colby Thicknesse (9-1-0) vs Asaf Chopurov (11-0-0) \u00b7 Bantamweight"
+        },
+        "azamat murzakanov vs dominick reyes": {
+          "kind": "main",
+          "line": "Azamat Murzakanov (16-1-0) vs Dominick Reyes (16-5-0) \u00b7 Light Heavyweight"
+        },
+        "bolaji oki vs daniel santos": {
+          "kind": "main",
+          "line": "Bolaji Oki (10-4-0) vs Daniel Santos (14-3-0) \u00b7 Featherweight"
+        },
+        "grant dawson vs nurullo aliev": {
+          "kind": "main",
+          "line": "Grant Dawson (24-3-1) vs Nurullo Aliev (12-0-0) \u00b7 Lightweight"
+        },
+        "iasmin lucindo vs nicolle caliari": {
+          "kind": "main",
+          "line": "Iasmin Lucindo (18-6-0) vs Nicolle Caliari (9-4-0) \u00b7 W Strawweight"
+        },
+        "kody steele vs noah gugnon": {
+          "kind": "main",
+          "line": "Kody Steele (8-1-0) vs Noah Gugnon (10-2-0) \u00b7 Lightweight"
+        },
+        "lone'er kavanagh vs ramazan temirov": {
+          "kind": "main",
+          "line": "Lone'er Kavanagh (10-2-0) vs Ramazan Temirov (20-3-0) \u00b7 Flyweight"
+        },
+        "merab dvalishvili vs petr yan": {
+          "kind": "main",
+          "line": "Petr Yan (20-5-0) vs Merab Dvalishvili (21-5-0) \u00b7 Bantamweight"
+        }
+      },
+      "last_start": "2026-10-24T14:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-10-24T14:00:00+00:00"
+      }
+    },
+    "600061268": {
+      "bouts": {
+        "alvin hines vs gabriel loren\u00e7o": {
+          "kind": "main",
+          "line": "Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight"
+        },
+        "austin bashi vs lucas brennan": {
+          "kind": "main",
+          "line": "Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight"
+        },
+        "billy elekana vs lucas fernando": {
+          "kind": "main",
+          "line": "Billy Elekana (10-2-0) vs Lucas Fernando (14-3-0) \u00b7 Light Heavyweight"
+        },
+        "davey grant vs elijah smith": {
+          "kind": "main",
+          "line": "Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight"
+        },
+        "gabriel bonfim vs sean brady": {
+          "kind": "main",
+          "line": "Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight"
+        },
+        "gabriella fernandes vs karine silva": {
+          "kind": "main",
+          "line": "Karine Silva (19-7-0) vs Gabriella Fernandes (11-4-0) \u00b7 W Flyweight"
+        },
+        "jonny parsons vs jose henrique": {
+          "kind": "main",
+          "line": "Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) \u00b7 Welterweight"
+        },
+        "jose delano vs murtazali magomedov": {
+          "kind": "main",
+          "line": "Jose Delano (17-3-0) vs Murtazali Magomedov (11-0-0) \u00b7 Featherweight"
+        },
+        "keiichiro nakamura vs ollie schmid": {
+          "kind": "main",
+          "line": "Keiichiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) \u00b7 Featherweight"
+        },
+        "mantas kondratavi\u010dius vs wes schultz": {
+          "kind": "main",
+          "line": "Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight"
+        },
+        "nina milo\u0161evi\u0107 vs priscila cachoeira": {
+          "kind": "main",
+          "line": "Priscila Cachoeira (13-9-0) vs Nina Milo\u0161evi\u0107 (9-1-0) \u00b7 W Bantamweight"
+        },
+        "seokhyeon ko vs wellington turman": {
+          "kind": "main",
+          "line": "Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight"
+        },
+        "tatiana suarez vs virna jandiroba": {
+          "kind": "main",
+          "line": "Tatiana Suarez (13-1-0) vs Virna Jandiroba (23-4-0) \u00b7 W Strawweight"
+        }
+      },
+      "last_start": "2026-11-07T22:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-11-07T22:00:00+00:00"
+      }
+    },
+    "600061400": {
+      "bouts": {
+        "adrian ya\u00f1ez vs juan diaz": {
+          "kind": "main",
+          "line": "Adrian Ya\u00f1ez (18-6-1) vs Juan Diaz (16-1-1) \u00b7 Bantamweight"
+        },
+        "amanda nunes vs kayla harrison": {
+          "kind": "main",
+          "line": "Kayla Harrison (19-1-0) vs Amanda Nunes (23-5-0) \u00b7 W Bantamweight"
+        },
+        "baisangur susurkaev vs donte johnson": {
+          "kind": "main",
+          "line": "Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight"
+        },
+        "bia mesquita vs macy chiasson": {
+          "kind": "main",
+          "line": "Macy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) \u00b7 W Bantamweight"
+        },
+        "bilal hasan vs luis gurule": {
+          "kind": "main",
+          "line": "Bilal Hasan (10-0-0) vs Luis Gurule (11-4-0) \u00b7 Flyweight"
+        },
+        "caio borralho vs yousri belgaroui": {
+          "kind": "main",
+          "line": "Caio Borralho (18-2-0) vs Yousri Belgaroui (11-3-0) \u00b7 Middleweight"
+        },
+        "charles radtke vs stephen thompson": {
+          "kind": "main",
+          "line": "Stephen Thompson (17-9-1) vs Charles Radtke (12-5-0) \u00b7 Welterweight"
+        },
+        "chris duncan vs drew dober": {
+          "kind": "main",
+          "line": "Drew Dober (29-15-0) vs Chris Duncan (15-3-0) \u00b7 Lightweight"
+        },
+        "ciryl gane vs josh hokit": {
+          "kind": "main",
+          "line": "Ciryl Gane (14-2-0) vs Josh Hokit (10-0-0) \u00b7 Heavyweight"
+        },
+        "jefferson nascimento vs nazim sadykhov": {
+          "kind": "main",
+          "line": "Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) \u00b7 Lightweight"
+        },
+        "jim miller vs terrance mckinney": {
+          "kind": "main",
+          "line": "Jim Miller (39-19-0) vs Terrance McKinney (18-9-0) \u00b7 Lightweight"
+        },
+        "kevin holland vs uro\u0161 medi\u0107": {
+          "kind": "main",
+          "line": "Uro\u0161 Medi\u0107 (14-3-0) vs Kevin Holland (29-15-0) \u00b7 Welterweight"
+        }
+      },
+      "last_start": "2026-11-14T22:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-11-14T22:00:00+00:00"
+      }
+    },
+    "600061401": {
+      "bouts": {
+        "alex pereira vs sergei pavlovich": {
+          "kind": "main",
+          "line": "Sergei Pavlovich (21-3-0) vs Alex Pereira (13-4-0) \u00b7 Heavyweight"
+        },
+        "bo nickal vs joe pyfer": {
+          "kind": "main",
+          "line": "Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
+        },
+        "brandon moreno vs charles johnson": {
+          "kind": "main",
+          "line": "Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
+        },
+        "carli judice vs maycee barber": {
+          "kind": "main",
+          "line": "Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight"
+        },
+        "charles oliveira vs diego lopes": {
+          "kind": "main",
+          "line": "Charles Oliveira (37-11-0) vs Diego Lopes (28-8-0) \u00b7 Lightweight"
+        },
+        "junior tafa vs quentin pasley": {
+          "kind": "main",
+          "line": "Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight"
+        }
+      },
+      "last_start": "2026-12-12T22:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-12-12T22:00:00+00:00"
+      }
+    },
+    "600061420": {
+      "bouts": {
+        "andre petroski vs azamat bekoev": {
+          "kind": "main",
+          "line": "Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
+        },
+        "cody durden vs ode' osbourne": {
+          "kind": "main",
+          "line": "Ode' Osbourne (13-10-0) vs Cody Durden (18-11-1) \u00b7 Flyweight"
+        },
+        "farman hasanov vs jean-paul lebosnoyani": {
+          "kind": "main",
+          "line": "Jean-Paul Lebosnoyani (11-2-0) vs Farman Hasanov (6-0-0) \u00b7 Welterweight"
+        },
+        "jeongyeong lee vs julian erosa": {
+          "kind": "main",
+          "line": "Julian Erosa (31-14-0) vs JeongYeong Lee (11-3-0) \u00b7 Featherweight"
+        },
+        "joe kropschot vs nick klein": {
+          "kind": "main",
+          "line": "Nick Klein (6-3-0) vs Joe Kropschot (9-3-0) \u00b7 Middleweight"
+        },
+        "luana santos vs yana santos": {
+          "kind": "main",
+          "line": "Yana Santos (17-8-0) vs Luana Santos (11-2-0) \u00b7 W Bantamweight"
+        },
+        "lucia szabov\u00e1 vs tainara lisboa": {
+          "kind": "main",
+          "line": "Lucia Szabov\u00e1 (12-0-0) vs Tainara Lisboa (7-4-0) \u00b7 W Flyweight"
+        },
+        "piera rodriguez vs talita alencar": {
+          "kind": "main",
+          "line": "Talita Alencar (8-1-1) vs Piera Rodriguez (12-2-0) \u00b7 W Strawweight"
+        },
+        "renato moicano vs tom nolan": {
+          "kind": "main",
+          "line": "Renato Moicano (21-7-1) vs Tom Nolan (11-1-0) \u00b7 Lightweight"
+        },
+        "rodrigo sezinando vs theodor berggren": {
+          "kind": "main",
+          "line": "Rodrigo Sezinando (9-2-0) vs Theodor Berggren (8-4-0) \u00b7 Welterweight"
+        }
+      },
+      "last_start": "2026-10-31T21:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-10-31T21:00:00+00:00"
+      }
+    },
+    "600061541": {
+      "bouts": {
+        "alice pereira vs daria zhelezniakova": {
+          "kind": "main",
+          "line": "Alice Pereira (8-1-0) vs Daria Zhelezniakova (10-4-0) \u00b7 W Bantamweight \u00b7 W: Alice Pereira"
+        },
+        "allen frye jr. vs rj harris": {
+          "kind": "main",
+          "line": "Allen Frye Jr. (7-1-0) vs RJ Harris (6-1-0) \u00b7 Heavyweight \u00b7 W: Allen Frye Jr."
+        },
+        "andre fili vs kai kamaka iii": {
+          "kind": "main",
+          "line": "Andre Fili (26-14-0) vs Kai Kamaka III (18-9-1) \u00b7 Featherweight \u00b7 W: Andre Fili"
+        },
+        "brendan allen vs christian leroy duncan": {
+          "kind": "main",
+          "line": "Brendan Allen (28-7-0) vs Christian Leroy Duncan (15-3-0) \u00b7 Middleweight \u00b7 W: Brendan Allen"
+        },
+        "brendson ribeiro vs felipe franco": {
+          "kind": "main",
+          "line": "Felipe Franco (11-3-0) vs Brendson Ribeiro (18-11-0) \u00b7 Light Heavyweight \u00b7 W: Brendson Ribeiro"
+        },
+        "ernesta kareckaite vs melissa gatto": {
+          "kind": "main",
+          "line": "Ernesta Kareckaite (6-2-2) vs Melissa Gatto (9-3-3) \u00b7 W Flyweight"
+        },
+        "francisco prado vs ismael bonfim": {
+          "kind": "main",
+          "line": "Francisco Prado (13-5-0) vs Ismael Bonfim (20-8-0) \u00b7 Lightweight \u00b7 W: Francisco Prado"
+        },
+        "gerald meerschaert vs julius walker": {
+          "kind": "main",
+          "line": "Julius Walker (8-3-0) vs Gerald Meerschaert (37-23-0) \u00b7 Light Heavyweight \u00b7 W: Julius Walker"
+        },
+        "jai herbert vs matheus camilo": {
+          "kind": "main",
+          "line": "Matheus Camilo (11-4-0) vs Jai Herbert (15-6-1) \u00b7 Lightweight \u00b7 W: Jai Herbert"
+        },
+        "ketlen souza vs loopy god\u00ednez": {
+          "kind": "main",
+          "line": "Loopy God\u00ednez (15-6-0) vs Ketlen Souza (17-7-0) \u00b7 W Strawweight \u00b7 W: Loopy God\u00ednez"
+        },
+        "leon shahbazyan vs niko price": {
+          "kind": "main",
+          "line": "Niko Price (17-11-0) vs Leon Shahbazyan (12-6-0) \u00b7 Welterweight \u00b7 W: Niko Price"
+        },
+        "malcolm wellmaker vs otari tanzilovi": {
+          "kind": "main",
+          "line": "Malcolm Wellmaker (10-3-0) vs Otari Tanzilovi (11-2-0) \u00b7 Bantamweight \u00b7 W: Otari Tanzilovi"
+        }
+      },
+      "last_start": "2026-10-10T21:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-10-10T21:00:00+00:00"
+      }
+    },
+    "600061665": {
+      "bouts": {
+        "aleksandre topuria vs santiago luna": {
+          "kind": "main",
+          "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        },
+        "alessandro costa vs amir albazi": {
+          "kind": "main",
+          "line": "Amir Albazi (17-3-0) vs Alessandro Costa (17-5-0) \u00b7 Flyweight"
+        },
+        "aljamain sterling vs kevin vallejos": {
+          "kind": "main",
+          "line": "Aljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) \u00b7 Featherweight"
+        },
+        "asu almabayev vs kyoji horiguchi": {
+          "kind": "main",
+          "line": "Asu Almabayev (24-3-0) vs Kyoji Horiguchi (36-6-0) \u00b7 Flyweight"
+        },
+        "brian ortega vs dan hooker": {
+          "kind": "main",
+          "line": "Dan Hooker (24-15-0) vs Brian Ortega (16-5-0) \u00b7 Lightweight"
+        },
+        "ikram aliskerov vs jared cannonier": {
+          "kind": "main",
+          "line": "Jared Cannonier (18-10-0) vs Ikram Aliskerov (18-2-0) \u00b7 Middleweight"
+        },
+        "jake matthews vs tahir abdullayev": {
+          "kind": "main",
+          "line": "Jake Matthews (23-8-0) vs Tahir Abdullayev (20-3-0) \u00b7 Welterweight"
+        },
+        "ji\u0159\u00ed proch\u00e1zka vs navajo stirling": {
+          "kind": "main",
+          "line": "Ji\u0159\u00ed Proch\u00e1zka (32-6-1) vs Navajo Stirling (11-0-0) \u00b7 Light Heavyweight"
+        },
+        "shamil gaziev vs tallison teixeira": {
+          "kind": "main",
+          "line": "Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
+        }
+      },
+      "last_start": "2026-11-21T15:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-11-21T15:00:00+00:00"
+      }
+    },
+    "600062191": {
+      "bouts": {
+        "opponent tba vs tba": {
+          "kind": "main",
+          "line": "TBA vs Opponent TBA"
+        }
+      },
+      "last_start": "2027-01-30T22:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2027-01-30T22:00:00+00:00"
+      }
+    }
+  },
+  "vevents": {
+    "ufc-600060739-card@ufc-calendar": {
+      "hash": "8b5ec6efeff9cd0c1a0e4a61e3d7145161b848dca5007b64f946349117d1360b",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600060740-card@ufc-calendar": {
+      "hash": "c4688a5d1acbba2efc88f9c32fe84a7cccf1b2d409850058cb964175f35f200c",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600060741-card@ufc-calendar": {
+      "hash": "843042492b1424b9b7d27e4f5b0d811ea703fd0378b573e5b48f386da48f238b",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600060773-main@ufc-calendar": {
+      "hash": "4ba0aeff10f51c622a1469dd97472363cd41a9425a498ee58b43eb4bacb83f84",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061182-main@ufc-calendar": {
+      "hash": "2c184884c8685bcbd9e00df83722283f3568e039dc3e7de01a5ad1a7923a2524",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061266-main@ufc-calendar": {
+      "hash": "44a15c2d3a13956f3ae7cae28fb988e88673cae97e5b3938b1f93b16e7f189dd",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061267-main@ufc-calendar": {
+      "hash": "0960f727d40c7d819353b157c8807c84a636e8c19aff7517ffeaa3bf011c3df0",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061268-main@ufc-calendar": {
+      "hash": "aba7cbe777a6897e8d94f48f516af734ad8e64ab34ed834e91ac2872ec990957",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061400-main@ufc-calendar": {
+      "hash": "5835366677c03e9943f3836f0ca5bce8c3bdc25a26a6bfad5e3091a327cfe078",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061401-main@ufc-calendar": {
+      "hash": "af6fa62c301dba3dcafe688720e42d6adcb6813d560c7ee42cf3771601424ea5",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061420-main@ufc-calendar": {
+      "hash": "09d40f994d47a0272d7da189fd7cb4ce674c674ad68132d052fe701e3e3881f0",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061541-main@ufc-calendar": {
+      "hash": "957e5d27d0e3355459994e97dcea5826aacfb7099134d67b490bbdaa99cd1308",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600061665-main@ufc-calendar": {
+      "hash": "d9c9f3145bc62f3336ff69b4089083b9ee3edd214ccd04b58dac36b4eb3a7129",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    },
+    "ufc-600062191-main@ufc-calendar": {
+      "hash": "381d1c4e11c94298234eebfcad78fce3b581016346c7beab95d5454b692d7c60",
+      "modified": "20261024T041759Z",
+      "seq": 0
+    }
+  }
+}
