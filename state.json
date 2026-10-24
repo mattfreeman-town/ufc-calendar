@@ -294,7 +294,7 @@
         },
         "alexander volkov vs rizvan kuniev": {
           "kind": "main",
-          "line": "Alexander Volkov (40-11-0) vs Rizvan Kuniev (14-3-1) \u00b7 Heavyweight"
+          "line": "Alexander Volkov (41-11-0) vs Rizvan Kuniev (14-4-1) \u00b7 Heavyweight \u00b7 W: Alexander Volkov"
         },
         "asaf chopurov vs colby thicknesse": {
           "kind": "early",
@@ -322,11 +322,11 @@
         },
         "lone'er kavanagh vs ramazan temirov": {
           "kind": "main",
-          "line": "Lone'er Kavanagh (10-2-0) vs Ramazan Temirov (20-3-0) \u00b7 Flyweight"
+          "line": "Lone'er Kavanagh (11-2-0) vs Ramazan Temirov (20-4-0) \u00b7 Flyweight \u00b7 W: Lone'er Kavanagh"
         },
         "merab dvalishvili vs petr yan": {
           "kind": "main",
-          "line": "Petr Yan (20-5-0) vs Merab Dvalishvili (21-5-0) \u00b7 Bantamweight"
+          "line": "Petr Yan (21-5-0) vs Merab Dvalishvili (21-6-0) \u00b7 Bantamweight \u00b7 W: Petr Yan"
         }
       },
       "last_start": "2026-10-24T18:00:00+00:00",
@@ -741,9 +741,9 @@
       "seq": 2
     },
     "ufc-600061267-main@ufc-calendar": {
-      "hash": "528f0d8d3594f19ccbf4c89419484e1c16ad77eb9082bba5a91333a35cbd4017",
-      "modified": "20261024T204653Z",
-      "seq": 1
+      "hash": "ba28dc0d0b76b49d947743c546a108636098a45227ec845800529de4c67b63b4",
+      "modified": "20261024T231142Z",
+      "seq": 2
     },
     "ufc-600061267-prelims@ufc-calendar": {
       "hash": "e56b1ec5bb82cf0b1ec7e0439bf74bcd2ee94eaab7a7d0ef99b42c383dfd3388",
