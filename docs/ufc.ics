@@ -297,21 +297,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061267-early@ufc-calendar
-DTSTAMP:20261024T155531Z
-LAST-MODIFIED:20261024T155531Z
-SEQUENCE:1
+DTSTAMP:20261024T204653Z
+LAST-MODIFIED:20261024T204653Z
+SEQUENCE:2
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:UFC 333 Early Prelims: Volkanovski vs. Evloev
 DESCRIPTION:Early Prelims starts Sat Oct 24 7:00 AM PDT\nWatch: Paramount+\
- n\nColby Thicknesse (9-1-0) vs Asaf Chopurov (11-0-0) · Bantamweight\nAbu
- bakar Vagaev (26-4-0) vs Jacob Malkoun (10-4-0) · Middleweight · W: Abub
- akar Vagaev\nBolaji Oki (10-5-0) vs Daniel Santos (15-3-0) · Featherweigh
- t · W: Daniel Santos\nKody Steele (9-1-0) vs Noah Gugnon (10-3-0) · Ligh
- tweight · W: Kody Steele\nIasmin Lucindo (19-6-0) vs Nicolle Caliari (9-5
- -0) · W Strawweight · W: Iasmin Lucindo\n\nFull card: https://www.espn.c
- om/mma/fightcenter/_/id/600061267/league/ufc\nTimes and bouts can change\;
-  this calendar refreshes every few hours.
+ n\nColby Thicknesse (10-1-0) vs Asaf Chopurov (11-1-0) · Bantamweight · 
+ W: Colby Thicknesse\nAbubakar Vagaev (26-4-0) vs Jacob Malkoun (10-4-0) ·
+  Middleweight · W: Abubakar Vagaev\nBolaji Oki (10-5-0) vs Daniel Santos 
+ (15-3-0) · Featherweight · W: Daniel Santos\nKody Steele (9-1-0) vs Noah
+  Gugnon (10-3-0) · Lightweight · W: Kody Steele\nIasmin Lucindo (19-6-0)
+  vs Nicolle Caliari (9-5-0) · W Strawweight · W: Iasmin Lucindo\n\nFull 
+ card: https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc\nTime
+ s and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
 URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
 CATEGORIES:UFC\,Early Prelims
@@ -320,19 +320,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061267-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261024T204653Z
+LAST-MODIFIED:20261024T204653Z
+SEQUENCE:1
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:UFC 333 Prelims: Volkanovski vs. Evloev
 DESCRIPTION:Prelims starts Sat Oct 24 9:00 AM PDT\nWatch: Paramount+\n\nAza
- mat Murzakanov (16-1-0) vs Dominick Reyes (16-5-0) · Light Heavyweight\nN
- ikita Krylov (31-12-0) vs Abdul-Rakhman Yakhyaev (10-0-0) · Light Heavywe
- ight\nAbus Magomedov (29-7-1) vs Cam Rowston (15-3-0) · Middleweight\nGra
- nt Dawson (24-3-1) vs Nurullo Aliev (12-0-0) · Lightweight\n\nFull card: 
- https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc\nTimes and 
- bouts can change\; this calendar refreshes every few hours.
+ mat Murzakanov (16-2-0) vs Dominick Reyes (17-5-0) · Light Heavyweight ·
+  W: Dominick Reyes\nNikita Krylov (31-13-0) vs Abdul-Rakhman Yakhyaev (11-
+ 0-0) · Light Heavyweight · W: Abdul-Rakhman Yakhyaev\nAbus Magomedov (30
+ -7-1) vs Cam Rowston (15-4-0) · Middleweight · W: Abus Magomedov\nGrant 
+ Dawson (25-3-1) vs Nurullo Aliev (12-1-0) · Lightweight · W: Grant Dawso
+ n\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061267/league
+ /ufc\nTimes and bouts can change\; this calendar refreshes every few hours
+ .
 LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
 URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -341,9 +343,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061267-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261024T204653Z
+LAST-MODIFIED:20261024T204653Z
+SEQUENCE:1
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:UFC 333 Main Card: Volkanovski vs. Evloev
@@ -351,10 +353,10 @@ DESCRIPTION:Main Card starts Sat Oct 24 11:00 AM PDT\nWatch: Paramount+\n\n
  Alexander Volkanovski (28-4-0) vs Movsar Evloev (20-0-0) · Featherweight\
  nPetr Yan (20-5-0) vs Merab Dvalishvili (21-5-0) · Bantamweight\nLone'er 
  Kavanagh (10-2-0) vs Ramazan Temirov (20-3-0) · Flyweight\nAlexander Volk
- ov (40-11-0) vs Rizvan Kuniev (14-3-1) · Heavyweight\nAaron Pico (14-5-0)
-  vs Losene Keita (17-2-0) · Featherweight\n\nFull card: https://www.espn.
- com/mma/fightcenter/_/id/600061267/league/ufc\nTimes and bouts can change\
- ; this calendar refreshes every few hours.
+ ov (40-11-0) vs Rizvan Kuniev (14-3-1) · Heavyweight\nAaron Pico (15-5-0)
+  vs Losene Keita (17-3-0) · Featherweight · W: Aaron Pico\n\nFull card: 
+ https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc\nTimes and 
+ bouts can change\; this calendar refreshes every few hours.
 LOCATION:Etihad Arena\, Abu Dhabi\, United Arab Emirates
 URL:https://www.espn.com/mma/fightcenter/_/id/600061267/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -626,21 +628,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600062191-card@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
+UID:ufc-600062191-main@ufc-calendar
+DTSTAMP:20261024T204653Z
+LAST-MODIFIED:20261024T204653Z
 SEQUENCE:0
-DTSTART:20270130T220000Z
-DTEND:20270131T020000Z
-SUMMARY:UFC 336 (card TBA)
-DESCRIPTION:Card starts Sat Jan 30 2:00 PM PST\n\nFights not announced yet.
-  This entry fills in as bouts are booked.\n\nFull card: https://www.espn.c
- om/mma/fightcenter/_/id/600062191/league/ufc\nTimes and bouts can change\;
-  this calendar refreshes every few hours.
+DTSTART:20270131T020000Z
+DTEND:20270131T050000Z
+SUMMARY:UFC 336 Main Card: Van vs. Kape
+DESCRIPTION:Main Card starts Sat Jan 30 6:00 PM PST\nWatch: Paramount+\n\nJ
+ oshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweight\nCarlos Prates (24-
+ 7-0) vs Michael Morales (19-0-0) · Welterweight\n\nUpdates:\nOct 24: Adde
+ d Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweight (Main Card)\nOct
+  24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) · Welterwei
+ ght (Main Card)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
+ 0062191/league/ufc\nTimes and bouts can change\; this calendar refreshes e
+ very few hours.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
-CATEGORIES:UFC\,Card
-STATUS:TENTATIVE
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

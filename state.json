@@ -274,11 +274,11 @@
       "bouts": {
         "aaron pico vs losene keita": {
           "kind": "main",
-          "line": "Aaron Pico (14-5-0) vs Losene Keita (17-2-0) \u00b7 Featherweight"
+          "line": "Aaron Pico (15-5-0) vs Losene Keita (17-3-0) \u00b7 Featherweight \u00b7 W: Aaron Pico"
         },
         "abdul-rakhman yakhyaev vs nikita krylov": {
           "kind": "prelims",
-          "line": "Nikita Krylov (31-12-0) vs Abdul-Rakhman Yakhyaev (10-0-0) \u00b7 Light Heavyweight"
+          "line": "Nikita Krylov (31-13-0) vs Abdul-Rakhman Yakhyaev (11-0-0) \u00b7 Light Heavyweight \u00b7 W: Abdul-Rakhman Yakhyaev"
         },
         "abubakar vagaev vs jacob malkoun": {
           "kind": "early",
@@ -286,7 +286,7 @@
         },
         "abus magomedov vs cam rowston": {
           "kind": "prelims",
-          "line": "Abus Magomedov (29-7-1) vs Cam Rowston (15-3-0) \u00b7 Middleweight"
+          "line": "Abus Magomedov (30-7-1) vs Cam Rowston (15-4-0) \u00b7 Middleweight \u00b7 W: Abus Magomedov"
         },
         "alexander volkanovski vs movsar evloev": {
           "kind": "main",
@@ -298,11 +298,11 @@
         },
         "asaf chopurov vs colby thicknesse": {
           "kind": "early",
-          "line": "Colby Thicknesse (9-1-0) vs Asaf Chopurov (11-0-0) \u00b7 Bantamweight"
+          "line": "Colby Thicknesse (10-1-0) vs Asaf Chopurov (11-1-0) \u00b7 Bantamweight \u00b7 W: Colby Thicknesse"
         },
         "azamat murzakanov vs dominick reyes": {
           "kind": "prelims",
-          "line": "Azamat Murzakanov (16-1-0) vs Dominick Reyes (16-5-0) \u00b7 Light Heavyweight"
+          "line": "Azamat Murzakanov (16-2-0) vs Dominick Reyes (17-5-0) \u00b7 Light Heavyweight \u00b7 W: Dominick Reyes"
         },
         "bolaji oki vs daniel santos": {
           "kind": "early",
@@ -310,7 +310,7 @@
         },
         "grant dawson vs nurullo aliev": {
           "kind": "prelims",
-          "line": "Grant Dawson (24-3-1) vs Nurullo Aliev (12-0-0) \u00b7 Lightweight"
+          "line": "Grant Dawson (25-3-1) vs Nurullo Aliev (12-1-0) \u00b7 Lightweight \u00b7 W: Grant Dawson"
         },
         "iasmin lucindo vs nicolle caliari": {
           "kind": "early",
@@ -664,11 +664,23 @@
       }
     },
     "600062191": {
-      "bouts": {},
-      "last_start": "2027-01-30T22:00:00+00:00",
-      "log": [],
+      "bouts": {
+        "carlos prates vs michael morales": {
+          "kind": "main",
+          "line": "Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight"
+        },
+        "joshua van vs manel kape": {
+          "kind": "main",
+          "line": "Joshua Van (18-2-0) vs Manel Kape (23-7-0) \u00b7 Flyweight"
+        }
+      },
+      "last_start": "2027-01-31T02:00:00+00:00",
+      "log": [
+        "Oct 24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) \u00b7 Flyweight (Main Card)",
+        "Oct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight (Main Card)"
+      ],
       "starts": {
-        "card": "2027-01-30T22:00:00+00:00"
+        "main": "2027-01-31T02:00:00+00:00"
       }
     }
   },
@@ -724,19 +736,19 @@
       "seq": 0
     },
     "ufc-600061267-early@ufc-calendar": {
-      "hash": "ef52bfb002ce700043e8ce56e1807e068253f70db8fee2cc054341d9eab418b4",
-      "modified": "20261024T155531Z",
-      "seq": 1
+      "hash": "1118a453d652415daa72206953a2e277013439c8f334eb3a1e610a00704a3da5",
+      "modified": "20261024T204653Z",
+      "seq": 2
     },
     "ufc-600061267-main@ufc-calendar": {
-      "hash": "939da8833fa0bc99e4839d05de1e8b3510a1d5f9331fddfc3af3725cfb0b4b93",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "528f0d8d3594f19ccbf4c89419484e1c16ad77eb9082bba5a91333a35cbd4017",
+      "modified": "20261024T204653Z",
+      "seq": 1
     },
     "ufc-600061267-prelims@ufc-calendar": {
-      "hash": "8459208b242821a460fbc271acbc0750923fd81990b686d04143bacedbcb54e5",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "e56b1ec5bb82cf0b1ec7e0439bf74bcd2ee94eaab7a7d0ef99b42c383dfd3388",
+      "modified": "20261024T204653Z",
+      "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
       "hash": "49d34a42fbdabb8899655aa3453cc60b96abfe0856ba549bb3c7f809d4907456",
@@ -808,9 +820,9 @@
       "modified": "20261024T042139Z",
       "seq": 0
     },
-    "ufc-600062191-card@ufc-calendar": {
-      "hash": "2741790ebdccc9cf747698f9601731d4b4dd05ef6107b2629dc348655582e0db",
-      "modified": "20261024T042139Z",
+    "ufc-600062191-main@ufc-calendar": {
+      "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
+      "modified": "20261024T204653Z",
       "seq": 0
     }
   }
