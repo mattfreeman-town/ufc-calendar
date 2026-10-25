@@ -290,7 +290,7 @@
         },
         "alexander volkanovski vs movsar evloev": {
           "kind": "main",
-          "line": "Alexander Volkanovski (28-4-0) vs Movsar Evloev (20-0-0) \u00b7 Featherweight"
+          "line": "Alexander Volkanovski (29-4-0) vs Movsar Evloev (20-1-0) \u00b7 Featherweight \u00b7 W: Alexander Volkanovski"
         },
         "alexander volkov vs rizvan kuniev": {
           "kind": "main",
@@ -741,9 +741,9 @@
       "seq": 2
     },
     "ufc-600061267-main@ufc-calendar": {
-      "hash": "ba28dc0d0b76b49d947743c546a108636098a45227ec845800529de4c67b63b4",
-      "modified": "20261024T231142Z",
-      "seq": 2
+      "hash": "ef043cf46c88ea8fde61935ce911205cbcdaed1a10dbe4e164221ec45ac515f4",
+      "modified": "20261025T043829Z",
+      "seq": 3
     },
     "ufc-600061267-prelims@ufc-calendar": {
       "hash": "e56b1ec5bb82cf0b1ec7e0439bf74bcd2ee94eaab7a7d0ef99b42c383dfd3388",
