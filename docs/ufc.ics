@@ -366,25 +366,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-prelims@ufc-calendar
-DTSTAMP:20261024T155531Z
-LAST-MODIFIED:20261024T155531Z
-SEQUENCE:1
+DTSTAMP:20261026T125826Z
+LAST-MODIFIED:20261026T125826Z
+SEQUENCE:2
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:UFC Fight Night Prelims: Moicano vs. Nolan
-DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nAza
- mat Bekoev (20-5-0) vs Andre Petroski (13-7-0) · Middleweight\nRodrigo Se
- zinando (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa 
- (31-14-0) vs JeongYeong Lee (11-3-0) · Featherweight\nNick Klein (6-3-0) 
- vs Joe Kropschot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera 
- Rodriguez (12-2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Li
- sboa (7-4-0) · W Flyweight\nZach Reese (10-4-0) vs Mickey Gall (7-7-0) ·
-  Middleweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gal
- l (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3-
- 0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Ran
- dy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nFra
+ ncis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nAzamat Be
+ koev (20-5-0) vs Andre Petroski (13-7-0) · Middleweight\nRodrigo Sezinand
+ o (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa (31-14
+ -0) vs JeongYeong Lee (11-3-0) · Featherweight\nNick Klein (6-3-0) vs Joe
+  Kropschot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera Rodrig
+ uez (12-2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Lisboa (
+ 7-4-0) · W Flyweight\nZach Reese (10-4-0) vs Mickey Gall (7-7-0) · Middl
+ eweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7
+ -0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3-0) vs 
+ Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Randy Bro
+ wn (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\nOct 26: 
+ Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Fea
+ therweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000614
+ 20/league/ufc\nTimes and bouts can change\; this calendar refreshes every 
+ few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -393,25 +396,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-main@ufc-calendar
-DTSTAMP:20261024T155531Z
-LAST-MODIFIED:20261024T155531Z
-SEQUENCE:1
+DTSTAMP:20261026T125826Z
+LAST-MODIFIED:20261026T125826Z
+SEQUENCE:2
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:UFC Fight Night Main Card: Moicano vs. Nolan
 DESCRIPTION:Main Card starts Sat Oct 31 5:00 PM PDT\nWatch: Paramount+\n\nR
- enato Moicano (21-7-1) vs Tom Nolan (11-1-0) · Lightweight\nOde' Osbourne
-  (13-10-0) vs Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs 
- Luana Santos (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs
-  Farman Hasanov (6-0-0) · Welterweight\nFrancis Marshall (10-3-0) vs Dako
- ta Hope (11-2-0) · Featherweight\nRandy Brown (20-8-0) vs Jacobe Smith (1
- 3-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs M
- ickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis Marsha
- ll (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: 
- Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main 
- Card)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061420/le
- ague/ufc\nTimes and bouts can change\; this calendar refreshes every few h
- ours.
+ enato Moicano (21-7-1) vs Tom Nolan (11-1-0) · Lightweight\nRandy Brown (
+ 20-8-0) vs Jacobe Smith (13-0-0) · Welterweight\nOde' Osbourne (13-10-0) 
+ vs Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs Luana Santo
+ s (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs Farman Has
+ anov (6-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0
+ ) vs Mickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis 
+ Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOc
+ t 24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight 
+ (Main Card)\nOct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota
+  Hope (11-2-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fig
+ htcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; this cale
+ ndar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Main Card
