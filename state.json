@@ -409,10 +409,6 @@
           "kind": "main",
           "line": "Kayla Harrison (19-1-0) vs Amanda Nunes (23-5-0) \u00b7 W Bantamweight"
         },
-        "baisangur susurkaev vs donte johnson": {
-          "kind": "prelims",
-          "line": "Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight"
-        },
         "bia mesquita vs macy chiasson": {
           "kind": "early",
           "line": "Macy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) \u00b7 W Bantamweight"
@@ -425,6 +421,10 @@
           "kind": "main",
           "line": "Caio Borralho (18-2-0) vs Yousri Belgaroui (11-3-0) \u00b7 Middleweight"
         },
+        "cesar almeida vs donte johnson": {
+          "kind": "early",
+          "line": "Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight"
+        },
         "charles radtke vs stephen thompson": {
           "kind": "prelims",
           "line": "Stephen Thompson (17-9-1) vs Charles Radtke (12-5-0) \u00b7 Welterweight"
@@ -436,6 +436,10 @@
         "ciryl gane vs josh hokit": {
           "kind": "main",
           "line": "Ciryl Gane (14-2-0) vs Josh Hokit (10-0-0) \u00b7 Heavyweight"
+        },
+        "jared gordon vs melquizael costa": {
+          "kind": "early",
+          "line": "Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight"
         },
         "jefferson nascimento vs nazim sadykhov": {
           "kind": "early",
@@ -451,7 +455,11 @@
         }
       },
       "last_start": "2026-11-15T02:00:00+00:00",
-      "log": [],
+      "log": [
+        "Oct 25: Added Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight (Early Prelims)",
+        "Oct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight (Early Prelims)",
+        "Oct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight"
+      ],
       "starts": {
         "early": "2026-11-14T22:00:00+00:00",
         "main": "2026-11-15T02:00:00+00:00",
@@ -761,19 +769,19 @@
       "seq": 0
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "52612b9ca9336fa839b3bfed0f62214121c3ea1c5b58a351745e16db69ed6b5a",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "8c298d93ffbc74652f0f9e0dc3d9ad69a01fdc9faa883abdc97ffe8996ab3e9d",
+      "modified": "20261026T044410Z",
+      "seq": 1
     },
     "ufc-600061400-main@ufc-calendar": {
-      "hash": "657c59a234da847d7f9b10af91b6bdb952fc33758ed7e3800bc6e7f9251764ea",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "0e224575fc9a3fa774f739fd547a2c483ad58c046267f00650fe46b595d4db47",
+      "modified": "20261026T044410Z",
+      "seq": 1
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "e5c897323d7246964f867c55d58e0edd217345c27fa18b3266415f26bd68c497",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "13e4f7c467de762a604c7a854304a69c523981ba2e70ab690fd919fc1f7a934a",
+      "modified": "20261026T044410Z",
+      "seq": 1
     },
     "ufc-600061401-early@ufc-calendar": {
       "hash": "3c262898bc78be25f1e94784c091187a28079823371a54d0426f9dbe5ab4dc73",
