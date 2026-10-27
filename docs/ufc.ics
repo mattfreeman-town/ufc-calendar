@@ -9,56 +9,6 @@ X-WR-CALDESC:UFC events and Dana White's Contender Series\, split by card s
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-600061266-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
-DTSTART:20260926T210000Z
-DTEND:20260927T000000Z
-SUMMARY:UFC Fight Night Prelims: Rosas Jr. vs. Barcelos
-DESCRIPTION:Prelims starts Sat Sep 26 2:00 PM PDT\nWatch: Paramount+\n\nBra
- dy Hiestand (10-2-0) vs Rinya Nakamura (10-2-0) · Bantamweight · W: Brad
- y Hiestand\nRodolfo Vieira (12-5-0) vs Robert Bryczek (18-8-0) · Middlewe
- ight · W: Rodolfo Vieira\nRodolfo Bellato (13-4-1) vs Christian Edwards (
- 9-5-0) · Light Heavyweight · W: Christian Edwards\nElves Brener (17-6-0)
-  vs Josiah Harrell (11-2-0) · Lightweight · W: Elves Brener\nMontel Jack
- son (16-4-0) vs Ricky Simon (22-8-1) · Bantamweight · W: Montel Jackson\
- nJohn Castaneda (21-9-1) vs Alatengheili (18-10-2) · Bantamweight · W: A
- latengheili\nVanessa Demopoulos (11-9-0) vs Yazmin Jauregui (12-2-0) · W 
- Strawweight · W: Yazmin Jauregui\n\nFull card: https://www.espn.com/mma/f
- ightcenter/_/id/600061266/league/ufc\nTimes and bouts can change\; this ca
- lendar refreshes every few hours.
-LOCATION:Meta APEX\, Las Vegas\, NV
-URL:https://www.espn.com/mma/fightcenter/_/id/600061266/league/ufc
-CATEGORIES:UFC\,Prelims
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-600061266-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
-DTSTART:20260927T000000Z
-DTEND:20260927T030000Z
-SUMMARY:UFC Fight Night Main Card: Rosas Jr. vs. Barcelos
-DESCRIPTION:Main Card starts Sat Sep 26 5:00 PM PDT\nWatch: Paramount+\n\nR
- aul Rosas Jr. (13-1-0) vs Raoni Barcelos (22-6-0) · Bantamweight · W: Ra
- ul Rosas Jr.\nNorma Dumont (13-4-0) vs Ailin Perez (14-2-0) · W Bantamwei
- ght · W: Ailin Perez\nLuis Hernandez (9-0-0) vs Sedriques Dumas (10-6-0) 
- · Light Heavyweight · W: Luis Hernandez\nMehemmedeli Osmanli (12-2-0) vs
-  Ilimbek Akylbek Uulu (11-3-0) · Bantamweight · W: Ilimbek Akylbek Uulu\
- nMelissa Amaya (8-1-0) vs Tina Black (16-4-0) · W Strawweight · W: Tina 
- Black\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061266/le
- ague/ufc\nTimes and bouts can change\; this calendar refreshes every few h
- ours.
-LOCATION:Meta APEX\, Las Vegas\, NV
-URL:https://www.espn.com/mma/fightcenter/_/id/600061266/league/ufc
-CATEGORIES:UFC\,Main Card
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-600060739-card@ufc-calendar
 DTSTAMP:20261024T042139Z
 LAST-MODIFIED:20261024T042139Z

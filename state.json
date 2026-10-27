@@ -212,64 +212,6 @@
         "prelims": "2026-10-03T22:00:00+00:00"
       }
     },
-    "600061266": {
-      "bouts": {
-        "ailin perez vs norma dumont": {
-          "kind": "main",
-          "line": "Norma Dumont (13-4-0) vs Ailin Perez (14-2-0) \u00b7 W Bantamweight \u00b7 W: Ailin Perez"
-        },
-        "alatengheili vs john castaneda": {
-          "kind": "prelims",
-          "line": "John Castaneda (21-9-1) vs Alatengheili (18-10-2) \u00b7 Bantamweight \u00b7 W: Alatengheili"
-        },
-        "brady hiestand vs rinya nakamura": {
-          "kind": "prelims",
-          "line": "Brady Hiestand (10-2-0) vs Rinya Nakamura (10-2-0) \u00b7 Bantamweight \u00b7 W: Brady Hiestand"
-        },
-        "christian edwards vs rodolfo bellato": {
-          "kind": "prelims",
-          "line": "Rodolfo Bellato (13-4-1) vs Christian Edwards (9-5-0) \u00b7 Light Heavyweight \u00b7 W: Christian Edwards"
-        },
-        "elves brener vs josiah harrell": {
-          "kind": "prelims",
-          "line": "Elves Brener (17-6-0) vs Josiah Harrell (11-2-0) \u00b7 Lightweight \u00b7 W: Elves Brener"
-        },
-        "ilimbek akylbek uulu vs mehemmedeli osmanli": {
-          "kind": "main",
-          "line": "Mehemmedeli Osmanli (12-2-0) vs Ilimbek Akylbek Uulu (11-3-0) \u00b7 Bantamweight \u00b7 W: Ilimbek Akylbek Uulu"
-        },
-        "luis hernandez vs sedriques dumas": {
-          "kind": "main",
-          "line": "Luis Hernandez (9-0-0) vs Sedriques Dumas (10-6-0) \u00b7 Light Heavyweight \u00b7 W: Luis Hernandez"
-        },
-        "melissa amaya vs tina black": {
-          "kind": "main",
-          "line": "Melissa Amaya (8-1-0) vs Tina Black (16-4-0) \u00b7 W Strawweight \u00b7 W: Tina Black"
-        },
-        "montel jackson vs ricky simon": {
-          "kind": "prelims",
-          "line": "Montel Jackson (16-4-0) vs Ricky Simon (22-8-1) \u00b7 Bantamweight \u00b7 W: Montel Jackson"
-        },
-        "raoni barcelos vs raul rosas jr.": {
-          "kind": "main",
-          "line": "Raul Rosas Jr. (13-1-0) vs Raoni Barcelos (22-6-0) \u00b7 Bantamweight \u00b7 W: Raul Rosas Jr."
-        },
-        "robert bryczek vs rodolfo vieira": {
-          "kind": "prelims",
-          "line": "Rodolfo Vieira (12-5-0) vs Robert Bryczek (18-8-0) \u00b7 Middleweight \u00b7 W: Rodolfo Vieira"
-        },
-        "vanessa demopoulos vs yazmin jauregui": {
-          "kind": "prelims",
-          "line": "Vanessa Demopoulos (11-9-0) vs Yazmin Jauregui (12-2-0) \u00b7 W Strawweight \u00b7 W: Yazmin Jauregui"
-        }
-      },
-      "last_start": "2026-09-27T00:00:00+00:00",
-      "log": [],
-      "starts": {
-        "main": "2026-09-27T00:00:00+00:00",
-        "prelims": "2026-09-26T21:00:00+00:00"
-      }
-    },
     "600061267": {
       "bouts": {
         "aaron pico vs losene keita": {
@@ -731,16 +673,6 @@
     },
     "ufc-600061182-prelims@ufc-calendar": {
       "hash": "94d8ae29f43b612ca22a2500d999662539f5d4156424bd35d57bc1d8e69e06e2",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
-    "ufc-600061266-main@ufc-calendar": {
-      "hash": "fdc24889496d308550af2f019c0ddda65f27124a235d5911efcc997d572a4e5d",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
-    "ufc-600061266-prelims@ufc-calendar": {
-      "hash": "6ddbfad71066e7b8c91a4bf5050c7d1a40c001a1fa9f12a21a4fc198cd8d954f",
       "modified": "20261024T042139Z",
       "seq": 0
     },
