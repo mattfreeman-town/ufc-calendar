@@ -317,10 +317,6 @@
           "kind": "prelims",
           "line": "Keiichiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) \u00b7 Featherweight"
         },
-        "mantas kondratavi\u010dius vs wes schultz": {
-          "kind": "main",
-          "line": "Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight"
-        },
         "nina milo\u0161evi\u0107 vs priscila cachoeira": {
           "kind": "prelims",
           "line": "Priscila Cachoeira (13-9-0) vs Nina Milo\u0161evi\u0107 (9-1-0) \u00b7 W Bantamweight"
@@ -335,7 +331,9 @@
         }
       },
       "last_start": "2026-11-08T01:00:00+00:00",
-      "log": [],
+      "log": [
+        "Oct 27: Removed Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight"
+      ],
       "starts": {
         "main": "2026-11-08T01:00:00+00:00",
         "prelims": "2026-11-07T22:00:00+00:00"
@@ -445,10 +443,6 @@
     },
     "600061420": {
       "bouts": {
-        "andre petroski vs azamat bekoev": {
-          "kind": "prelims",
-          "line": "Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
-        },
         "cody durden vs ode' osbourne": {
           "kind": "main",
           "line": "Ode' Osbourne (13-9-0) vs Cody Durden (18-11-1) \u00b7 Flyweight"
@@ -459,7 +453,7 @@
         },
         "farman hasanov vs jean-paul lebosnoyani": {
           "kind": "main",
-          "line": "Jean-Paul Lebosnoyani (11-2-0) vs Farman Hasanov (6-0-0) \u00b7 Welterweight"
+          "line": "Jean-Paul Lebosnoyani (11-2-0) vs Farman Hasanov (5-0-0) \u00b7 Welterweight"
         },
         "jacobe smith vs randy brown": {
           "kind": "main",
@@ -503,7 +497,8 @@
         "Oct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7-0) \u00b7 Middleweight (Prelims)",
         "Oct 24: Added Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight (Main Card)",
         "Oct 24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) \u00b7 Welterweight (Main Card)",
-        "Oct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight"
+        "Oct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight",
+        "Oct 27: Removed Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
       ],
       "starts": {
         "main": "2026-11-01T00:00:00+00:00",
@@ -692,14 +687,14 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "49d34a42fbdabb8899655aa3453cc60b96abfe0856ba549bb3c7f809d4907456",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "9031e692045c89286e9d86c17fa817580bfa3375eda843d0c41e22e6ad4f9bd6",
+      "modified": "20261027T221219Z",
+      "seq": 1
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "118321baff6f930bf29c2097761baf3ee972bd59806c4a877aa087ca0ba6f2e8",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "56aa3c72afd3597d8d7d968722528ee56884faafb462edd54f55e2e67037deeb",
+      "modified": "20261027T221219Z",
+      "seq": 1
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "8c298d93ffbc74652f0f9e0dc3d9ad69a01fdc9faa883abdc97ffe8996ab3e9d",
@@ -732,14 +727,14 @@
       "seq": 0
     },
     "ufc-600061420-main@ufc-calendar": {
-      "hash": "ca900d31d084ec2bc86e6966fc110c4be6187a6ef835f708a0d744dfa0140754",
-      "modified": "20261027T085720Z",
-      "seq": 3
+      "hash": "af708c1d1ba5ce2c9f51cfe011c95462cfea11813f9dc299df285d447aa7ade7",
+      "modified": "20261027T221219Z",
+      "seq": 4
     },
     "ufc-600061420-prelims@ufc-calendar": {
-      "hash": "5832f02aaa3692a55006afe4cc12b1a4ebc7e8ed5efa2dfd44ac589adbf6eea6",
-      "modified": "20261026T125826Z",
-      "seq": 2
+      "hash": "71ed333e3aa2b3ba9189ff7c1a6f87271359bd5aeab984a3ca8037ec94484e28",
+      "modified": "20261027T221219Z",
+      "seq": 3
     },
     "ufc-600061541-main@ufc-calendar": {
       "hash": "c23c52b9d555348c97603c871c0ea107d0e577048fecf1f0db535c8b922d8c89",

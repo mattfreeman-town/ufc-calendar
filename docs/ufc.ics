@@ -316,28 +316,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-prelims@ufc-calendar
-DTSTAMP:20261026T125826Z
-LAST-MODIFIED:20261026T125826Z
-SEQUENCE:2
+DTSTAMP:20261027T221219Z
+LAST-MODIFIED:20261027T221219Z
+SEQUENCE:3
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:UFC Fight Night Prelims: Moicano vs. Nolan
 DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nFra
- ncis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nAzamat Be
- koev (20-5-0) vs Andre Petroski (13-7-0) · Middleweight\nRodrigo Sezinand
- o (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa (31-14
- -0) vs JeongYeong Lee (11-3-0) · Featherweight\nNick Klein (6-3-0) vs Joe
-  Kropschot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera Rodrig
- uez (12-2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Lisboa (
- 7-4-0) · W Flyweight\nZach Reese (10-4-0) vs Mickey Gall (7-7-0) · Middl
- eweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7
- -0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3-0) vs 
- Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Randy Bro
- wn (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\nOct 26: 
- Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Fea
- therweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000614
- 20/league/ufc\nTimes and bouts can change\; this calendar refreshes every 
- few hours.
+ ncis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nRodrigo S
+ ezinando (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa
+  (31-14-0) vs JeongYeong Lee (11-3-0) · Featherweight\nZach Reese (10-4-0
+ ) vs Mickey Gall (7-7-0) · Middleweight\nNick Klein (6-3-0) vs Joe Kropsc
+ hot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera Rodriguez (12
+ -2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Lisboa (7-4-0) 
+ · W Flyweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Ga
+ ll (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3
+ -0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Ra
+ ndy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\nO
+ ct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0)
+  · Featherweight\nOct 27: Removed Azamat Bekoev (20-5-0) vs Andre Petrosk
+ i (13-7-0) · Middleweight\n\nFull card: https://www.espn.com/mma/fightcen
+ ter/_/id/600061420/league/ufc\nTimes and bouts can change\; this calendar 
+ refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -346,9 +346,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-main@ufc-calendar
-DTSTAMP:20261027T085720Z
-LAST-MODIFIED:20261027T085720Z
-SEQUENCE:3
+DTSTAMP:20261027T221219Z
+LAST-MODIFIED:20261027T221219Z
+SEQUENCE:4
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:UFC Fight Night Main Card: Moicano vs. Nolan
@@ -357,14 +357,15 @@ DESCRIPTION:Main Card starts Sat Oct 31 5:00 PM PDT\nWatch: Paramount+\n\nR
  20-8-0) vs Jacobe Smith (13-0-0) · Welterweight\nOde' Osbourne (13-9-0) v
  s Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs Luana Santos
   (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs Farman Hasa
- nov (6-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0)
+ nov (5-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0)
   vs Mickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis M
  arshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct
   24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (
  Main Card)\nOct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota 
- Hope (11-2-0) · Featherweight\n\nFull card: https://www.espn.com/mma/figh
- tcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; this calen
- dar refreshes every few hours.
+ Hope (11-2-0) · Featherweight\nOct 27: Removed Azamat Bekoev (20-5-0) vs 
+ Andre Petroski (13-7-0) · Middleweight\n\nFull card: https://www.espn.com
+ /mma/fightcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; t
+ his calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -373,9 +374,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261027T221219Z
+LAST-MODIFIED:20261027T221219Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Bonfim vs. Brady
@@ -387,9 +388,10 @@ DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nDave
  Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs Ollie S
  chmid (4-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Miloš
  ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henrique (9
- -1-0) · Welterweight\n\nFull card: https://www.espn.com/mma/fightcenter/_
- /id/600061268/league/ufc\nTimes and bouts can change\; this calendar refre
- shes every few hours.
+ -1-0) · Welterweight\n\nUpdates:\nOct 27: Removed Mantas Kondratavičius 
+ (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\n\nFull card: https://www.e
+ spn.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts can cha
+ nge\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -398,20 +400,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261027T221219Z
+LAST-MODIFIED:20261027T221219Z
+SEQUENCE:1
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Bonfim vs. Brady
 DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nGa
  briel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nTatiana Suar
  ez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nBilly Elekana (1
- 0-2-0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavi
- čius (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\nAustin Bashi (14-2-0
- ) vs Lucas Brennan (11-3-0) · Featherweight\n\nFull card: https://www.esp
- n.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts can chang
- e\; this calendar refreshes every few hours.
+ 0-2-0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nAustin Bashi (14-2
+ -0) vs Lucas Brennan (11-3-0) · Featherweight\n\nUpdates:\nOct 27: Remove
+ d Mantas Kondratavičius (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\n\
+ nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
+ \nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
