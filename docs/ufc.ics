@@ -346,25 +346,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-main@ufc-calendar
-DTSTAMP:20261026T125826Z
-LAST-MODIFIED:20261026T125826Z
-SEQUENCE:2
+DTSTAMP:20261027T085720Z
+LAST-MODIFIED:20261027T085720Z
+SEQUENCE:3
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:UFC Fight Night Main Card: Moicano vs. Nolan
 DESCRIPTION:Main Card starts Sat Oct 31 5:00 PM PDT\nWatch: Paramount+\n\nR
  enato Moicano (21-7-1) vs Tom Nolan (11-1-0) · Lightweight\nRandy Brown (
- 20-8-0) vs Jacobe Smith (13-0-0) · Welterweight\nOde' Osbourne (13-10-0) 
- vs Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs Luana Santo
- s (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs Farman Has
- anov (6-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0
- ) vs Mickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis 
- Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOc
- t 24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight 
- (Main Card)\nOct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota
-  Hope (11-2-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fig
- htcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; this cale
- ndar refreshes every few hours.
+ 20-8-0) vs Jacobe Smith (13-0-0) · Welterweight\nOde' Osbourne (13-9-0) v
+ s Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs Luana Santos
+  (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs Farman Hasa
+ nov (6-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0)
+  vs Mickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis M
+ arshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct
+  24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (
+ Main Card)\nOct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota 
+ Hope (11-2-0) · Featherweight\n\nFull card: https://www.espn.com/mma/figh
+ tcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; this calen
+ dar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Main Card
