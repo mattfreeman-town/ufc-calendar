@@ -653,19 +653,28 @@
       }
     },
     "600062420": {
-      "bouts": {},
+      "bouts": {
+        "beno\u00eet saint denis vs quillan salkilld": {
+          "kind": "main",
+          "line": "Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight"
+        }
+      },
       "last_start": "2027-02-06T22:00:00+00:00",
-      "log": [],
+      "log": [
+        "Oct 28: Added Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight (Main Card)"
+      ],
       "starts": {
-        "card": "2027-02-06T22:00:00+00:00"
+        "main": "2027-02-06T22:00:00+00:00"
       }
     },
     "600062421": {
       "bouts": {},
-      "last_start": "2027-01-17T01:00:00+00:00",
-      "log": [],
+      "last_start": "2027-01-16T22:00:00+00:00",
+      "log": [
+        "Oct 28: Card start moved to Sat Jan 16 2:00 PM PST"
+      ],
       "starts": {
-        "card": "2027-01-17T01:00:00+00:00"
+        "card": "2027-01-16T22:00:00+00:00"
       }
     }
   },
@@ -800,15 +809,15 @@
       "modified": "20261024T204653Z",
       "seq": 0
     },
-    "ufc-600062420-card@ufc-calendar": {
-      "hash": "6a836e8d6f61ba8eae3f54ecee6a60c0cc13ae8fcf38c33c6ded51f4034c7c8d",
-      "modified": "20261028T054003Z",
+    "ufc-600062420-main@ufc-calendar": {
+      "hash": "0891f144a612740cbc2d6f237cfcd6587c80571af8639e6d473e3f9d9b00a7c7",
+      "modified": "20261028T125147Z",
       "seq": 0
     },
     "ufc-600062421-card@ufc-calendar": {
-      "hash": "d2b97c612f5d9fb8b7c46f904489758cb79e29622fa20df33d802ccc531b60cc",
-      "modified": "20261028T054003Z",
-      "seq": 0
+      "hash": "056ff8ea47ea760852083774deb47a49435f718de81f5a2b6ce600071dee6abd",
+      "modified": "20261028T125147Z",
+      "seq": 1
     }
   }
 }

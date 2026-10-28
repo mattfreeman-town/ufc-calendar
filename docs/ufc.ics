@@ -631,16 +631,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062421-card@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:0
-DTSTART:20270117T010000Z
-DTEND:20270117T050000Z
+DTSTAMP:20261028T125147Z
+LAST-MODIFIED:20261028T125147Z
+SEQUENCE:1
+DTSTART:20270116T220000Z
+DTEND:20270117T020000Z
 SUMMARY:UFC Fight Night: Dallas (card TBA)
-DESCRIPTION:Card starts Sat Jan 16 5:00 PM PST\n\nFights not announced yet.
-  This entry fills in as bouts are booked.\n\nFull card: https://www.espn.c
- om/mma/fightcenter/_/id/600062421/league/ufc\nTimes and bouts can change\;
-  this calendar refreshes every few hours.
+DESCRIPTION:Card starts Sat Jan 16 2:00 PM PST\n\nFights not announced yet.
+  This entry fills in as bouts are booked.\n\nUpdates:\nOct 28: Card start 
+ moved to Sat Jan 16 2:00 PM PST\n\nFull card: https://www.espn.com/mma/fig
+ htcenter/_/id/600062421/league/ufc\nTimes and bouts can change\; this cale
+ ndar refreshes every few hours.
+LOCATION:American Airlines Center\, Dallas\, TX
 URL:https://www.espn.com/mma/fightcenter/_/id/600062421/league/ufc
 CATEGORIES:UFC\,Card
 STATUS:TENTATIVE
@@ -669,20 +671,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600062420-card@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
+UID:ufc-600062420-main@ufc-calendar
+DTSTAMP:20261028T125147Z
+LAST-MODIFIED:20261028T125147Z
 SEQUENCE:0
 DTSTART:20270206T220000Z
-DTEND:20270207T020000Z
-SUMMARY:UFC Fight Night: Salkilld vs. Saint Denis (card TBA)
-DESCRIPTION:Card starts Sat Feb 6 2:00 PM PST\n\nFights not announced yet. 
- This entry fills in as bouts are booked.\n\nFull card: https://www.espn.co
- m/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts can change\; 
- this calendar refreshes every few hours.
+DTEND:20270207T010000Z
+SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
+DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
+ illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\n\n
+ Updates:\nOct 28: Added Quillan Salkilld (13-1-0) vs Benoît Saint Denis (
+ 17-4-0) · Lightweight (Main Card)\n\nFull card: https://www.espn.com/mma/
+ fightcenter/_/id/600062420/league/ufc\nTimes and bouts can change\; this c
+ alendar refreshes every few hours.
+LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
-CATEGORIES:UFC\,Card
-STATUS:TENTATIVE
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
