@@ -285,8 +285,12 @@
           "kind": "prelims",
           "line": "Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight"
         },
-        "austin bashi vs lucas brennan": {
+        "andre petroski vs mantas kondratavi\u010dius": {
           "kind": "main",
+          "line": "Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0)"
+        },
+        "austin bashi vs lucas brennan": {
+          "kind": "prelims",
           "line": "Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight"
         },
         "billy elekana vs lucas fernando": {
@@ -294,7 +298,7 @@
           "line": "Billy Elekana (10-2-0) vs Lucas Fernando (14-3-0) \u00b7 Light Heavyweight"
         },
         "davey grant vs elijah smith": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight"
         },
         "gabriel bonfim vs sean brady": {
@@ -317,12 +321,16 @@
           "kind": "prelims",
           "line": "Keiichiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) \u00b7 Featherweight"
         },
+        "marcos degli vs mitch raposo": {
+          "kind": "prelims",
+          "line": "Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight"
+        },
         "nina milo\u0161evi\u0107 vs priscila cachoeira": {
           "kind": "prelims",
           "line": "Priscila Cachoeira (13-9-0) vs Nina Milo\u0161evi\u0107 (9-1-0) \u00b7 W Bantamweight"
         },
         "seokhyeon ko vs wellington turman": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight"
         },
         "tatiana suarez vs virna jandiroba": {
@@ -332,7 +340,12 @@
       },
       "last_start": "2026-11-08T01:00:00+00:00",
       "log": [
-        "Oct 27: Removed Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight"
+        "Oct 27: Removed Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight",
+        "Oct 27: Added Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight (Prelims)",
+        "Oct 27: Moved to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight",
+        "Oct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight",
+        "Oct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight",
+        "Oct 27: Added Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)"
       ],
       "starts": {
         "main": "2026-11-08T01:00:00+00:00",
@@ -362,7 +375,7 @@
           "line": "Caio Borralho (18-2-0) vs Yousri Belgaroui (11-3-0) \u00b7 Middleweight"
         },
         "cesar almeida vs donte johnson": {
-          "kind": "early",
+          "kind": "prelims",
           "line": "Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight"
         },
         "charles radtke vs stephen thompson": {
@@ -376,6 +389,10 @@
         "ciryl gane vs josh hokit": {
           "kind": "main",
           "line": "Ciryl Gane (14-2-0) vs Josh Hokit (10-0-0) \u00b7 Heavyweight"
+        },
+        "evan elder vs samuel sanches": {
+          "kind": "early",
+          "line": "Evan Elder (10-2-0) vs Samuel Sanches (11-1-0) \u00b7 Lightweight"
         },
         "jared gordon vs melquizael costa": {
           "kind": "early",
@@ -398,7 +415,9 @@
       "log": [
         "Oct 25: Added Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight (Early Prelims)",
         "Oct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight (Early Prelims)",
-        "Oct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight"
+        "Oct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight",
+        "Oct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (11-1-0) \u00b7 Lightweight (Early Prelims)",
+        "Oct 27: Moved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight"
       ],
       "starts": {
         "early": "2026-11-14T22:00:00+00:00",
@@ -413,15 +432,15 @@
           "line": "Sergei Pavlovich (21-3-0) vs Alex Pereira (13-4-0) \u00b7 Heavyweight"
         },
         "bo nickal vs joe pyfer": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
         },
         "brandon moreno vs charles johnson": {
-          "kind": "early",
+          "kind": "main",
           "line": "Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
         },
         "carli judice vs maycee barber": {
-          "kind": "early",
+          "kind": "prelims",
           "line": "Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight"
         },
         "charles oliveira vs diego lopes": {
@@ -434,7 +453,11 @@
         }
       },
       "last_start": "2026-12-13T02:00:00+00:00",
-      "log": [],
+      "log": [
+        "Oct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
+        "Oct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
+        "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
+      ],
       "starts": {
         "early": "2026-12-12T22:00:00+00:00",
         "main": "2026-12-13T02:00:00+00:00",
@@ -628,6 +651,22 @@
       "starts": {
         "main": "2027-01-31T02:00:00+00:00"
       }
+    },
+    "600062420": {
+      "bouts": {},
+      "last_start": "2027-02-06T22:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2027-02-06T22:00:00+00:00"
+      }
+    },
+    "600062421": {
+      "bouts": {},
+      "last_start": "2027-01-17T01:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2027-01-17T01:00:00+00:00"
+      }
     }
   },
   "vevents": {
@@ -687,44 +726,44 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "9031e692045c89286e9d86c17fa817580bfa3375eda843d0c41e22e6ad4f9bd6",
-      "modified": "20261027T221219Z",
-      "seq": 1
+      "hash": "b08d2db24c17d8edae0dc0a59cce75e21a29b14435be92475a4f879a73747025",
+      "modified": "20261028T054003Z",
+      "seq": 2
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "56aa3c72afd3597d8d7d968722528ee56884faafb462edd54f55e2e67037deeb",
-      "modified": "20261027T221219Z",
-      "seq": 1
+      "hash": "505320d90a8b026ccba73998dbd2324aa70a262eddaba6c48fe470e43781f554",
+      "modified": "20261028T054003Z",
+      "seq": 2
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "8c298d93ffbc74652f0f9e0dc3d9ad69a01fdc9faa883abdc97ffe8996ab3e9d",
-      "modified": "20261026T044410Z",
-      "seq": 1
+      "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",
+      "modified": "20261028T054003Z",
+      "seq": 2
     },
     "ufc-600061400-main@ufc-calendar": {
-      "hash": "0e224575fc9a3fa774f739fd547a2c483ad58c046267f00650fe46b595d4db47",
-      "modified": "20261026T044410Z",
-      "seq": 1
+      "hash": "31545245ffb45d40516120d39f067db82c8c39f88eaf568e2246cdf6072b5241",
+      "modified": "20261028T054003Z",
+      "seq": 2
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "13e4f7c467de762a604c7a854304a69c523981ba2e70ab690fd919fc1f7a934a",
-      "modified": "20261026T044410Z",
-      "seq": 1
+      "hash": "3a82ea22045b41043eea1052564fb654603e7bb1369657185841aa40231f04cb",
+      "modified": "20261028T054003Z",
+      "seq": 2
     },
     "ufc-600061401-early@ufc-calendar": {
-      "hash": "3c262898bc78be25f1e94784c091187a28079823371a54d0426f9dbe5ab4dc73",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
+      "modified": "20261028T054003Z",
+      "seq": 1
     },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "08d797c09417520f5e97dd4889e0f820112a2e9977d3327eeacf1d150d8a50a4",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "43dc0b21a3e9ce361c484d1b75803366f90f964f563a117ea385c057fcfeb1fd",
+      "modified": "20261028T054003Z",
+      "seq": 1
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "a82bfee5e3056703e9c7b7c5373197a757df6a00dac28a59dcd00c745aa34919",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "9950cf0dc16d5e96b393adbd6da489bbf6425b95ad44575e5052d2e56d090c35",
+      "modified": "20261028T054003Z",
+      "seq": 1
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "af708c1d1ba5ce2c9f51cfe011c95462cfea11813f9dc299df285d447aa7ade7",
@@ -759,6 +798,16 @@
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
       "modified": "20261024T204653Z",
+      "seq": 0
+    },
+    "ufc-600062420-card@ufc-calendar": {
+      "hash": "6a836e8d6f61ba8eae3f54ecee6a60c0cc13ae8fcf38c33c6ded51f4034c7c8d",
+      "modified": "20261028T054003Z",
+      "seq": 0
+    },
+    "ufc-600062421-card@ufc-calendar": {
+      "hash": "d2b97c612f5d9fb8b7c46f904489758cb79e29622fa20df33d802ccc531b60cc",
+      "modified": "20261028T054003Z",
       "seq": 0
     }
   }
