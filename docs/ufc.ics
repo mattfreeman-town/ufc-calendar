@@ -406,9 +406,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:2
+DTSTAMP:20261029T182742Z
+LAST-MODIFIED:20261029T182742Z
+SEQUENCE:3
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Bonfim vs. Brady
@@ -418,16 +418,16 @@ DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nGa
  8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (13-3-0) vs We
  llington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) vs Lucas 
  Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-1-0) vs 
- Andre Petroski (13-7-0)\n\nUpdates:\nOct 27: Removed Mantas Kondratavičiu
- s (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\nOct 27: Added Mitch Rapo
- so (11-3-0) vs Marcos Degli (15-3-0) · Flyweight (Prelims)\nOct 27: Moved
-  to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherwei
- ght\nOct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-
- 1-0) · Bantamweight\nOct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs
-  Wellington Turman (18-8-0) · Welterweight\nOct 27: Added Mantas Kondrata
- vičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\n\nFull card: https
- ://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts
-  can change\; this calendar refreshes every few hours.
+ Andre Petroski (13-7-0) · Middleweight\n\nUpdates:\nOct 27: Removed Manta
+ s Kondratavičius (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\nOct 27: 
+ Added Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Flyweight (Prelims
+ )\nOct 27: Moved to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-
+ 0) · Featherweight\nOct 27: Moved to Main Card: Davey Grant (18-8-0) vs E
+ lijah Smith (10-1-0) · Bantamweight\nOct 27: Moved to Main Card: Seokhyeo
+ n Ko (13-3-0) vs Wellington Turman (18-8-0) · Welterweight\nOct 27: Added
+  Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\n\n
+ Full card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\
+ nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
