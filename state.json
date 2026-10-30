@@ -1,30 +1,5 @@
 {
   "events": {
-    "600060739": {
-      "bouts": {
-        "adama diop vs zaurbek sabanov": {
-          "kind": "card",
-          "line": "Adama Diop (7-1-0) vs Zaurbek Sabanov (4-1-0) \u00b7 Heavyweight \u00b7 W: Adama Diop"
-        },
-        "aieza bertolso vs camila reynoso": {
-          "kind": "card",
-          "line": "Aieza Bertolso (8-0-0) vs Camila Reynoso (9-2-0) \u00b7 W Strawweight \u00b7 W: Aieza Bertolso"
-        },
-        "george staines vs loai abushaar": {
-          "kind": "card",
-          "line": "Loai Abushaar (7-2-0) vs George Staines (9-0-0) \u00b7 Lightweight \u00b7 W: George Staines"
-        },
-        "ian escuza vs luca borando": {
-          "kind": "card",
-          "line": "Ian Escuza (8-0-0) vs Luca Borando (9-2-0) \u00b7 Featherweight \u00b7 W: Ian Escuza"
-        }
-      },
-      "last_start": "2026-09-29T23:00:00+00:00",
-      "log": [],
-      "starts": {
-        "card": "2026-09-29T23:00:00+00:00"
-      }
-    },
     "600060740": {
       "bouts": {
         "alexander chavez vs roque concei\u00e7\u00e3o": {
@@ -679,11 +654,6 @@
     }
   },
   "vevents": {
-    "ufc-600060739-card@ufc-calendar": {
-      "hash": "8b5ec6efeff9cd0c1a0e4a61e3d7145161b848dca5007b64f946349117d1360b",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
     "ufc-600060740-card@ufc-calendar": {
       "hash": "c4688a5d1acbba2efc88f9c32fe84a7cccf1b2d409850058cb964175f35f200c",
       "modified": "20261024T042139Z",
