@@ -352,30 +352,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:2
+DTSTAMP:20261031T053738Z
+LAST-MODIFIED:20261031T053738Z
+SEQUENCE:3
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
-SUMMARY:UFC Fight Night Prelims: Bonfim vs. Brady
-DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nGabr
- iel Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nKarine Silva (
- 19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nMitch Raposo (11-3
- -0) vs Marcos Degli (15-3-0) · Flyweight\nJose Delano (17-3-0) vs Murtaza
- li Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs Olli
- e Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Lucas Brennan 
- (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Milošević
-  (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henrique (9-1-0)
-  · Welterweight\n\nUpdates:\nOct 27: Removed Mantas Kondratavičius (9-1-
- 0) vs Wes Schultz (9-4-0) · Middleweight\nOct 27: Added Mitch Raposo (11-
- 3-0) vs Marcos Degli (15-3-0) · Flyweight (Prelims)\nOct 27: Moved to Pre
- lims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\nOc
- t 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) ·
-  Bantamweight\nOct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellin
- gton Turman (18-8-0) · Welterweight\nOct 27: Added Mantas Kondratavičius
-  (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\n\nFull card: https://www.
- espn.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts can ch
- ange\; this calendar refreshes every few hours.
+SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
+DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKari
+ ne Silva (19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nMitch Ra
+ poso (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nJose Delano (17-3-0) 
+ vs Murtazali Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-
+ 0) vs Ollie Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Luca
+ s Brennan (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina M
+ ilošević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henriq
+ ue (9-1-0) · Welterweight\nGabriel Lorenço (8-1-0) vs Thomas Petersen (1
+ 1-5-0) · Heavyweight\n\nUpdates:\nOct 27: Moved to Prelims: Austin Bashi 
+ (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\nOct 27: Moved to Main
+  Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nOct 
+ 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0
+ ) · Welterweight\nOct 27: Added Mantas Kondratavičius (9-1-0) vs Andre P
+ etroski (13-7-0) (Main Card)\nOct 30: Added Gabriel Lorenço (8-1-0) vs Th
+ omas Petersen (11-5-0) · Heavyweight (Prelims)\nOct 30: Added Waldo Corte
+ s Acosta (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight (Main Card)\nO
+ ct 30: Removed Gabriel Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavywei
+ ght\nOct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Wel
+ terweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60006126
+ 8/league/ufc\nTimes and bouts can change\; this calendar refreshes every f
+ ew hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -384,28 +387,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261029T182742Z
-LAST-MODIFIED:20261029T182742Z
-SEQUENCE:3
+DTSTAMP:20261031T053738Z
+LAST-MODIFIED:20261031T053738Z
+SEQUENCE:4
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
-SUMMARY:UFC Fight Night Main Card: Bonfim vs. Brady
-DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nGa
- briel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nTatiana Suar
- ez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nDavey Grant (18-
- 8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (13-3-0) vs We
- llington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) vs Lucas 
- Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-1-0) vs 
- Andre Petroski (13-7-0) · Middleweight\n\nUpdates:\nOct 27: Removed Manta
- s Kondratavičius (9-1-0) vs Wes Schultz (9-4-0) · Middleweight\nOct 27: 
- Added Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Flyweight (Prelims
- )\nOct 27: Moved to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-
- 0) · Featherweight\nOct 27: Moved to Main Card: Davey Grant (18-8-0) vs E
- lijah Smith (10-1-0) · Bantamweight\nOct 27: Moved to Main Card: Seokhyeo
- n Ko (13-3-0) vs Wellington Turman (18-8-0) · Welterweight\nOct 27: Added
-  Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
+SUMMARY:UFC Fight Night Main Card: Cortes Acosta vs. Walker
+DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nWa
+ ldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight\nTati
+ ana Suarez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nDavey Gr
+ ant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (13-3-
+ 0) vs Wellington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) v
+ s Lucas Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-
+ 1-0) vs Andre Petroski (13-7-0) · Middleweight\n\nUpdates:\nOct 27: Moved
+  to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherwei
+ ght\nOct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-
+ 1-0) · Bantamweight\nOct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs
+  Wellington Turman (18-8-0) · Welterweight\nOct 27: Added Mantas Kondrata
+ vičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\nOct 30: Added Gabr
+ iel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight (Prelims)\
+ nOct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) · 
+ Heavyweight (Main Card)\nOct 30: Removed Gabriel Lorenço (8-1-0) vs Alvin
+  Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bonfim (20-1-0) vs 
+ Sean Brady (19-2-0) · Welterweight\n\nFull card: https://www.espn.com/mma
+ /fightcenter/_/id/600061268/league/ufc\nTimes and bouts can change\; this 
+ calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card

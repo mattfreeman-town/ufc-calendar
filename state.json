@@ -256,10 +256,6 @@
     },
     "600061268": {
       "bouts": {
-        "alvin hines vs gabriel loren\u00e7o": {
-          "kind": "prelims",
-          "line": "Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight"
-        },
         "andre petroski vs mantas kondratavi\u010dius": {
           "kind": "main",
           "line": "Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
@@ -276,13 +272,17 @@
           "kind": "main",
           "line": "Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight"
         },
-        "gabriel bonfim vs sean brady": {
-          "kind": "main",
-          "line": "Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight"
+        "gabriel loren\u00e7o vs thomas petersen": {
+          "kind": "prelims",
+          "line": "Gabriel Loren\u00e7o (8-1-0) vs Thomas Petersen (11-5-0) \u00b7 Heavyweight"
         },
         "gabriella fernandes vs karine silva": {
           "kind": "prelims",
           "line": "Karine Silva (19-7-0) vs Gabriella Fernandes (11-4-0) \u00b7 W Flyweight"
+        },
+        "johnny walker vs waldo cortes acosta": {
+          "kind": "main",
+          "line": "Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) \u00b7 Heavyweight"
         },
         "jonny parsons vs jose henrique": {
           "kind": "prelims",
@@ -315,12 +315,14 @@
       },
       "last_start": "2026-11-08T01:00:00+00:00",
       "log": [
-        "Oct 27: Removed Mantas Kondratavi\u010dius (9-1-0) vs Wes Schultz (9-4-0) \u00b7 Middleweight",
-        "Oct 27: Added Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight (Prelims)",
         "Oct 27: Moved to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight",
         "Oct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight",
         "Oct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight",
-        "Oct 27: Added Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)"
+        "Oct 27: Added Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)",
+        "Oct 30: Added Gabriel Loren\u00e7o (8-1-0) vs Thomas Petersen (11-5-0) \u00b7 Heavyweight (Prelims)",
+        "Oct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) \u00b7 Heavyweight (Main Card)",
+        "Oct 30: Removed Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight",
+        "Oct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight"
       ],
       "starts": {
         "main": "2026-11-08T01:00:00+00:00",
@@ -705,14 +707,14 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "326aab06eb77bc2a3f7d2be2a5556fb6ab5858e6a1f16a0932383ab7cd6505d8",
-      "modified": "20261029T182742Z",
-      "seq": 3
+      "hash": "8e7e82d8ec03190fc1ff049ae52e16ac4a58d6f0d280348288a3f1d2f01e2a9c",
+      "modified": "20261031T053738Z",
+      "seq": 4
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "505320d90a8b026ccba73998dbd2324aa70a262eddaba6c48fe470e43781f554",
-      "modified": "20261028T054003Z",
-      "seq": 2
+      "hash": "9c3a12a0f59abbad724ff5b7e7c0924093910de672d028014adf20545ac71515",
+      "modified": "20261031T053738Z",
+      "seq": 3
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",
