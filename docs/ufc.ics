@@ -294,28 +294,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-prelims@ufc-calendar
-DTSTAMP:20261027T221219Z
-LAST-MODIFIED:20261027T221219Z
-SEQUENCE:3
+DTSTAMP:20261101T000644Z
+LAST-MODIFIED:20261101T000644Z
+SEQUENCE:4
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:UFC Fight Night Prelims: Moicano vs. Nolan
 DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nFra
  ncis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nRodrigo S
- ezinando (9-2-0) vs Theodor Berggren (8-4-0) · Welterweight\nJulian Erosa
-  (31-14-0) vs JeongYeong Lee (11-3-0) · Featherweight\nZach Reese (10-4-0
- ) vs Mickey Gall (7-7-0) · Middleweight\nNick Klein (6-3-0) vs Joe Kropsc
- hot (9-3-0) · Middleweight\nTalita Alencar (8-1-1) vs Piera Rodriguez (12
- -2-0) · W Strawweight\nLucia Szabová (12-0-0) vs Tainara Lisboa (7-4-0) 
- · W Flyweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Ga
- ll (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3
- -0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Ra
- ndy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\nO
- ct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0)
-  · Featherweight\nOct 27: Removed Azamat Bekoev (20-5-0) vs Andre Petrosk
- i (13-7-0) · Middleweight\n\nFull card: https://www.espn.com/mma/fightcen
- ter/_/id/600061420/league/ufc\nTimes and bouts can change\; this calendar 
- refreshes every few hours.
+ ezinando (10-2-0) vs Theodor Berggren (8-5-0) · Welterweight · W: Rodrig
+ o Sezinando\nJulian Erosa (32-14-0) vs JeongYeong Lee (11-4-0) · Featherw
+ eight · W: Julian Erosa\nZach Reese (11-4-0) vs Mickey Gall (7-8-0) · Mi
+ ddleweight · W: Zach Reese\nNick Klein (6-4-0) vs Joe Kropschot (10-3-0) 
+ · Middleweight · W: Joe Kropschot\nTalita Alencar (8-2-1) vs Piera Rodri
+ guez (13-2-0) · W Strawweight · W: Piera Rodriguez\nLucia Szabová (13-0
+ -0) vs Tainara Lisboa (7-5-0) · W Flyweight · W: Lucia Szabová\n\nUpdat
+ es:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7-0) · Middlewei
+ ght (Prelims)\nOct 24: Added Francis Marshall (10-3-0) vs Dakota Hope (11-
+ 2-0) · Featherweight (Main Card)\nOct 24: Added Randy Brown (20-8-0) vs J
+ acobe Smith (13-0-0) · Welterweight (Main Card)\nOct 26: Moved to Prelims
+ : Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nOct 
+ 27: Removed Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) · Middlewei
+ ght\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061420/leag
+ ue/ufc\nTimes and bouts can change\; this calendar refreshes every few hou
+ rs.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Prelims

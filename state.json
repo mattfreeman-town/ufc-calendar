@@ -461,11 +461,11 @@
         },
         "jeongyeong lee vs julian erosa": {
           "kind": "prelims",
-          "line": "Julian Erosa (31-14-0) vs JeongYeong Lee (11-3-0) \u00b7 Featherweight"
+          "line": "Julian Erosa (32-14-0) vs JeongYeong Lee (11-4-0) \u00b7 Featherweight \u00b7 W: Julian Erosa"
         },
         "joe kropschot vs nick klein": {
           "kind": "prelims",
-          "line": "Nick Klein (6-3-0) vs Joe Kropschot (9-3-0) \u00b7 Middleweight"
+          "line": "Nick Klein (6-4-0) vs Joe Kropschot (10-3-0) \u00b7 Middleweight \u00b7 W: Joe Kropschot"
         },
         "luana santos vs yana santos": {
           "kind": "main",
@@ -473,15 +473,15 @@
         },
         "lucia szabov\u00e1 vs tainara lisboa": {
           "kind": "prelims",
-          "line": "Lucia Szabov\u00e1 (12-0-0) vs Tainara Lisboa (7-4-0) \u00b7 W Flyweight"
+          "line": "Lucia Szabov\u00e1 (13-0-0) vs Tainara Lisboa (7-5-0) \u00b7 W Flyweight \u00b7 W: Lucia Szabov\u00e1"
         },
         "mickey gall vs zach reese": {
           "kind": "prelims",
-          "line": "Zach Reese (10-4-0) vs Mickey Gall (7-7-0) \u00b7 Middleweight"
+          "line": "Zach Reese (11-4-0) vs Mickey Gall (7-8-0) \u00b7 Middleweight \u00b7 W: Zach Reese"
         },
         "piera rodriguez vs talita alencar": {
           "kind": "prelims",
-          "line": "Talita Alencar (8-1-1) vs Piera Rodriguez (12-2-0) \u00b7 W Strawweight"
+          "line": "Talita Alencar (8-2-1) vs Piera Rodriguez (13-2-0) \u00b7 W Strawweight \u00b7 W: Piera Rodriguez"
         },
         "renato moicano vs tom nolan": {
           "kind": "main",
@@ -489,7 +489,7 @@
         },
         "rodrigo sezinando vs theodor berggren": {
           "kind": "prelims",
-          "line": "Rodrigo Sezinando (9-2-0) vs Theodor Berggren (8-4-0) \u00b7 Welterweight"
+          "line": "Rodrigo Sezinando (10-2-0) vs Theodor Berggren (8-5-0) \u00b7 Welterweight \u00b7 W: Rodrigo Sezinando"
         }
       },
       "last_start": "2026-11-01T00:00:00+00:00",
@@ -752,9 +752,9 @@
       "seq": 4
     },
     "ufc-600061420-prelims@ufc-calendar": {
-      "hash": "71ed333e3aa2b3ba9189ff7c1a6f87271359bd5aeab984a3ca8037ec94484e28",
-      "modified": "20261027T221219Z",
-      "seq": 3
+      "hash": "b563f80bceae5b4bfc47e7eadd8d6c0b2eeb6fc49b718f2152b9c0c2d00d452a",
+      "modified": "20261101T000644Z",
+      "seq": 4
     },
     "ufc-600061541-main@ufc-calendar": {
       "hash": "c23c52b9d555348c97603c871c0ea107d0e577048fecf1f0db535c8b922d8c89",
