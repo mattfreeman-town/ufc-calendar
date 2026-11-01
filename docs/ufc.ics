@@ -10,15 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-600061182-early@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261101T055927Z
+LAST-MODIFIED:20261101T055927Z
+SEQUENCE:1
 DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
 SUMMARY:UFC 332 Early Prelims: Silva vs. Wang
 DESCRIPTION:Early Prelims starts Sat Oct 3 1:00 PM PDT\nWatch: Paramount+\n
  \nJohnny Walker (23-10-0) vs Mick Parkin (10-2-0) · Heavyweight · W: Joh
- nny Walker\nJacobe Smith (13-0-0) vs Bruce Whitehead (8-3-0) · Welterweig
+ nny Walker\nJacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) · Welterweig
  ht · W: Jacobe Smith\nRafael Dos Anjos (32-18-0) vs Alexander Hernandez (
  19-9-0) · Lightweight · W: Alexander Hernandez\nMarvin Vettori (19-11-1)
   vs Ismail Naurdiev (26-8-0) · Middleweight · W: Ismail Naurdiev\nCourt 
@@ -294,30 +294,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-prelims@ufc-calendar
-DTSTAMP:20261101T000644Z
-LAST-MODIFIED:20261101T000644Z
-SEQUENCE:4
+DTSTAMP:20261101T055927Z
+LAST-MODIFIED:20261101T055927Z
+SEQUENCE:5
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:UFC Fight Night Prelims: Moicano vs. Nolan
 DESCRIPTION:Prelims starts Sat Oct 31 2:00 PM PDT\nWatch: Paramount+\n\nFra
- ncis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nRodrigo S
- ezinando (10-2-0) vs Theodor Berggren (8-5-0) · Welterweight · W: Rodrig
- o Sezinando\nJulian Erosa (32-14-0) vs JeongYeong Lee (11-4-0) · Featherw
- eight · W: Julian Erosa\nZach Reese (11-4-0) vs Mickey Gall (7-8-0) · Mi
- ddleweight · W: Zach Reese\nNick Klein (6-4-0) vs Joe Kropschot (10-3-0) 
- · Middleweight · W: Joe Kropschot\nTalita Alencar (8-2-1) vs Piera Rodri
- guez (13-2-0) · W Strawweight · W: Piera Rodriguez\nLucia Szabová (13-0
- -0) vs Tainara Lisboa (7-5-0) · W Flyweight · W: Lucia Szabová\n\nUpdat
- es:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7-7-0) · Middlewei
- ght (Prelims)\nOct 24: Added Francis Marshall (10-3-0) vs Dakota Hope (11-
- 2-0) · Featherweight (Main Card)\nOct 24: Added Randy Brown (20-8-0) vs J
- acobe Smith (13-0-0) · Welterweight (Main Card)\nOct 26: Moved to Prelims
- : Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nOct 
- 27: Removed Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) · Middlewei
- ght\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061420/leag
- ue/ufc\nTimes and bouts can change\; this calendar refreshes every few hou
- rs.
+ ncis Marshall (10-4-0) vs Dakota Hope (12-2-0) · Featherweight · W: Dako
+ ta Hope\nRodrigo Sezinando (10-2-0) vs Theodor Berggren (8-5-0) · Welterw
+ eight · W: Rodrigo Sezinando\nJulian Erosa (32-14-0) vs JeongYeong Lee (1
+ 1-4-0) · Featherweight · W: Julian Erosa\nZach Reese (11-4-0) vs Mickey 
+ Gall (7-8-0) · Middleweight · W: Zach Reese\nNick Klein (6-4-0) vs Joe K
+ ropschot (10-3-0) · Middleweight · W: Joe Kropschot\nTalita Alencar (8-2
+ -1) vs Piera Rodriguez (13-2-0) · W Strawweight · W: Piera Rodriguez\nLu
+ cia Szabová (13-0-0) vs Tainara Lisboa (7-5-0) · W Flyweight · W: Lucia
+  Szabová\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0) vs Mickey Gall (7
+ -7-0) · Middleweight (Prelims)\nOct 24: Added Francis Marshall (10-3-0) v
+ s Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct 24: Added Randy B
+ rown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (Main Card)\nOct 26
+ : Moved to Prelims: Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · F
+ eatherweight\nOct 27: Removed Azamat Bekoev (20-5-0) vs Andre Petroski (13
+ -7-0) · Middleweight\n\nFull card: https://www.espn.com/mma/fightcenter/_
+ /id/600061420/league/ufc\nTimes and bouts can change\; this calendar refre
+ shes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -326,26 +326,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061420-main@ufc-calendar
-DTSTAMP:20261027T221219Z
-LAST-MODIFIED:20261027T221219Z
-SEQUENCE:4
+DTSTAMP:20261101T055927Z
+LAST-MODIFIED:20261101T055927Z
+SEQUENCE:5
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:UFC Fight Night Main Card: Moicano vs. Nolan
 DESCRIPTION:Main Card starts Sat Oct 31 5:00 PM PDT\nWatch: Paramount+\n\nR
- enato Moicano (21-7-1) vs Tom Nolan (11-1-0) · Lightweight\nRandy Brown (
- 20-8-0) vs Jacobe Smith (13-0-0) · Welterweight\nOde' Osbourne (13-9-0) v
- s Cody Durden (18-11-1) · Flyweight\nYana Santos (17-8-0) vs Luana Santos
-  (11-2-0) · W Bantamweight\nJean-Paul Lebosnoyani (11-2-0) vs Farman Hasa
- nov (5-0-0) · Welterweight\n\nUpdates:\nOct 24: Added Zach Reese (10-4-0)
-  vs Mickey Gall (7-7-0) · Middleweight (Prelims)\nOct 24: Added Francis M
- arshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight (Main Card)\nOct
-  24: Added Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) · Welterweight (
- Main Card)\nOct 26: Moved to Prelims: Francis Marshall (10-3-0) vs Dakota 
- Hope (11-2-0) · Featherweight\nOct 27: Removed Azamat Bekoev (20-5-0) vs 
- Andre Petroski (13-7-0) · Middleweight\n\nFull card: https://www.espn.com
- /mma/fightcenter/_/id/600061420/league/ufc\nTimes and bouts can change\; t
- his calendar refreshes every few hours.
+ enato Moicano (21-8-1) vs Tom Nolan (12-1-0) · Lightweight · W: Tom Nola
+ n\nRandy Brown (20-9-0) vs Jacobe Smith (14-0-0) · Welterweight · W: Jac
+ obe Smith\nOde' Osbourne (13-10-0) vs Cody Durden (19-11-1) · Flyweight 
+ · W: Cody Durden\nYana Santos (17-9-0) vs Luana Santos (12-2-0) · W Bant
+ amweight · W: Luana Santos\nJean-Paul Lebosnoyani (12-2-0) vs Farman Hasa
+ nov (5-1-0) · Welterweight · W: Jean-Paul Lebosnoyani\n\nUpdates:\nOct 2
+ 4: Added Zach Reese (10-4-0) vs Mickey Gall (7-7-0) · Middleweight (Preli
+ ms)\nOct 24: Added Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) · Fe
+ atherweight (Main Card)\nOct 24: Added Randy Brown (20-8-0) vs Jacobe Smit
+ h (13-0-0) · Welterweight (Main Card)\nOct 26: Moved to Prelims: Francis 
+ Marshall (10-3-0) vs Dakota Hope (11-2-0) · Featherweight\nOct 27: Remove
+ d Azamat Bekoev (20-5-0) vs Andre Petroski (13-7-0) · Middleweight\n\nFul
+ l card: https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc\nTi
+ mes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061420/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -354,21 +355,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261031T053738Z
-LAST-MODIFIED:20261031T053738Z
-SEQUENCE:3
+DTSTAMP:20261101T055927Z
+LAST-MODIFIED:20261101T055927Z
+SEQUENCE:4
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
-DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKari
- ne Silva (19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nMitch Ra
- poso (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nJose Delano (17-3-0) 
- vs Murtazali Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-
- 0) vs Ollie Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Luca
- s Brennan (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina M
- ilošević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henriq
- ue (9-1-0) · Welterweight\nGabriel Lorenço (8-1-0) vs Thomas Petersen (1
- 1-5-0) · Heavyweight\n\nUpdates:\nOct 27: Moved to Prelims: Austin Bashi 
+DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nGabr
+ iel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Si
+ lva (19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nMitch Raposo 
+ (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nJose Delano (17-3-0) vs Mu
+ rtazali Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs
+  Ollie Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Lucas Bre
+ nnan (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Miloš
+ ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henrique (9
+ -1-0) · Welterweight\n\nUpdates:\nOct 27: Moved to Prelims: Austin Bashi 
  (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\nOct 27: Moved to Main
   Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nOct 
  27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0

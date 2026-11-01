@@ -148,7 +148,7 @@
         },
         "bruce whitehead vs jacobe smith": {
           "kind": "early",
-          "line": "Jacobe Smith (13-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith"
+          "line": "Jacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith"
         },
         "court mcgee vs eric nolan": {
           "kind": "early",
@@ -445,19 +445,19 @@
       "bouts": {
         "cody durden vs ode' osbourne": {
           "kind": "main",
-          "line": "Ode' Osbourne (13-9-0) vs Cody Durden (18-11-1) \u00b7 Flyweight"
+          "line": "Ode' Osbourne (13-10-0) vs Cody Durden (19-11-1) \u00b7 Flyweight \u00b7 W: Cody Durden"
         },
         "dakota hope vs francis marshall": {
           "kind": "prelims",
-          "line": "Francis Marshall (10-3-0) vs Dakota Hope (11-2-0) \u00b7 Featherweight"
+          "line": "Francis Marshall (10-4-0) vs Dakota Hope (12-2-0) \u00b7 Featherweight \u00b7 W: Dakota Hope"
         },
         "farman hasanov vs jean-paul lebosnoyani": {
           "kind": "main",
-          "line": "Jean-Paul Lebosnoyani (11-2-0) vs Farman Hasanov (5-0-0) \u00b7 Welterweight"
+          "line": "Jean-Paul Lebosnoyani (12-2-0) vs Farman Hasanov (5-1-0) \u00b7 Welterweight \u00b7 W: Jean-Paul Lebosnoyani"
         },
         "jacobe smith vs randy brown": {
           "kind": "main",
-          "line": "Randy Brown (20-8-0) vs Jacobe Smith (13-0-0) \u00b7 Welterweight"
+          "line": "Randy Brown (20-9-0) vs Jacobe Smith (14-0-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith"
         },
         "jeongyeong lee vs julian erosa": {
           "kind": "prelims",
@@ -469,7 +469,7 @@
         },
         "luana santos vs yana santos": {
           "kind": "main",
-          "line": "Yana Santos (17-8-0) vs Luana Santos (11-2-0) \u00b7 W Bantamweight"
+          "line": "Yana Santos (17-9-0) vs Luana Santos (12-2-0) \u00b7 W Bantamweight \u00b7 W: Luana Santos"
         },
         "lucia szabov\u00e1 vs tainara lisboa": {
           "kind": "prelims",
@@ -485,7 +485,7 @@
         },
         "renato moicano vs tom nolan": {
           "kind": "main",
-          "line": "Renato Moicano (21-7-1) vs Tom Nolan (11-1-0) \u00b7 Lightweight"
+          "line": "Renato Moicano (21-8-1) vs Tom Nolan (12-1-0) \u00b7 Lightweight \u00b7 W: Tom Nolan"
         },
         "rodrigo sezinando vs theodor berggren": {
           "kind": "prelims",
@@ -677,9 +677,9 @@
       "seq": 0
     },
     "ufc-600061182-early@ufc-calendar": {
-      "hash": "10b0e269b35535ca76218bc7f667d6cb7122f54a240e74f880af58e6d7fc3f87",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "e7dba47bd5d52b80834bcd5baff32aad524114035980dbd99c6be08f54383aaa",
+      "modified": "20261101T055927Z",
+      "seq": 1
     },
     "ufc-600061182-main@ufc-calendar": {
       "hash": "68f40ca78f835bb50dde79efe1ea29ad9f5367ea227b977f416402dd966d6235",
@@ -712,9 +712,9 @@
       "seq": 4
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "9c3a12a0f59abbad724ff5b7e7c0924093910de672d028014adf20545ac71515",
-      "modified": "20261031T053738Z",
-      "seq": 3
+      "hash": "3f7440dc3d71db46ac34dd9f6fd7242757280101989a19806557ea695cdf44cb",
+      "modified": "20261101T055927Z",
+      "seq": 4
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",
@@ -747,14 +747,14 @@
       "seq": 1
     },
     "ufc-600061420-main@ufc-calendar": {
-      "hash": "af708c1d1ba5ce2c9f51cfe011c95462cfea11813f9dc299df285d447aa7ade7",
-      "modified": "20261027T221219Z",
-      "seq": 4
+      "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",
+      "modified": "20261101T055927Z",
+      "seq": 5
     },
     "ufc-600061420-prelims@ufc-calendar": {
-      "hash": "b563f80bceae5b4bfc47e7eadd8d6c0b2eeb6fc49b718f2152b9c0c2d00d452a",
-      "modified": "20261101T000644Z",
-      "seq": 4
+      "hash": "da483a704bc1a01bfa72058db6e49033c381130eb8ab5eac3c6ef5afb705b0af",
+      "modified": "20261101T055927Z",
+      "seq": 5
     },
     "ufc-600061541-main@ufc-calendar": {
       "hash": "c23c52b9d555348c97603c871c0ea107d0e577048fecf1f0db535c8b922d8c89",
