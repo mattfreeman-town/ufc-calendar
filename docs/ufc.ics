@@ -9,33 +9,10 @@ X-WR-CALDESC:UFC events and Dana White's Contender Series\, split by card s
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-600061182-early@ufc-calendar
-DTSTAMP:20261101T055927Z
-LAST-MODIFIED:20261101T055927Z
-SEQUENCE:1
-DTSTART:20261003T200000Z
-DTEND:20261003T220000Z
-SUMMARY:UFC 332 Early Prelims: Silva vs. Wang
-DESCRIPTION:Early Prelims starts Sat Oct 3 1:00 PM PDT\nWatch: Paramount+\n
- \nJohnny Walker (23-10-0) vs Mick Parkin (10-2-0) · Heavyweight · W: Joh
- nny Walker\nJacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) · Welterweig
- ht · W: Jacobe Smith\nRafael Dos Anjos (32-18-0) vs Alexander Hernandez (
- 19-9-0) · Lightweight · W: Alexander Hernandez\nMarvin Vettori (19-11-1)
-  vs Ismail Naurdiev (26-8-0) · Middleweight · W: Ismail Naurdiev\nCourt 
- McGee (23-15-0) vs Eric Nolan (9-5-0) · Welterweight · W: Eric Nolan\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
-LOCATION:Delta Center\, Salt Lake City\, UT
-URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
-CATEGORIES:UFC\,Early Prelims
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-600061182-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261102T214234Z
+LAST-MODIFIED:20261102T214234Z
+SEQUENCE:1
 DTSTART:20261003T220000Z
 DTEND:20261004T000000Z
 SUMMARY:UFC 332 Prelims: Silva vs. Wang
@@ -44,9 +21,16 @@ DESCRIPTION:Prelims starts Sat Oct 3 3:00 PM PDT\nWatch: Paramount+\n\nIman
  riguez\nDamian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) · Middleweight 
  · W: Damian Pinas\nMarcus McGhee (12-2-0) vs Anthony Romero (12-3-0) · F
  eatherweight · W: Marcus McGhee\nAnthony Wint (9-0-0) vs Lucas Armand (6-
- 1-0) · Heavyweight · W: Anthony Wint\n\nFull card: https://www.espn.com/
- mma/fightcenter/_/id/600061182/league/ufc\nTimes and bouts can change\; th
- is calendar refreshes every few hours.
+ 1-0) · Heavyweight · W: Anthony Wint\n\nUpdates:\nNov 2: Removed Rafael 
+ Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) · Lightweight · W: A
+ lexander Hernandez\nNov 2: Removed Jacobe Smith (14-0-0) vs Bruce Whitehea
+ d (8-3-0) · Welterweight · W: Jacobe Smith\nNov 2: Removed Court McGee (
+ 23-15-0) vs Eric Nolan (9-5-0) · Welterweight · W: Eric Nolan\nNov 2: Re
+ moved Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) · Middleweight
+  · W: Ismail Naurdiev\nNov 2: Removed Johnny Walker (23-10-0) vs Mick Par
+ kin (10-2-0) · Heavyweight · W: Johnny Walker\n\nFull card: https://www.
+ espn.com/mma/fightcenter/_/id/600061182/league/ufc\nTimes and bouts can ch
+ ange\; this calendar refreshes every few hours.
 LOCATION:Delta Center\, Salt Lake City\, UT
 URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -55,9 +39,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061182-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261102T214234Z
+LAST-MODIFIED:20261102T214234Z
+SEQUENCE:1
 DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:UFC 332 Main Card: Silva vs. Wang
@@ -67,9 +51,17 @@ DESCRIPTION:Main Card starts Sat Oct 3 5:00 PM PDT\nWatch: Paramount+\n\nNa
  ht · W: Payton Talbott\nKing Green (36-18-1) vs Esteban Ribovics (17-3-0)
   · Lightweight · W: Esteban Ribovics\nRoberto Soldić (22-4-0) vs Khaos 
  Williams (16-6-0) · Welterweight · W: Roberto Soldić\nAteba Gautier (11
- -2-0) vs Roman Kopylov (16-5-0) · Middleweight · W: Roman Kopylov\n\nFul
- l card: https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc\nTi
- mes and bouts can change\; this calendar refreshes every few hours.
+ -2-0) vs Roman Kopylov (16-5-0) · Middleweight · W: Roman Kopylov\n\nUpd
+ ates:\nNov 2: Removed Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (1
+ 9-9-0) · Lightweight · W: Alexander Hernandez\nNov 2: Removed Jacobe Smi
+ th (14-0-0) vs Bruce Whitehead (8-3-0) · Welterweight · W: Jacobe Smith\
+ nNov 2: Removed Court McGee (23-15-0) vs Eric Nolan (9-5-0) · Welterweigh
+ t · W: Eric Nolan\nNov 2: Removed Marvin Vettori (19-11-1) vs Ismail Naur
+ diev (26-8-0) · Middleweight · W: Ismail Naurdiev\nNov 2: Removed Johnny
+  Walker (23-10-0) vs Mick Parkin (10-2-0) · Heavyweight · W: Johnny Walk
+ er\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061182/leagu
+ e/ufc\nTimes and bouts can change\; this calendar refreshes every few hour
+ s.
 LOCATION:Delta Center\, Salt Lake City\, UT
 URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
 CATEGORIES:UFC\,Main Card

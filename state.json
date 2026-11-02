@@ -126,10 +126,6 @@
           "kind": "prelims",
           "line": "Imanol Rodriguez (8-1-0) vs Alden Coria (13-4-0) \u00b7 Flyweight \u00b7 W: Imanol Rodriguez"
         },
-        "alexander hernandez vs rafael dos anjos": {
-          "kind": "early",
-          "line": "Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) \u00b7 Lightweight \u00b7 W: Alexander Hernandez"
-        },
         "andrey pulyaev vs damian pinas": {
           "kind": "prelims",
           "line": "Damian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) \u00b7 Middleweight \u00b7 W: Damian Pinas"
@@ -146,14 +142,6 @@
           "kind": "main",
           "line": "Ateba Gautier (11-2-0) vs Roman Kopylov (16-5-0) \u00b7 Middleweight \u00b7 W: Roman Kopylov"
         },
-        "bruce whitehead vs jacobe smith": {
-          "kind": "early",
-          "line": "Jacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith"
-        },
-        "court mcgee vs eric nolan": {
-          "kind": "early",
-          "line": "Court McGee (23-15-0) vs Eric Nolan (9-5-0) \u00b7 Welterweight \u00b7 W: Eric Nolan"
-        },
         "deiveson figueiredo vs payton talbott": {
           "kind": "main",
           "line": "Deiveson Figueiredo (25-8-1) vs Payton Talbott (12-1-0) \u00b7 Bantamweight \u00b7 W: Payton Talbott"
@@ -161,14 +149,6 @@
         "esteban ribovics vs king green": {
           "kind": "main",
           "line": "King Green (36-18-1) vs Esteban Ribovics (17-3-0) \u00b7 Lightweight \u00b7 W: Esteban Ribovics"
-        },
-        "ismail naurdiev vs marvin vettori": {
-          "kind": "early",
-          "line": "Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) \u00b7 Middleweight \u00b7 W: Ismail Naurdiev"
-        },
-        "johnny walker vs mick parkin": {
-          "kind": "early",
-          "line": "Johnny Walker (23-10-0) vs Mick Parkin (10-2-0) \u00b7 Heavyweight \u00b7 W: Johnny Walker"
         },
         "khaos williams vs roberto soldi\u0107": {
           "kind": "main",
@@ -180,9 +160,14 @@
         }
       },
       "last_start": "2026-10-04T00:00:00+00:00",
-      "log": [],
+      "log": [
+        "Nov 2: Removed Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) \u00b7 Lightweight \u00b7 W: Alexander Hernandez",
+        "Nov 2: Removed Jacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith",
+        "Nov 2: Removed Court McGee (23-15-0) vs Eric Nolan (9-5-0) \u00b7 Welterweight \u00b7 W: Eric Nolan",
+        "Nov 2: Removed Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) \u00b7 Middleweight \u00b7 W: Ismail Naurdiev",
+        "Nov 2: Removed Johnny Walker (23-10-0) vs Mick Parkin (10-2-0) \u00b7 Heavyweight \u00b7 W: Johnny Walker"
+      ],
       "starts": {
-        "early": "2026-10-03T20:00:00+00:00",
         "main": "2026-10-04T00:00:00+00:00",
         "prelims": "2026-10-03T22:00:00+00:00"
       }
@@ -681,20 +666,15 @@
       "modified": "20261024T042139Z",
       "seq": 0
     },
-    "ufc-600061182-early@ufc-calendar": {
-      "hash": "e7dba47bd5d52b80834bcd5baff32aad524114035980dbd99c6be08f54383aaa",
-      "modified": "20261101T055927Z",
+    "ufc-600061182-main@ufc-calendar": {
+      "hash": "54f2c1863e8e8e816773fd9feb019639fc813b16a9deb015ed48eaad0ef902d7",
+      "modified": "20261102T214234Z",
       "seq": 1
     },
-    "ufc-600061182-main@ufc-calendar": {
-      "hash": "68f40ca78f835bb50dde79efe1ea29ad9f5367ea227b977f416402dd966d6235",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
     "ufc-600061182-prelims@ufc-calendar": {
-      "hash": "94d8ae29f43b612ca22a2500d999662539f5d4156424bd35d57bc1d8e69e06e2",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "ef97f5f9beb0be1c0150318d3419154bb6b48e98956dd16b35e617234d9ab8ee",
+      "modified": "20261102T214234Z",
+      "seq": 1
     },
     "ufc-600061267-early@ufc-calendar": {
       "hash": "1118a453d652415daa72206953a2e277013439c8f334eb3a1e610a00704a3da5",
