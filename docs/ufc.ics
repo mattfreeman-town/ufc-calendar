@@ -659,18 +659,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062420-main@ufc-calendar
-DTSTAMP:20261028T125147Z
-LAST-MODIFIED:20261028T125147Z
-SEQUENCE:0
+DTSTAMP:20261102T004332Z
+LAST-MODIFIED:20261102T004332Z
+SEQUENCE:1
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
 DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
- illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\n\n
+ illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\nBo
+ gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\n\n
  Updates:\nOct 28: Added Quillan Salkilld (13-1-0) vs Benoît Saint Denis (
- 17-4-0) · Lightweight (Main Card)\n\nFull card: https://www.espn.com/mma/
- fightcenter/_/id/600062420/league/ufc\nTimes and bouts can change\; this c
- alendar refreshes every few hours.
+ 17-4-0) · Lightweight (Main Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs
+  Robert Whittaker (28-9-0) · Light Heavyweight (Main Card)\n\nFull card: 
+ https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and 
+ bouts can change\; this calendar refreshes every few hours.
 LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Main Card

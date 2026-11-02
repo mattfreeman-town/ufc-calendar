@@ -634,11 +634,16 @@
         "beno\u00eet saint denis vs quillan salkilld": {
           "kind": "main",
           "line": "Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight"
+        },
+        "bogdan guskov vs robert whittaker": {
+          "kind": "main",
+          "line": "Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) \u00b7 Light Heavyweight"
         }
       },
       "last_start": "2027-02-06T22:00:00+00:00",
       "log": [
-        "Oct 28: Added Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight (Main Card)"
+        "Oct 28: Added Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight (Main Card)",
+        "Nov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) \u00b7 Light Heavyweight (Main Card)"
       ],
       "starts": {
         "main": "2027-02-06T22:00:00+00:00"
@@ -782,9 +787,9 @@
       "seq": 0
     },
     "ufc-600062420-main@ufc-calendar": {
-      "hash": "0891f144a612740cbc2d6f237cfcd6587c80571af8639e6d473e3f9d9b00a7c7",
-      "modified": "20261028T125147Z",
-      "seq": 0
+      "hash": "de50b3a63bc9469313bcd9959cc012e03ae0a1bbd00c61a51d078e703e805962",
+      "modified": "20261102T004332Z",
+      "seq": 1
     },
     "ufc-600062421-card@ufc-calendar": {
       "hash": "056ff8ea47ea760852083774deb47a49435f718de81f5a2b6ce600071dee6abd",
