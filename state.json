@@ -120,58 +120,6 @@
         "prelims": "2026-10-17T21:00:00+00:00"
       }
     },
-    "600061182": {
-      "bouts": {
-        "alden coria vs imanol rodriguez": {
-          "kind": "prelims",
-          "line": "Imanol Rodriguez (8-1-0) vs Alden Coria (13-4-0) \u00b7 Flyweight \u00b7 W: Imanol Rodriguez"
-        },
-        "andrey pulyaev vs damian pinas": {
-          "kind": "prelims",
-          "line": "Damian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) \u00b7 Middleweight \u00b7 W: Damian Pinas"
-        },
-        "anthony romero vs marcus mcghee": {
-          "kind": "prelims",
-          "line": "Marcus McGhee (12-2-0) vs Anthony Romero (12-3-0) \u00b7 Featherweight \u00b7 W: Marcus McGhee"
-        },
-        "anthony wint vs lucas armand": {
-          "kind": "prelims",
-          "line": "Anthony Wint (9-0-0) vs Lucas Armand (6-1-0) \u00b7 Heavyweight \u00b7 W: Anthony Wint"
-        },
-        "ateba gautier vs roman kopylov": {
-          "kind": "main",
-          "line": "Ateba Gautier (11-2-0) vs Roman Kopylov (16-5-0) \u00b7 Middleweight \u00b7 W: Roman Kopylov"
-        },
-        "deiveson figueiredo vs payton talbott": {
-          "kind": "main",
-          "line": "Deiveson Figueiredo (25-8-1) vs Payton Talbott (12-1-0) \u00b7 Bantamweight \u00b7 W: Payton Talbott"
-        },
-        "esteban ribovics vs king green": {
-          "kind": "main",
-          "line": "King Green (36-18-1) vs Esteban Ribovics (17-3-0) \u00b7 Lightweight \u00b7 W: Esteban Ribovics"
-        },
-        "khaos williams vs roberto soldi\u0107": {
-          "kind": "main",
-          "line": "Roberto Soldi\u0107 (22-4-0) vs Khaos Williams (16-6-0) \u00b7 Welterweight \u00b7 W: Roberto Soldi\u0107"
-        },
-        "natalia silva vs wang cong": {
-          "kind": "main",
-          "line": "Natalia Silva (21-5-1) vs Wang Cong (10-2-0) \u00b7 W Flyweight \u00b7 W: Natalia Silva"
-        }
-      },
-      "last_start": "2026-10-04T00:00:00+00:00",
-      "log": [
-        "Nov 2: Removed Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) \u00b7 Lightweight \u00b7 W: Alexander Hernandez",
-        "Nov 2: Removed Jacobe Smith (14-0-0) vs Bruce Whitehead (8-3-0) \u00b7 Welterweight \u00b7 W: Jacobe Smith",
-        "Nov 2: Removed Court McGee (23-15-0) vs Eric Nolan (9-5-0) \u00b7 Welterweight \u00b7 W: Eric Nolan",
-        "Nov 2: Removed Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) \u00b7 Middleweight \u00b7 W: Ismail Naurdiev",
-        "Nov 2: Removed Johnny Walker (23-10-0) vs Mick Parkin (10-2-0) \u00b7 Heavyweight \u00b7 W: Johnny Walker"
-      ],
-      "starts": {
-        "main": "2026-10-04T00:00:00+00:00",
-        "prelims": "2026-10-03T22:00:00+00:00"
-      }
-    },
     "600061267": {
       "bouts": {
         "aaron pico vs losene keita": {
@@ -269,9 +217,9 @@
           "kind": "main",
           "line": "Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) \u00b7 Heavyweight"
         },
-        "jonny parsons vs jose henrique": {
+        "jonny parsons vs jos\u00e9 souza": {
           "kind": "prelims",
-          "line": "Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) \u00b7 Welterweight"
+          "line": "Jonny Parsons (9-3-0) vs Jos\u00e9 Souza (9-1-0) \u00b7 Welterweight"
         },
         "jose delano vs murtazali magomedov": {
           "kind": "prelims",
@@ -300,14 +248,14 @@
       },
       "last_start": "2026-11-08T01:00:00+00:00",
       "log": [
-        "Oct 27: Moved to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight",
-        "Oct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight",
         "Oct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight",
         "Oct 27: Added Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)",
         "Oct 30: Added Gabriel Loren\u00e7o (8-1-0) vs Thomas Petersen (11-5-0) \u00b7 Heavyweight (Prelims)",
         "Oct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) \u00b7 Heavyweight (Main Card)",
         "Oct 30: Removed Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight",
-        "Oct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight"
+        "Oct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight",
+        "Nov 2: Added Jonny Parsons (9-3-0) vs Jos\u00e9 Souza (9-1-0) \u00b7 Welterweight (Prelims)",
+        "Nov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) \u00b7 Welterweight"
       ],
       "starts": {
         "main": "2026-11-08T01:00:00+00:00",
@@ -666,16 +614,6 @@
       "modified": "20261024T042139Z",
       "seq": 0
     },
-    "ufc-600061182-main@ufc-calendar": {
-      "hash": "54f2c1863e8e8e816773fd9feb019639fc813b16a9deb015ed48eaad0ef902d7",
-      "modified": "20261102T214234Z",
-      "seq": 1
-    },
-    "ufc-600061182-prelims@ufc-calendar": {
-      "hash": "ef97f5f9beb0be1c0150318d3419154bb6b48e98956dd16b35e617234d9ab8ee",
-      "modified": "20261102T214234Z",
-      "seq": 1
-    },
     "ufc-600061267-early@ufc-calendar": {
       "hash": "1118a453d652415daa72206953a2e277013439c8f334eb3a1e610a00704a3da5",
       "modified": "20261024T204653Z",
@@ -692,14 +630,14 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "8e7e82d8ec03190fc1ff049ae52e16ac4a58d6f0d280348288a3f1d2f01e2a9c",
-      "modified": "20261031T053738Z",
-      "seq": 4
+      "hash": "7e631814fd50962104203c8350a82b2ac5ffb9a949f948d1924ad876253af91e",
+      "modified": "20261103T064458Z",
+      "seq": 5
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "3f7440dc3d71db46ac34dd9f6fd7242757280101989a19806557ea695cdf44cb",
-      "modified": "20261101T055927Z",
-      "seq": 4
+      "hash": "c9c74cec07ef99ec9614d0fc4df5f62bf96e7fb4c5ec0654a495a1a0236a3b3b",
+      "modified": "20261103T064458Z",
+      "seq": 5
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",

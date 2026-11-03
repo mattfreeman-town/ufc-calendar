@@ -9,66 +9,6 @@ X-WR-CALDESC:UFC events and Dana White's Contender Series\, split by card s
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-600061182-prelims@ufc-calendar
-DTSTAMP:20261102T214234Z
-LAST-MODIFIED:20261102T214234Z
-SEQUENCE:1
-DTSTART:20261003T220000Z
-DTEND:20261004T000000Z
-SUMMARY:UFC 332 Prelims: Silva vs. Wang
-DESCRIPTION:Prelims starts Sat Oct 3 3:00 PM PDT\nWatch: Paramount+\n\nIman
- ol Rodriguez (8-1-0) vs Alden Coria (13-4-0) · Flyweight · W: Imanol Rod
- riguez\nDamian Pinas (11-1-0) vs Andrey Pulyaev (10-6-0) · Middleweight 
- · W: Damian Pinas\nMarcus McGhee (12-2-0) vs Anthony Romero (12-3-0) · F
- eatherweight · W: Marcus McGhee\nAnthony Wint (9-0-0) vs Lucas Armand (6-
- 1-0) · Heavyweight · W: Anthony Wint\n\nUpdates:\nNov 2: Removed Rafael 
- Dos Anjos (32-18-0) vs Alexander Hernandez (19-9-0) · Lightweight · W: A
- lexander Hernandez\nNov 2: Removed Jacobe Smith (14-0-0) vs Bruce Whitehea
- d (8-3-0) · Welterweight · W: Jacobe Smith\nNov 2: Removed Court McGee (
- 23-15-0) vs Eric Nolan (9-5-0) · Welterweight · W: Eric Nolan\nNov 2: Re
- moved Marvin Vettori (19-11-1) vs Ismail Naurdiev (26-8-0) · Middleweight
-  · W: Ismail Naurdiev\nNov 2: Removed Johnny Walker (23-10-0) vs Mick Par
- kin (10-2-0) · Heavyweight · W: Johnny Walker\n\nFull card: https://www.
- espn.com/mma/fightcenter/_/id/600061182/league/ufc\nTimes and bouts can ch
- ange\; this calendar refreshes every few hours.
-LOCATION:Delta Center\, Salt Lake City\, UT
-URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
-CATEGORIES:UFC\,Prelims
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-600061182-main@ufc-calendar
-DTSTAMP:20261102T214234Z
-LAST-MODIFIED:20261102T214234Z
-SEQUENCE:1
-DTSTART:20261004T000000Z
-DTEND:20261004T030000Z
-SUMMARY:UFC 332 Main Card: Silva vs. Wang
-DESCRIPTION:Main Card starts Sat Oct 3 5:00 PM PDT\nWatch: Paramount+\n\nNa
- talia Silva (21-5-1) vs Wang Cong (10-2-0) · W Flyweight · W: Natalia Si
- lva\nDeiveson Figueiredo (25-8-1) vs Payton Talbott (12-1-0) · Bantamweig
- ht · W: Payton Talbott\nKing Green (36-18-1) vs Esteban Ribovics (17-3-0)
-  · Lightweight · W: Esteban Ribovics\nRoberto Soldić (22-4-0) vs Khaos 
- Williams (16-6-0) · Welterweight · W: Roberto Soldić\nAteba Gautier (11
- -2-0) vs Roman Kopylov (16-5-0) · Middleweight · W: Roman Kopylov\n\nUpd
- ates:\nNov 2: Removed Rafael Dos Anjos (32-18-0) vs Alexander Hernandez (1
- 9-9-0) · Lightweight · W: Alexander Hernandez\nNov 2: Removed Jacobe Smi
- th (14-0-0) vs Bruce Whitehead (8-3-0) · Welterweight · W: Jacobe Smith\
- nNov 2: Removed Court McGee (23-15-0) vs Eric Nolan (9-5-0) · Welterweigh
- t · W: Eric Nolan\nNov 2: Removed Marvin Vettori (19-11-1) vs Ismail Naur
- diev (26-8-0) · Middleweight · W: Ismail Naurdiev\nNov 2: Removed Johnny
-  Walker (23-10-0) vs Mick Parkin (10-2-0) · Heavyweight · W: Johnny Walk
- er\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061182/leagu
- e/ufc\nTimes and bouts can change\; this calendar refreshes every few hour
- s.
-LOCATION:Delta Center\, Salt Lake City\, UT
-URL:https://www.espn.com/mma/fightcenter/_/id/600061182/league/ufc
-CATEGORIES:UFC\,Main Card
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-600060740-card@ufc-calendar
 DTSTAMP:20261024T042139Z
 LAST-MODIFIED:20261024T042139Z
@@ -347,9 +287,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261101T055927Z
-LAST-MODIFIED:20261101T055927Z
-SEQUENCE:4
+DTSTAMP:20261103T064458Z
+LAST-MODIFIED:20261103T064458Z
+SEQUENCE:5
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
@@ -360,20 +300,19 @@ DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nGabr
  rtazali Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs
   Ollie Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Lucas Bre
  nnan (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Miloš
- ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs Jose Henrique (9
- -1-0) · Welterweight\n\nUpdates:\nOct 27: Moved to Prelims: Austin Bashi 
- (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\nOct 27: Moved to Main
-  Card: Davey Grant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nOct 
- 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0
- ) · Welterweight\nOct 27: Added Mantas Kondratavičius (9-1-0) vs Andre P
- etroski (13-7-0) (Main Card)\nOct 30: Added Gabriel Lorenço (8-1-0) vs Th
- omas Petersen (11-5-0) · Heavyweight (Prelims)\nOct 30: Added Waldo Corte
- s Acosta (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight (Main Card)\nO
- ct 30: Removed Gabriel Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavywei
- ght\nOct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Wel
- terweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60006126
- 8/league/ufc\nTimes and bouts can change\; this calendar refreshes every f
- ew hours.
+ ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs José Souza (9-1
+ -0) · Welterweight\n\nUpdates:\nOct 27: Moved to Main Card: Seokhyeon Ko 
+ (13-3-0) vs Wellington Turman (18-8-0) · Welterweight\nOct 27: Added Mant
+ as Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\nOct 30:
+  Added Gabriel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight
+  (Prelims)\nOct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (2
+ 3-10-0) · Heavyweight (Main Card)\nOct 30: Removed Gabriel Lorenço (8-1-
+ 0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bonfim (
+ 20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Added Jonny Parsons
+  (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Removed 
+ Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\n\nFull car
+ d: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes a
+ nd bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -382,9 +321,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261031T053738Z
-LAST-MODIFIED:20261031T053738Z
-SEQUENCE:4
+DTSTAMP:20261103T064458Z
+LAST-MODIFIED:20261103T064458Z
+SEQUENCE:5
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Cortes Acosta vs. Walker
@@ -395,18 +334,18 @@ DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nWa
  0) vs Wellington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) v
  s Lucas Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-
  1-0) vs Andre Petroski (13-7-0) · Middleweight\n\nUpdates:\nOct 27: Moved
-  to Prelims: Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherwei
- ght\nOct 27: Moved to Main Card: Davey Grant (18-8-0) vs Elijah Smith (10-
- 1-0) · Bantamweight\nOct 27: Moved to Main Card: Seokhyeon Ko (13-3-0) vs
-  Wellington Turman (18-8-0) · Welterweight\nOct 27: Added Mantas Kondrata
- vičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\nOct 30: Added Gabr
- iel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight (Prelims)\
- nOct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) · 
- Heavyweight (Main Card)\nOct 30: Removed Gabriel Lorenço (8-1-0) vs Alvin
-  Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bonfim (20-1-0) vs 
- Sean Brady (19-2-0) · Welterweight\n\nFull card: https://www.espn.com/mma
- /fightcenter/_/id/600061268/league/ufc\nTimes and bouts can change\; this 
- calendar refreshes every few hours.
+  to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) · Welt
+ erweight\nOct 27: Added Mantas Kondratavičius (9-1-0) vs Andre Petroski (
+ 13-7-0) (Main Card)\nOct 30: Added Gabriel Lorenço (8-1-0) vs Thomas Pete
+ rsen (11-5-0) · Heavyweight (Prelims)\nOct 30: Added Waldo Cortes Acosta 
+ (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight (Main Card)\nOct 30: Re
+ moved Gabriel Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 
+ 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight
+ \nNov 2: Added Jonny Parsons (9-3-0) vs José Souza (9-1-0) · Welterweigh
+ t (Prelims)\nNov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0)
+  · Welterweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6
+ 00061268/league/ufc\nTimes and bouts can change\; this calendar refreshes 
+ every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
