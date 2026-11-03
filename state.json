@@ -531,12 +531,14 @@
           "line": "Ji\u0159\u00ed Proch\u00e1zka (32-6-1) vs Navajo Stirling (11-0-0) \u00b7 Light Heavyweight"
         },
         "shamil gaziev vs tallison teixeira": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
         }
       },
       "last_start": "2026-11-21T18:00:00+00:00",
-      "log": [],
+      "log": [
+        "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
+      ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
         "prelims": "2026-11-21T15:00:00+00:00"
@@ -690,14 +692,14 @@
       "seq": 0
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "5a81074f1b6ca2900c6a9b496549c1e09c4b9ed0508520b0dc1b3634182cd379",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "5ae5f1e45461c09eab2332642a787c2184fcdf9736ba1a4e4820b54a1d50dd5b",
+      "modified": "20261103T232112Z",
+      "seq": 1
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "588b1b076f47ac3d28c7b25a097e9ac03e8eef864d6329f77c9e911370687353",
-      "modified": "20261024T042139Z",
-      "seq": 0
+      "hash": "723428be7f613392712c644a1322b7ca3a55c982464077a0c78711acfba145d4",
+      "modified": "20261103T232112Z",
+      "seq": 1
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",

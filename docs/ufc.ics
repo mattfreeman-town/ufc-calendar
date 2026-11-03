@@ -437,19 +437,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261103T232112Z
+LAST-MODIFIED:20261103T232112Z
+SEQUENCE:1
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
-DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nJak
- e Matthews (23-8-0) vs Tahir Abdullayev (20-3-0) · Welterweight\nAleksand
- re Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nAsu Almabayev
-  (24-3-0) vs Kyoji Horiguchi (36-6-0) · Flyweight\nAmir Albazi (17-3-0) v
- s Alessandro Costa (17-5-0) · Flyweight\n\nFull card: https://www.espn.co
- m/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can change\; 
- this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nSha
+ mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nJake Matt
+ hews (23-8-0) vs Tahir Abdullayev (20-3-0) · Welterweight\nAleksandre Top
+ uria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nAsu Almabayev (24-3
+ -0) vs Kyoji Horiguchi (36-6-0) · Flyweight\nAmir Albazi (17-3-0) vs Ales
+ sandro Costa (17-5-0) · Flyweight\n\nUpdates:\nNov 3: Moved to Prelims: S
+ hamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\n\nFull 
+ card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTime
+ s and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -458,9 +460,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
+DTSTAMP:20261103T232112Z
+LAST-MODIFIED:20261103T232112Z
+SEQUENCE:1
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
@@ -468,10 +470,11 @@ DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  Jiří Procházka (32-6-1) vs Navajo Stirling (11-0-0) · Light Heavyweigh
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
  nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nJared Canno
- nier (18-10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nShamil Gaziev 
- (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\n\nFull card: https:/
- /www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts c
- an change\; this calendar refreshes every few hours.
+ nier (18-10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNo
+ v 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0)
+  · Heavyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
+ 0061665/league/ufc\nTimes and bouts can change\; this calendar refreshes e
+ very few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card
