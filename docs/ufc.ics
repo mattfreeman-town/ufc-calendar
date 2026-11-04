@@ -287,32 +287,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261103T064458Z
-LAST-MODIFIED:20261103T064458Z
-SEQUENCE:5
+DTSTAMP:20261104T061602Z
+LAST-MODIFIED:20261104T061602Z
+SEQUENCE:6
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
-DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nGabr
- iel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Si
- lva (19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nMitch Raposo 
- (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nJose Delano (17-3-0) vs Mu
- rtazali Magomedov (11-0-0) · Featherweight\nKeiichiro Nakamura (8-1-0) vs
-  Ollie Schmid (4-3-0) · Featherweight\nAustin Bashi (14-2-0) vs Lucas Bre
- nnan (11-3-0) · Featherweight\nPriscila Cachoeira (13-9-0) vs Nina Miloš
- ević (9-1-0) · W Bantamweight\nJonny Parsons (9-3-0) vs José Souza (9-1
- -0) · Welterweight\n\nUpdates:\nOct 27: Moved to Main Card: Seokhyeon Ko 
- (13-3-0) vs Wellington Turman (18-8-0) · Welterweight\nOct 27: Added Mant
- as Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) (Main Card)\nOct 30:
-  Added Gabriel Lorenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight
-  (Prelims)\nOct 30: Added Waldo Cortes Acosta (17-4-0) vs Johnny Walker (2
- 3-10-0) · Heavyweight (Main Card)\nOct 30: Removed Gabriel Lorenço (8-1-
- 0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bonfim (
- 20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Added Jonny Parsons
-  (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Removed 
- Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\n\nFull car
- d: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc\nTimes a
- nd bouts can change\; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKeii
+ chiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) · Featherweight\nGabriel L
+ orenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Silva (
+ 19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nJose Delano (17-3-
+ 0) vs Murtazali Magomedov (11-0-0) · Featherweight\nAustin Bashi (14-2-0)
+  vs Lucas Brennan (11-3-0) · Featherweight\nMantas Kondratavičius (9-1-0
+ ) vs Andre Petroski (13-7-0) · Middleweight\nSeokhyeon Ko (13-3-0) vs Wel
+ lington Turman (18-8-0) · Welterweight\nJonny Parsons (9-3-0) vs José So
+ uza (9-1-0) · Welterweight\n\nUpdates:\nOct 30: Removed Gabriel Lorenço 
+ (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bon
+ fim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Added Jonny Pa
+ rsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Rem
+ oved Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3
+ : Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7
+ -0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wel
+ lington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Prisci
+ la Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3
+ : Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Fl
+ yweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268/
+ league/ufc\nTimes and bouts can change\; this calendar refreshes every few
+  hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -321,31 +322,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261103T064458Z
-LAST-MODIFIED:20261103T064458Z
-SEQUENCE:5
+DTSTAMP:20261104T061602Z
+LAST-MODIFIED:20261104T061602Z
+SEQUENCE:6
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Cortes Acosta vs. Walker
 DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nWa
  ldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight\nTati
  ana Suarez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nDavey Gr
- ant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nSeokhyeon Ko (13-3-
- 0) vs Wellington Turman (18-8-0) · Welterweight\nBilly Elekana (10-2-0) v
- s Lucas Fernando (14-3-0) · Light Heavyweight\nMantas Kondratavičius (9-
- 1-0) vs Andre Petroski (13-7-0) · Middleweight\n\nUpdates:\nOct 27: Moved
-  to Main Card: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) · Welt
- erweight\nOct 27: Added Mantas Kondratavičius (9-1-0) vs Andre Petroski (
- 13-7-0) (Main Card)\nOct 30: Added Gabriel Lorenço (8-1-0) vs Thomas Pete
- rsen (11-5-0) · Heavyweight (Prelims)\nOct 30: Added Waldo Cortes Acosta 
- (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight (Main Card)\nOct 30: Re
- moved Gabriel Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 
- 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight
- \nNov 2: Added Jonny Parsons (9-3-0) vs José Souza (9-1-0) · Welterweigh
- t (Prelims)\nNov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0)
-  · Welterweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6
- 00061268/league/ufc\nTimes and bouts can change\; this calendar refreshes 
- every few hours.
+ ant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nBilly Elekana (10-2
+ -0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nPriscila Cachoeira (1
+ 3-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nMitch Raposo (11-3-0
+ ) vs Marcos Degli (15-3-0) · Flyweight\n\nUpdates:\nOct 30: Removed Gabri
+ el Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed
+  Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Ad
+ ded Jonny Parsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)
+ \nNov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterw
+ eight\nNov 3: Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Pe
+ troski (13-7-0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13
+ -3-0) vs Wellington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main 
+ Card: Priscila Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamw
+ eight\nNov 3: Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (1
+ 5-3-0) · Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/i
+ d/600061268/league/ufc\nTimes and bouts can change\; this calendar refresh
+ es every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -593,20 +594,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062420-main@ufc-calendar
-DTSTAMP:20261102T004332Z
-LAST-MODIFIED:20261102T004332Z
-SEQUENCE:1
+DTSTAMP:20261104T061602Z
+LAST-MODIFIED:20261104T061602Z
+SEQUENCE:2
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
 DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
  illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\nBo
- gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\n\n
- Updates:\nOct 28: Added Quillan Salkilld (13-1-0) vs Benoît Saint Denis (
- 17-4-0) · Lightweight (Main Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs
-  Robert Whittaker (28-9-0) · Light Heavyweight (Main Card)\n\nFull card: 
- https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and 
- bouts can change\; this calendar refreshes every few hours.
+ gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\nKa
+ an Ofli (15-4-1) vs Joanderson Brito (20-5-1) · Featherweight\nMarwan Rah
+ iki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight\n\nUpdates:\nOct 28: A
+ dded Quillan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightwei
+ ght (Main Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (
+ 28-9-0) · Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) 
+ vs Joanderson Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Ma
+ rwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\n\
+ nFull card: https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
+ \nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Main Card
