@@ -1,34 +1,5 @@
 {
   "events": {
-    "600060740": {
-      "bouts": {
-        "alexander chavez vs roque concei\u00e7\u00e3o": {
-          "kind": "card",
-          "line": "Roque Concei\u00e7\u00e3o (12-3-0) vs Alexander Chavez (9-1-0) \u00b7 Flyweight \u00b7 W: Roque Concei\u00e7\u00e3o"
-        },
-        "alivia bierley vs summer onley": {
-          "kind": "card",
-          "line": "Summer Onley (6-1-0) vs Alivia Bierley (6-1-0) \u00b7 W Bantamweight \u00b7 W: Alivia Bierley"
-        },
-        "mateus soares vs ryuho miyaguchi": {
-          "kind": "card",
-          "line": "Ryuho Miyaguchi (7-2-0) vs Mateus Soares (12-2-0) \u00b7 Bantamweight \u00b7 W: Mateus Soares"
-        },
-        "nell ariano vs preston lagrange": {
-          "kind": "card",
-          "line": "Preston LaGrange (7-1-0) vs Nell Ariano (6-1-0) \u00b7 Light Heavyweight \u00b7 W: Preston LaGrange"
-        },
-        "ozzy martin vs salhahuddin everett": {
-          "kind": "card",
-          "line": "Salhahuddin Everett (5-0-0) vs Ozzy Martin (4-1-0) \u00b7 Welterweight \u00b7 W: Salhahuddin Everett"
-        }
-      },
-      "last_start": "2026-10-06T23:00:00+00:00",
-      "log": [],
-      "starts": {
-        "card": "2026-10-06T23:00:00+00:00"
-      }
-    },
     "600060741": {
       "bouts": {
         "aline pereira vs smilla sundell": {
@@ -605,11 +576,6 @@
     }
   },
   "vevents": {
-    "ufc-600060740-card@ufc-calendar": {
-      "hash": "c4688a5d1acbba2efc88f9c32fe84a7cccf1b2d409850058cb964175f35f200c",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
     "ufc-600060741-card@ufc-calendar": {
       "hash": "843042492b1424b9b7d27e4f5b0d811ea703fd0378b573e5b48f386da48f238b",
       "modified": "20261024T042139Z",
