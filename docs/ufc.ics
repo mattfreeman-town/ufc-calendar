@@ -287,9 +287,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261104T061602Z
-LAST-MODIFIED:20261104T061602Z
-SEQUENCE:6
+DTSTAMP:20261105T064245Z
+LAST-MODIFIED:20261105T064245Z
+SEQUENCE:7
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
@@ -298,22 +298,22 @@ DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKeii
  orenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Silva (
  19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nJose Delano (17-3-
  0) vs Murtazali Magomedov (11-0-0) · Featherweight\nAustin Bashi (14-2-0)
-  vs Lucas Brennan (11-3-0) · Featherweight\nMantas Kondratavičius (9-1-0
- ) vs Andre Petroski (13-7-0) · Middleweight\nSeokhyeon Ko (13-3-0) vs Wel
- lington Turman (18-8-0) · Welterweight\nJonny Parsons (9-3-0) vs José So
- uza (9-1-0) · Welterweight\n\nUpdates:\nOct 30: Removed Gabriel Lorenço 
- (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed Gabriel Bon
- fim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Added Jonny Pa
- rsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Rem
- oved Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3
- : Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7
- -0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wel
- lington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Prisci
- la Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3
- : Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Fl
- yweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268/
- league/ufc\nTimes and bouts can change\; this calendar refreshes every few
-  hours.
+  vs Carlos Calderon (11-4-0) · Featherweight\nMantas Kondratavičius (9-1
+ -0) vs Andre Petroski (13-7-0) · Middleweight\nSeokhyeon Ko (13-3-0) vs W
+ ellington Turman (18-8-0) · Welterweight\nJonny Parsons (9-3-0) vs José 
+ Souza (9-1-0) · Welterweight\n\nUpdates:\nNov 2: Added Jonny Parsons (9-3
+ -0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Removed Jonny
+  Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3: Moved to
+  Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) · Mid
+ dleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wellington Tu
+ rman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Priscila Cachoei
+ ra (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3: Moved to
+  Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nN
+ ov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) · Featherwe
+ ight (Prelims)\nNov 4: Removed Austin Bashi (14-2-0) vs Lucas Brennan (11-
+ 3-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fightcenter/_
+ /id/600061268/league/ufc\nTimes and bouts can change\; this calendar refre
+ shes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -322,9 +322,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261104T061602Z
-LAST-MODIFIED:20261104T061602Z
-SEQUENCE:6
+DTSTAMP:20261105T064245Z
+LAST-MODIFIED:20261105T064245Z
+SEQUENCE:7
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Cortes Acosta vs. Walker
@@ -334,19 +334,19 @@ DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nWa
  ant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nBilly Elekana (10-2
  -0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nPriscila Cachoeira (1
  3-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nMitch Raposo (11-3-0
- ) vs Marcos Degli (15-3-0) · Flyweight\n\nUpdates:\nOct 30: Removed Gabri
- el Lorenço (8-1-0) vs Alvin Hines (7-2-0) · Heavyweight\nOct 30: Removed
-  Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\nNov 2: Ad
- ded Jonny Parsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)
- \nNov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterw
- eight\nNov 3: Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Pe
- troski (13-7-0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13
- -3-0) vs Wellington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main 
- Card: Priscila Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamw
- eight\nNov 3: Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (1
- 5-3-0) · Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/i
- d/600061268/league/ufc\nTimes and bouts can change\; this calendar refresh
- es every few hours.
+ ) vs Marcos Degli (15-3-0) · Flyweight\n\nUpdates:\nNov 2: Added Jonny Pa
+ rsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Rem
+ oved Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3
+ : Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7
+ -0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wel
+ lington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Prisci
+ la Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3
+ : Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Fl
+ yweight\nNov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) ·
+  Featherweight (Prelims)\nNov 4: Removed Austin Bashi (14-2-0) vs Lucas Br
+ ennan (11-3-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fig
+ htcenter/_/id/600061268/league/ufc\nTimes and bouts can change\; this cale
+ ndar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card

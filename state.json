@@ -193,9 +193,9 @@
           "kind": "prelims",
           "line": "Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
         },
-        "austin bashi vs lucas brennan": {
+        "austin bashi vs carlos calderon": {
           "kind": "prelims",
-          "line": "Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight"
+          "line": "Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) \u00b7 Featherweight"
         },
         "billy elekana vs lucas fernando": {
           "kind": "main",
@@ -248,14 +248,14 @@
       },
       "last_start": "2026-11-08T01:00:00+00:00",
       "log": [
-        "Oct 30: Removed Gabriel Loren\u00e7o (8-1-0) vs Alvin Hines (7-2-0) \u00b7 Heavyweight",
-        "Oct 30: Removed Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight",
         "Nov 2: Added Jonny Parsons (9-3-0) vs Jos\u00e9 Souza (9-1-0) \u00b7 Welterweight (Prelims)",
         "Nov 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) \u00b7 Welterweight",
         "Nov 3: Moved to Prelims: Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight",
         "Nov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight",
         "Nov 3: Moved to Main Card: Priscila Cachoeira (13-9-0) vs Nina Milo\u0161evi\u0107 (9-1-0) \u00b7 W Bantamweight",
-        "Nov 3: Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight"
+        "Nov 3: Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight",
+        "Nov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) \u00b7 Featherweight (Prelims)",
+        "Nov 4: Removed Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) \u00b7 Featherweight"
       ],
       "starts": {
         "main": "2026-11-08T01:00:00+00:00",
@@ -642,14 +642,14 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "6aca89e43193fcf53deac1244afcb5069110c28764db4aab3718d7219fcc57f5",
-      "modified": "20261104T061602Z",
-      "seq": 6
+      "hash": "b41f5497e8508c5aa006b0a2ee561e9ad507fb780390e0676f3c02f758b34f09",
+      "modified": "20261105T064245Z",
+      "seq": 7
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "5094d4fe2f857495924673e24b951868486648012c8c2e693e7a81fee094ca83",
-      "modified": "20261104T061602Z",
-      "seq": 6
+      "hash": "364426409d235d5c705b7e9cd23845a9b2ab555fff3f4b6f9244fa3419228063",
+      "modified": "20261105T064245Z",
+      "seq": 7
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",
