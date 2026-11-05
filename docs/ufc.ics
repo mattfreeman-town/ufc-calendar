@@ -355,26 +355,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-early@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:2
+DTSTAMP:20261105T172314Z
+LAST-MODIFIED:20261105T172314Z
+SEQUENCE:3
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 SUMMARY:UFC 334 Early Prelims: Gane vs. Hokit
 DESCRIPTION:Early Prelims starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\
- n\nMacy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAdria
- n Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nNazim Sadykhov (1
- 1-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\nJared Gordon (21-9
- -0) vs Melquizael Costa (26-8-0) · Lightweight\nEvan Elder (10-2-0) vs Sa
- muel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Added Donte John
- son (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct 
- 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweigh
- t (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susu
- rkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samue
- l Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelim
- s: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\n\nFull 
- card: https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTime
- s and bouts can change\; this calendar refreshes every few hours.
+ n\nJared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight\nMacy
+  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAdrian Yañe
+ z (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nEvan Elder (10-2-0) vs S
+ amuel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Added Donte Joh
+ nson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct
+  25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweig
+ ht (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Sus
+ urkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samu
+ el Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Preli
+ ms: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5:
+  Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Light
+ weight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061400/l
+ eague/ufc\nTimes and bouts can change\; this calendar refreshes every few 
+ hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Early Prelims
@@ -383,9 +384,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-prelims@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:2
+DTSTAMP:20261105T172314Z
+LAST-MODIFIED:20261105T172314Z
+SEQUENCE:3
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:UFC 334 Prelims: Gane vs. Hokit
@@ -399,9 +400,11 @@ DESCRIPTION:Prelims starts Sat Nov 14 4:00 PM PST\nWatch: Paramount+\n\nSte
  t (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susu
  rkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samue
  l Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelim
- s: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\n\nFull 
- card: https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTime
- s and bouts can change\; this calendar refreshes every few hours.
+ s: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: 
+ Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightw
+ eight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061400/le
+ ague/ufc\nTimes and bouts can change\; this calendar refreshes every few h
+ ours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -410,9 +413,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-main@ufc-calendar
-DTSTAMP:20261028T054003Z
-LAST-MODIFIED:20261028T054003Z
-SEQUENCE:2
+DTSTAMP:20261105T172314Z
+LAST-MODIFIED:20261105T172314Z
+SEQUENCE:3
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:UFC 334 Main Card: Gane vs. Hokit
@@ -427,9 +430,10 @@ DESCRIPTION:Main Card starts Sat Nov 14 6:00 PM PST\nWatch: Paramount+\n\nC
  ms)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0)
   · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (11-
  1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelims: Donte Johns
- on (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\n\nFull card: https://
- www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTimes and bouts ca
- n change\; this calendar refreshes every few hours.
+ on (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: Removed Nazim 
+ Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\n\nFull 
+ card: https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\nTime
+ s and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -438,21 +442,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261103T232112Z
-LAST-MODIFIED:20261103T232112Z
-SEQUENCE:1
+DTSTAMP:20261105T172314Z
+LAST-MODIFIED:20261105T172314Z
+SEQUENCE:2
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
 DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nSha
- mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nJake Matt
- hews (23-8-0) vs Tahir Abdullayev (20-3-0) · Welterweight\nAleksandre Top
- uria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nAsu Almabayev (24-3
- -0) vs Kyoji Horiguchi (36-6-0) · Flyweight\nAmir Albazi (17-3-0) vs Ales
- sandro Costa (17-5-0) · Flyweight\n\nUpdates:\nNov 3: Moved to Prelims: S
- hamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\n\nFull 
- card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTime
- s and bouts can change\; this calendar refreshes every few hours.
+ mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Alba
+ zi (17-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8
+ -0) vs Tahir Abdullayev (20-3-0) · Welterweight\n\nUpdates:\nNov 3: Moved
+  to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyw
+ eight\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabaye
+ v (24-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7-
+ 1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https://www.es
+ pn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can chan
+ ge\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -461,21 +466,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261103T232112Z
-LAST-MODIFIED:20261103T232112Z
-SEQUENCE:1
+DTSTAMP:20261105T172314Z
+LAST-MODIFIED:20261105T172314Z
+SEQUENCE:2
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
 DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  Jiří Procházka (32-6-1) vs Navajo Stirling (11-0-0) · Light Heavyweigh
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
- nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nJared Canno
- nier (18-10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNo
- v 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0)
-  · Heavyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
- 0061665/league/ufc\nTimes and bouts can change\; this calendar refreshes e
- very few hours.
+ nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nKyoji Horig
+ uchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nJared Cannonier (18-
+ 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nAleksandre Topuria (7-1
+ -0) vs Santiago Luna (8-1-0) · Bantamweight\n\nUpdates:\nNov 3: Moved to 
+ Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweigh
+ t\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (2
+ 4-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0)
+  vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https://www.espn.c
+ om/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can change\;
+  this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card

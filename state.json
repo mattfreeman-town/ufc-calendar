@@ -308,10 +308,6 @@
           "kind": "early",
           "line": "Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight"
         },
-        "jefferson nascimento vs nazim sadykhov": {
-          "kind": "early",
-          "line": "Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) \u00b7 Lightweight"
-        },
         "jim miller vs terrance mckinney": {
           "kind": "prelims",
           "line": "Jim Miller (39-19-0) vs Terrance McKinney (18-9-0) \u00b7 Lightweight"
@@ -327,7 +323,8 @@
         "Oct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight (Early Prelims)",
         "Oct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight",
         "Oct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (11-1-0) \u00b7 Lightweight (Early Prelims)",
-        "Oct 27: Moved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight"
+        "Oct 27: Moved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight",
+        "Nov 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) \u00b7 Lightweight"
       ],
       "starts": {
         "early": "2026-11-14T22:00:00+00:00",
@@ -499,7 +496,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -511,8 +508,8 @@
           "line": "Aljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) \u00b7 Featherweight"
         },
         "asu almabayev vs kyoji horiguchi": {
-          "kind": "prelims",
-          "line": "Asu Almabayev (24-3-0) vs Kyoji Horiguchi (36-6-0) \u00b7 Flyweight"
+          "kind": "main",
+          "line": "Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight"
         },
         "brian ortega vs dan hooker": {
           "kind": "main",
@@ -537,7 +534,9 @@
       },
       "last_start": "2026-11-21T18:00:00+00:00",
       "log": [
-        "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
+        "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight",
+        "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
+        "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -652,19 +651,19 @@
       "seq": 7
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "e6786ebc0067cb43281f9aa8e6a40b8dd25065790e77c8e58ce948aac26e0505",
-      "modified": "20261028T054003Z",
-      "seq": 2
+      "hash": "4c2db647f8a2dcde20ce718bd57e307aef09f03c814b6350a411498a79014c6c",
+      "modified": "20261105T172314Z",
+      "seq": 3
     },
     "ufc-600061400-main@ufc-calendar": {
-      "hash": "31545245ffb45d40516120d39f067db82c8c39f88eaf568e2246cdf6072b5241",
-      "modified": "20261028T054003Z",
-      "seq": 2
+      "hash": "ca99bdf00441459ae413a850925f27e20dd897a57d992119192208a4b535849a",
+      "modified": "20261105T172314Z",
+      "seq": 3
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "3a82ea22045b41043eea1052564fb654603e7bb1369657185841aa40231f04cb",
-      "modified": "20261028T054003Z",
-      "seq": 2
+      "hash": "15e90192e8fd8f6b45389dad629ac1c1d427111b95933c6a6754dc9fbac881be",
+      "modified": "20261105T172314Z",
+      "seq": 3
     },
     "ufc-600061401-early@ufc-calendar": {
       "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
@@ -702,14 +701,14 @@
       "seq": 0
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "5ae5f1e45461c09eab2332642a787c2184fcdf9736ba1a4e4820b54a1d50dd5b",
-      "modified": "20261103T232112Z",
-      "seq": 1
+      "hash": "021719de984efd14fed23f65a9511d7e2adba637e1763d6fa43e7cc1d4f8bfc5",
+      "modified": "20261105T172314Z",
+      "seq": 2
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "723428be7f613392712c644a1322b7ca3a55c982464077a0c78711acfba145d4",
-      "modified": "20261103T232112Z",
-      "seq": 1
+      "hash": "abc01f71020c41f0f79a06463a492fb2d4081adbaa9bd7503947abd92d1936f8",
+      "modified": "20261105T172314Z",
+      "seq": 2
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
