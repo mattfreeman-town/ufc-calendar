@@ -263,34 +263,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261108T003329Z
-LAST-MODIFIED:20261108T003329Z
-SEQUENCE:8
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:9
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
 DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKeii
- chiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) · Featherweight\nGabriel L
- orenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Silva (
- 20-7-0) vs Gabriella Fernandes (11-5-0) · W Flyweight · W: Karine Silva\
- nJose Delano (17-4-0) vs Murtazali Magomedov (12-0-0) · Featherweight · 
- W: Murtazali Magomedov\nAustin Bashi (15-2-0) vs Carlos Calderon (11-5-0) 
- · Featherweight · W: Austin Bashi\nMantas Kondratavičius (9-2-0) vs And
- re Petroski (14-6-0) · Middleweight · W: Andre Petroski\nSeokhyeon Ko (1
- 4-3-0) vs Wellington Turman (18-9-0) · Welterweight · W: Seokhyeon Ko\nJ
- onny Parsons (9-4-0) vs José Souza (10-1-0) · Welterweight · W: José S
- ouza\n\nUpdates:\nNov 2: Added Jonny Parsons (9-3-0) vs José Souza (9-1-0
- ) · Welterweight (Prelims)\nNov 2: Removed Jonny Parsons (9-3-0) vs Jose 
- Henrique (9-1-0) · Welterweight\nNov 3: Moved to Prelims: Mantas Kondrata
- vičius (9-1-0) vs Andre Petroski (13-7-0) · Middleweight\nNov 3: Moved t
- o Prelims: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) · Welterwe
- ight\nNov 3: Moved to Main Card: Priscila Cachoeira (13-9-0) vs Nina Milo
- šević (9-1-0) · W Bantamweight\nNov 3: Moved to Main Card: Mitch Raposo
-  (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nNov 4: Added Austin Bashi
-  (14-2-0) vs Carlos Calderon (11-4-0) · Featherweight (Prelims)\nNov 4: R
- emoved Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\n\
- nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
- \nTimes and bouts can change\; this calendar refreshes every few hours.
+ chiro Nakamura (8-2-0) vs Ollie Schmid (5-3-0) · Featherweight · W: Olli
+ e Schmid\nGabriel Lorenço (8-2-0) vs Thomas Petersen (12-5-0) · Heavywei
+ ght · W: Thomas Petersen\nKarine Silva (20-7-0) vs Gabriella Fernandes (1
+ 1-5-0) · W Flyweight · W: Karine Silva\nJose Delano (17-4-0) vs Murtazal
+ i Magomedov (12-0-0) · Featherweight · W: Murtazali Magomedov\nAustin Ba
+ shi (15-2-0) vs Carlos Calderon (11-5-0) · Featherweight · W: Austin Bas
+ hi\nMantas Kondratavičius (9-2-0) vs Andre Petroski (14-6-0) · Middlewei
+ ght · W: Andre Petroski\nSeokhyeon Ko (14-3-0) vs Wellington Turman (18-9
+ -0) · Welterweight · W: Seokhyeon Ko\nJonny Parsons (9-4-0) vs José Sou
+ za (10-1-0) · Welterweight · W: José Souza\n\nUpdates:\nNov 2: Added Jo
+ nny Parsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 
+ 2: Removed Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\
+ nNov 3: Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski
+  (13-7-0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) 
+ vs Wellington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: 
+ Priscila Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\
+ nNov 3: Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0)
+  · Flyweight\nNov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4
+ -0) · Featherweight (Prelims)\nNov 4: Removed Austin Bashi (14-2-0) vs Lu
+ cas Brennan (11-3-0) · Featherweight\n\nFull card: https://www.espn.com/m
+ ma/fightcenter/_/id/600061268/league/ufc\nTimes and bouts can change\; thi
+ s calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -299,31 +300,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-main@ufc-calendar
-DTSTAMP:20261105T064245Z
-LAST-MODIFIED:20261105T064245Z
-SEQUENCE:7
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:8
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:UFC Fight Night Main Card: Cortes Acosta vs. Walker
 DESCRIPTION:Main Card starts Sat Nov 7 5:00 PM PST\nWatch: Paramount+\n\nWa
- ldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) · Heavyweight\nTati
- ana Suarez (13-1-0) vs Virna Jandiroba (23-4-0) · W Strawweight\nDavey Gr
- ant (18-8-0) vs Elijah Smith (10-1-0) · Bantamweight\nBilly Elekana (10-2
- -0) vs Lucas Fernando (14-3-0) · Light Heavyweight\nPriscila Cachoeira (1
- 3-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nMitch Raposo (11-3-0
- ) vs Marcos Degli (15-3-0) · Flyweight\n\nUpdates:\nNov 2: Added Jonny Pa
- rsons (9-3-0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Rem
- oved Jonny Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3
- : Moved to Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7
- -0) · Middleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wel
- lington Turman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Prisci
- la Cachoeira (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3
- : Moved to Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Fl
- yweight\nNov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) ·
-  Featherweight (Prelims)\nNov 4: Removed Austin Bashi (14-2-0) vs Lucas Br
- ennan (11-3-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fig
- htcenter/_/id/600061268/league/ufc\nTimes and bouts can change\; this cale
- ndar refreshes every few hours.
+ ldo Cortes Acosta (17-5-0) vs Johnny Walker (24-10-0) · Heavyweight · W:
+  Johnny Walker\nTatiana Suarez (14-1-0) vs Virna Jandiroba (23-5-0) · W S
+ trawweight · W: Tatiana Suarez\nDavey Grant (18-9-0) vs Elijah Smith (11-
+ 1-0) · Bantamweight · W: Elijah Smith\nBilly Elekana (10-3-0) vs Lucas F
+ ernando (15-3-0) · Light Heavyweight · W: Lucas Fernando\nPriscila Cacho
+ eira (13-10-0) vs Nina Milošević (10-1-0) · W Bantamweight · W: Nina M
+ ilošević\nMitch Raposo (12-3-0) vs Marcos Degli (15-4-0) · Flyweight ·
+  W: Mitch Raposo\n\nUpdates:\nNov 2: Added Jonny Parsons (9-3-0) vs José 
+ Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Removed Jonny Parsons (9-3
+ -0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3: Moved to Prelims: Man
+ tas Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) · Middleweight\nNo
+ v 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0)
+  · Welterweight\nNov 3: Moved to Main Card: Priscila Cachoeira (13-9-0) v
+ s Nina Milošević (9-1-0) · W Bantamweight\nNov 3: Moved to Main Card: M
+ itch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nNov 4: Added A
+ ustin Bashi (14-2-0) vs Carlos Calderon (11-4-0) · Featherweight (Prelims
+ )\nNov 4: Removed Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Feath
+ erweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268
+ /league/ufc\nTimes and bouts can change\; this calendar refreshes every fe
+ w hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -419,22 +422,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261105T172314Z
-LAST-MODIFIED:20261105T172314Z
-SEQUENCE:2
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:3
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
-DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nSha
- mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Alba
- zi (17-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8
- -0) vs Tahir Abdullayev (20-3-0) · Welterweight\n\nUpdates:\nNov 3: Moved
-  to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyw
- eight\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabaye
- v (24-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7-
- 1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https://www.es
- pn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can chan
- ge\; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nAle
+ ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nShamil G
+ aziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Albazi (1
+ 7-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8-0) v
+ s Tahir Abdullayev (20-3-0) · Welterweight\n\nUpdates:\nNov 3: Moved to P
+ relims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight
+ \nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24
+ -3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) 
+ vs Santiago Luna (8-1-0) · Bantamweight\nNov 8: Moved to Prelims: Aleksan
+ dre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card:
+  https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and
+  bouts can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -443,9 +448,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261105T172314Z
-LAST-MODIFIED:20261105T172314Z
-SEQUENCE:2
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:3
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
@@ -454,16 +459,62 @@ DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
  nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nKyoji Horig
  uchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nJared Cannonier (18-
- 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nAleksandre Topuria (7-1
- -0) vs Santiago Luna (8-1-0) · Bantamweight\n\nUpdates:\nNov 3: Moved to 
- Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweigh
- t\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (2
- 4-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0)
-  vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https://www.espn.c
- om/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can change\;
-  this calendar refreshes every few hours.
+ 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNov 3: Move
+ d to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavy
+ weight\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabay
+ ev (24-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7
+ -1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 8: Moved to Prelims: A
+ leksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull
+  card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTim
+ es and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062700-prelims@ufc-calendar
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:0
+DTSTART:20261205T150000Z
+DTEND:20261205T180000Z
+SUMMARY:UFC Fight Night Prelims: Adesanya vs Magomedov
+DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nBrun
+ o Silva (15-9-2) vs Jafel Filho (17-5-0) · Flyweight\nUran Satybaldiev (9
+ -1-0) vs Ivan Gnizditskiy (7-0-0) · Light Heavyweight\nMarco Tulio (14-3-
+ 0) vs JunYong Park (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Meh
+ emmedeli Osmanli (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs 
+ Matthieu Letho Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs 
+ Hecher Sosa (15-1-0) · Bantamweight\n\nFull card: https://www.espn.com/mm
+ a/fightcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; this
+  calendar refreshes every few hours.
+LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
+URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062700-main@ufc-calendar
+DTSTAMP:20261108T101700Z
+LAST-MODIFIED:20261108T101700Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:UFC Fight Night Main Card: Adesanya vs Magomedov
+DESCRIPTION:Main Card starts Sat Dec 5 10:00 AM PST\nWatch: Paramount+\n\nI
+ srael Adesanya (24-6-0) vs Shara Magomedov (17-1-0) · Middleweight\nIan M
+ achado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) · Welterweight\nSerghei
+  Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\nLevan Chokheli (1
+ 5-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nMairon Santos (18-1-0) v
+ s Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (7-0-0) vs Ion
+  Cutelaba (20-12-1) · Light Heavyweight\n\nFull card: https://www.espn.co
+ m/mma/fightcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; 
+ this calendar refreshes every few hours.
+LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
+URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Main Card
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

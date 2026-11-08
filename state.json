@@ -170,15 +170,15 @@
         },
         "billy elekana vs lucas fernando": {
           "kind": "main",
-          "line": "Billy Elekana (10-2-0) vs Lucas Fernando (14-3-0) \u00b7 Light Heavyweight"
+          "line": "Billy Elekana (10-3-0) vs Lucas Fernando (15-3-0) \u00b7 Light Heavyweight \u00b7 W: Lucas Fernando"
         },
         "davey grant vs elijah smith": {
           "kind": "main",
-          "line": "Davey Grant (18-8-0) vs Elijah Smith (10-1-0) \u00b7 Bantamweight"
+          "line": "Davey Grant (18-9-0) vs Elijah Smith (11-1-0) \u00b7 Bantamweight \u00b7 W: Elijah Smith"
         },
         "gabriel loren\u00e7o vs thomas petersen": {
           "kind": "prelims",
-          "line": "Gabriel Loren\u00e7o (8-1-0) vs Thomas Petersen (11-5-0) \u00b7 Heavyweight"
+          "line": "Gabriel Loren\u00e7o (8-2-0) vs Thomas Petersen (12-5-0) \u00b7 Heavyweight \u00b7 W: Thomas Petersen"
         },
         "gabriella fernandes vs karine silva": {
           "kind": "prelims",
@@ -186,7 +186,7 @@
         },
         "johnny walker vs waldo cortes acosta": {
           "kind": "main",
-          "line": "Waldo Cortes Acosta (17-4-0) vs Johnny Walker (23-10-0) \u00b7 Heavyweight"
+          "line": "Waldo Cortes Acosta (17-5-0) vs Johnny Walker (24-10-0) \u00b7 Heavyweight \u00b7 W: Johnny Walker"
         },
         "jonny parsons vs jos\u00e9 souza": {
           "kind": "prelims",
@@ -198,15 +198,15 @@
         },
         "keiichiro nakamura vs ollie schmid": {
           "kind": "prelims",
-          "line": "Keiichiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) \u00b7 Featherweight"
+          "line": "Keiichiro Nakamura (8-2-0) vs Ollie Schmid (5-3-0) \u00b7 Featherweight \u00b7 W: Ollie Schmid"
         },
         "marcos degli vs mitch raposo": {
           "kind": "main",
-          "line": "Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) \u00b7 Flyweight"
+          "line": "Mitch Raposo (12-3-0) vs Marcos Degli (15-4-0) \u00b7 Flyweight \u00b7 W: Mitch Raposo"
         },
         "nina milo\u0161evi\u0107 vs priscila cachoeira": {
           "kind": "main",
-          "line": "Priscila Cachoeira (13-9-0) vs Nina Milo\u0161evi\u0107 (9-1-0) \u00b7 W Bantamweight"
+          "line": "Priscila Cachoeira (13-10-0) vs Nina Milo\u0161evi\u0107 (10-1-0) \u00b7 W Bantamweight \u00b7 W: Nina Milo\u0161evi\u0107"
         },
         "seokhyeon ko vs wellington turman": {
           "kind": "prelims",
@@ -214,7 +214,7 @@
         },
         "tatiana suarez vs virna jandiroba": {
           "kind": "main",
-          "line": "Tatiana Suarez (13-1-0) vs Virna Jandiroba (23-4-0) \u00b7 W Strawweight"
+          "line": "Tatiana Suarez (14-1-0) vs Virna Jandiroba (23-5-0) \u00b7 W Strawweight \u00b7 W: Tatiana Suarez"
         }
       },
       "last_start": "2026-11-08T01:00:00+00:00",
@@ -467,7 +467,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -507,7 +507,8 @@
       "log": [
         "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight",
         "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
-        "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -573,6 +574,64 @@
       "starts": {
         "card": "2027-01-16T22:00:00+00:00"
       }
+    },
+    "600062700": {
+      "bouts": {
+        "abdul hussein vs hecher sosa": {
+          "kind": "prelims",
+          "line": "Abdul Hussein (16-2-0) vs Hecher Sosa (15-1-0) \u00b7 Bantamweight"
+        },
+        "akbar abdullaev vs mairon santos": {
+          "kind": "main",
+          "line": "Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight"
+        },
+        "bruno silva vs jafel filho": {
+          "kind": "prelims",
+          "line": "Bruno Silva (15-9-2) vs Jafel Filho (17-5-0) \u00b7 Flyweight"
+        },
+        "ian machado garry vs yaroslav amosov": {
+          "kind": "main",
+          "line": "Ian Machado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) \u00b7 Welterweight"
+        },
+        "ion cutelaba vs magomed tuchalov": {
+          "kind": "main",
+          "line": "Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
+        },
+        "islam dulatov vs levan chokheli": {
+          "kind": "main",
+          "line": "Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
+        },
+        "israel adesanya vs shara magomedov": {
+          "kind": "main",
+          "line": "Israel Adesanya (24-6-0) vs Shara Magomedov (17-1-0) \u00b7 Middleweight"
+        },
+        "ivan gnizditskiy vs uran satybaldiev": {
+          "kind": "prelims",
+          "line": "Uran Satybaldiev (9-1-0) vs Ivan Gnizditskiy (7-0-0) \u00b7 Light Heavyweight"
+        },
+        "junyong park vs marco tulio": {
+          "kind": "prelims",
+          "line": "Marco Tulio (14-3-0) vs JunYong Park (19-7-0) \u00b7 Middleweight"
+        },
+        "mario pinto vs serghei spivac": {
+          "kind": "main",
+          "line": "Serghei Spivac (18-7-0) vs Mario Pinto (13-0-0) \u00b7 Heavyweight"
+        },
+        "matthieu letho duclos vs modestino rodrigues": {
+          "kind": "prelims",
+          "line": "Modestino Rodrigues (8-1-0) vs Matthieu Letho Duclos (11-3-0) \u00b7 Middleweight"
+        },
+        "mehemmedeli osmanli vs pavel andrusca": {
+          "kind": "prelims",
+          "line": "Pavel Andrusca (9-0-0) vs Mehemmedeli Osmanli (12-2-0) \u00b7 Bantamweight"
+        }
+      },
+      "last_start": "2026-12-05T18:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2026-12-05T18:00:00+00:00",
+        "prelims": "2026-12-05T15:00:00+00:00"
+      }
     }
   },
   "vevents": {
@@ -607,14 +666,14 @@
       "seq": 1
     },
     "ufc-600061268-main@ufc-calendar": {
-      "hash": "b41f5497e8508c5aa006b0a2ee561e9ad507fb780390e0676f3c02f758b34f09",
-      "modified": "20261105T064245Z",
-      "seq": 7
+      "hash": "8fbb9aa1b22198c41a4300d16c274cc1907eaa0d2083eb13c706b606bb161bcb",
+      "modified": "20261108T101700Z",
+      "seq": 8
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "8fd417711c7d683b0e9921e99dcf747425142cd492c8c4f33c461600c2080c46",
-      "modified": "20261108T003329Z",
-      "seq": 8
+      "hash": "a4dfe0fc055e022a77137e9ddda617e787cadcba22ba3b89d8183461d4534b24",
+      "modified": "20261108T101700Z",
+      "seq": 9
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "4c2db647f8a2dcde20ce718bd57e307aef09f03c814b6350a411498a79014c6c",
@@ -667,14 +726,14 @@
       "seq": 0
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "021719de984efd14fed23f65a9511d7e2adba637e1763d6fa43e7cc1d4f8bfc5",
-      "modified": "20261105T172314Z",
-      "seq": 2
+      "hash": "5953fbd203ff49e0bdc863fb1857685ece02623319be629c52cea6436b57f61a",
+      "modified": "20261108T101700Z",
+      "seq": 3
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "abc01f71020c41f0f79a06463a492fb2d4081adbaa9bd7503947abd92d1936f8",
-      "modified": "20261105T172314Z",
-      "seq": 2
+      "hash": "86f88ded9f310a721f73220c869694bed1799208ad15e4c2b242f2aa26ae3334",
+      "modified": "20261108T101700Z",
+      "seq": 3
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
@@ -690,6 +749,16 @@
       "hash": "056ff8ea47ea760852083774deb47a49435f718de81f5a2b6ce600071dee6abd",
       "modified": "20261028T125147Z",
       "seq": 1
+    },
+    "ufc-600062700-main@ufc-calendar": {
+      "hash": "989a7102dc38c1bd20c3d6d34e6694d55a48a855b6ad6c07c00e701a144b4e16",
+      "modified": "20261108T101700Z",
+      "seq": 0
+    },
+    "ufc-600062700-prelims@ufc-calendar": {
+      "hash": "cafb9e129344cfe194f4a01ff14a0741c693e7277f35752dcc34025dd36a7547",
+      "modified": "20261108T101700Z",
+      "seq": 0
     }
   }
 }
