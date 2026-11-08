@@ -263,33 +263,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061268-prelims@ufc-calendar
-DTSTAMP:20261105T064245Z
-LAST-MODIFIED:20261105T064245Z
-SEQUENCE:7
+DTSTAMP:20261108T003329Z
+LAST-MODIFIED:20261108T003329Z
+SEQUENCE:8
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:UFC Fight Night Prelims: Cortes Acosta vs. Walker
 DESCRIPTION:Prelims starts Sat Nov 7 2:00 PM PST\nWatch: Paramount+\n\nKeii
  chiro Nakamura (8-1-0) vs Ollie Schmid (4-3-0) · Featherweight\nGabriel L
  orenço (8-1-0) vs Thomas Petersen (11-5-0) · Heavyweight\nKarine Silva (
- 19-7-0) vs Gabriella Fernandes (11-4-0) · W Flyweight\nJose Delano (17-3-
- 0) vs Murtazali Magomedov (11-0-0) · Featherweight\nAustin Bashi (14-2-0)
-  vs Carlos Calderon (11-4-0) · Featherweight\nMantas Kondratavičius (9-1
- -0) vs Andre Petroski (13-7-0) · Middleweight\nSeokhyeon Ko (13-3-0) vs W
- ellington Turman (18-8-0) · Welterweight\nJonny Parsons (9-3-0) vs José 
- Souza (9-1-0) · Welterweight\n\nUpdates:\nNov 2: Added Jonny Parsons (9-3
- -0) vs José Souza (9-1-0) · Welterweight (Prelims)\nNov 2: Removed Jonny
-  Parsons (9-3-0) vs Jose Henrique (9-1-0) · Welterweight\nNov 3: Moved to
-  Prelims: Mantas Kondratavičius (9-1-0) vs Andre Petroski (13-7-0) · Mid
- dleweight\nNov 3: Moved to Prelims: Seokhyeon Ko (13-3-0) vs Wellington Tu
- rman (18-8-0) · Welterweight\nNov 3: Moved to Main Card: Priscila Cachoei
- ra (13-9-0) vs Nina Milošević (9-1-0) · W Bantamweight\nNov 3: Moved to
-  Main Card: Mitch Raposo (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nN
- ov 4: Added Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) · Featherwe
- ight (Prelims)\nNov 4: Removed Austin Bashi (14-2-0) vs Lucas Brennan (11-
- 3-0) · Featherweight\n\nFull card: https://www.espn.com/mma/fightcenter/_
- /id/600061268/league/ufc\nTimes and bouts can change\; this calendar refre
- shes every few hours.
+ 20-7-0) vs Gabriella Fernandes (11-5-0) · W Flyweight · W: Karine Silva\
+ nJose Delano (17-4-0) vs Murtazali Magomedov (12-0-0) · Featherweight · 
+ W: Murtazali Magomedov\nAustin Bashi (15-2-0) vs Carlos Calderon (11-5-0) 
+ · Featherweight · W: Austin Bashi\nMantas Kondratavičius (9-2-0) vs And
+ re Petroski (14-6-0) · Middleweight · W: Andre Petroski\nSeokhyeon Ko (1
+ 4-3-0) vs Wellington Turman (18-9-0) · Welterweight · W: Seokhyeon Ko\nJ
+ onny Parsons (9-4-0) vs José Souza (10-1-0) · Welterweight · W: José S
+ ouza\n\nUpdates:\nNov 2: Added Jonny Parsons (9-3-0) vs José Souza (9-1-0
+ ) · Welterweight (Prelims)\nNov 2: Removed Jonny Parsons (9-3-0) vs Jose 
+ Henrique (9-1-0) · Welterweight\nNov 3: Moved to Prelims: Mantas Kondrata
+ vičius (9-1-0) vs Andre Petroski (13-7-0) · Middleweight\nNov 3: Moved t
+ o Prelims: Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) · Welterwe
+ ight\nNov 3: Moved to Main Card: Priscila Cachoeira (13-9-0) vs Nina Milo
+ šević (9-1-0) · W Bantamweight\nNov 3: Moved to Main Card: Mitch Raposo
+  (11-3-0) vs Marcos Degli (15-3-0) · Flyweight\nNov 4: Added Austin Bashi
+  (14-2-0) vs Carlos Calderon (11-4-0) · Featherweight (Prelims)\nNov 4: R
+ emoved Austin Bashi (14-2-0) vs Lucas Brennan (11-3-0) · Featherweight\n\
+ nFull card: https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
+ \nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:Meta APEX\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061268/league/ufc
 CATEGORIES:UFC\,Prelims

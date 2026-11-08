@@ -162,11 +162,11 @@
       "bouts": {
         "andre petroski vs mantas kondratavi\u010dius": {
           "kind": "prelims",
-          "line": "Mantas Kondratavi\u010dius (9-1-0) vs Andre Petroski (13-7-0) \u00b7 Middleweight"
+          "line": "Mantas Kondratavi\u010dius (9-2-0) vs Andre Petroski (14-6-0) \u00b7 Middleweight \u00b7 W: Andre Petroski"
         },
         "austin bashi vs carlos calderon": {
           "kind": "prelims",
-          "line": "Austin Bashi (14-2-0) vs Carlos Calderon (11-4-0) \u00b7 Featherweight"
+          "line": "Austin Bashi (15-2-0) vs Carlos Calderon (11-5-0) \u00b7 Featherweight \u00b7 W: Austin Bashi"
         },
         "billy elekana vs lucas fernando": {
           "kind": "main",
@@ -182,7 +182,7 @@
         },
         "gabriella fernandes vs karine silva": {
           "kind": "prelims",
-          "line": "Karine Silva (19-7-0) vs Gabriella Fernandes (11-4-0) \u00b7 W Flyweight"
+          "line": "Karine Silva (20-7-0) vs Gabriella Fernandes (11-5-0) \u00b7 W Flyweight \u00b7 W: Karine Silva"
         },
         "johnny walker vs waldo cortes acosta": {
           "kind": "main",
@@ -190,11 +190,11 @@
         },
         "jonny parsons vs jos\u00e9 souza": {
           "kind": "prelims",
-          "line": "Jonny Parsons (9-3-0) vs Jos\u00e9 Souza (9-1-0) \u00b7 Welterweight"
+          "line": "Jonny Parsons (9-4-0) vs Jos\u00e9 Souza (10-1-0) \u00b7 Welterweight \u00b7 W: Jos\u00e9 Souza"
         },
         "jose delano vs murtazali magomedov": {
           "kind": "prelims",
-          "line": "Jose Delano (17-3-0) vs Murtazali Magomedov (11-0-0) \u00b7 Featherweight"
+          "line": "Jose Delano (17-4-0) vs Murtazali Magomedov (12-0-0) \u00b7 Featherweight \u00b7 W: Murtazali Magomedov"
         },
         "keiichiro nakamura vs ollie schmid": {
           "kind": "prelims",
@@ -210,7 +210,7 @@
         },
         "seokhyeon ko vs wellington turman": {
           "kind": "prelims",
-          "line": "Seokhyeon Ko (13-3-0) vs Wellington Turman (18-8-0) \u00b7 Welterweight"
+          "line": "Seokhyeon Ko (14-3-0) vs Wellington Turman (18-9-0) \u00b7 Welterweight \u00b7 W: Seokhyeon Ko"
         },
         "tatiana suarez vs virna jandiroba": {
           "kind": "main",
@@ -612,9 +612,9 @@
       "seq": 7
     },
     "ufc-600061268-prelims@ufc-calendar": {
-      "hash": "364426409d235d5c705b7e9cd23845a9b2ab555fff3f4b6f9244fa3419228063",
-      "modified": "20261105T064245Z",
-      "seq": 7
+      "hash": "8fd417711c7d683b0e9921e99dcf747425142cd492c8c4f33c461600c2080c46",
+      "modified": "20261108T003329Z",
+      "seq": 8
     },
     "ufc-600061400-early@ufc-calendar": {
       "hash": "4c2db647f8a2dcde20ce718bd57e307aef09f03c814b6350a411498a79014c6c",
