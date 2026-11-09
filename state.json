@@ -467,7 +467,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -508,7 +508,8 @@
         "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight",
         "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
         "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
-        "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -726,14 +727,14 @@
       "seq": 0
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "5953fbd203ff49e0bdc863fb1857685ece02623319be629c52cea6436b57f61a",
-      "modified": "20261108T101700Z",
-      "seq": 3
+      "hash": "46f155c14c8359c0d481bcb679a005eee4d82e5d24660f181698b4872de35214",
+      "modified": "20261109T194648Z",
+      "seq": 4
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "86f88ded9f310a721f73220c869694bed1799208ad15e4c2b242f2aa26ae3334",
-      "modified": "20261108T101700Z",
-      "seq": 3
+      "hash": "07ba393b4fb44f12d771cc34bead48b888820053b964a0afa5465ebc635532f2",
+      "modified": "20261109T194648Z",
+      "seq": 4
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
