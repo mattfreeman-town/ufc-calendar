@@ -235,10 +235,6 @@
     },
     "600061400": {
       "bouts": {
-        "adrian ya\u00f1ez vs juan diaz": {
-          "kind": "early",
-          "line": "Adrian Ya\u00f1ez (18-6-1) vs Juan Diaz (16-1-1) \u00b7 Bantamweight"
-        },
         "amanda nunes vs kayla harrison": {
           "kind": "main",
           "line": "Kayla Harrison (19-1-0) vs Amanda Nunes (23-5-0) \u00b7 W Bantamweight"
@@ -295,7 +291,8 @@
         "Oct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight",
         "Oct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (11-1-0) \u00b7 Lightweight (Early Prelims)",
         "Oct 27: Moved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight",
-        "Nov 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) \u00b7 Lightweight"
+        "Nov 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) \u00b7 Lightweight",
+        "Nov 10: Removed Adrian Ya\u00f1ez (18-6-1) vs Juan Diaz (16-1-1) \u00b7 Bantamweight"
       ],
       "starts": {
         "early": "2026-11-14T22:00:00+00:00",
@@ -619,19 +616,19 @@
       "seq": 9
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "4c2db647f8a2dcde20ce718bd57e307aef09f03c814b6350a411498a79014c6c",
-      "modified": "20261105T172314Z",
-      "seq": 3
+      "hash": "77d28802278c19536afaeab619445acb3c3188a7ecae88a10da6286c65d4d25b",
+      "modified": "20261110T211710Z",
+      "seq": 4
     },
     "ufc-600061400-main@ufc-calendar": {
-      "hash": "ca99bdf00441459ae413a850925f27e20dd897a57d992119192208a4b535849a",
-      "modified": "20261105T172314Z",
-      "seq": 3
+      "hash": "33083fd58ffb2bf07a95fddef0a18bd6aae0d9cff3491df91666497d369b409b",
+      "modified": "20261110T211710Z",
+      "seq": 4
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "15e90192e8fd8f6b45389dad629ac1c1d427111b95933c6a6754dc9fbac881be",
-      "modified": "20261105T172314Z",
-      "seq": 3
+      "hash": "53d59ab4ac3cb2e49744192e6f9f7cc36bc1a6a7b5822a1080d00114774f6cd0",
+      "modified": "20261110T211710Z",
+      "seq": 4
     },
     "ufc-600061401-early@ufc-calendar": {
       "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
