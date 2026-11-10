@@ -9,55 +9,6 @@ X-WR-CALDESC:UFC events and Dana White's Contender Series\, split by card s
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-600061541-prelims@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
-DTSTART:20261010T210000Z
-DTEND:20261011T000000Z
-SUMMARY:UFC Fight Night Prelims: Allen vs. Duncan
-DESCRIPTION:Prelims starts Sat Oct 10 2:00 PM PDT\nWatch: Paramount+\n\nJul
- ius Walker (8-3-0) vs Gerald Meerschaert (37-23-0) · Light Heavyweight ·
-  W: Julius Walker\nFrancisco Prado (13-5-0) vs Ismael Bonfim (20-8-0) · L
- ightweight · W: Francisco Prado\nNiko Price (17-11-0) vs Leon Shahbazyan 
- (12-6-0) · Welterweight · W: Niko Price\nFelipe Franco (11-3-0) vs Brend
- son Ribeiro (18-11-0) · Light Heavyweight · W: Brendson Ribeiro\nAllen F
- rye Jr. (7-1-0) vs RJ Harris (6-1-0) · Heavyweight · W: Allen Frye Jr.\n
- Alice Pereira (8-1-0) vs Daria Zhelezniakova (10-4-0) · W Bantamweight ·
-  W: Alice Pereira\nErnesta Kareckaite (6-2-2) vs Melissa Gatto (9-3-3) · 
- W Flyweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061
- 541/league/ufc\nTimes and bouts can change\; this calendar refreshes every
-  few hours.
-LOCATION:Meta APEX\, Las Vegas\, NV
-URL:https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc
-CATEGORIES:UFC\,Prelims
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-600061541-main@ufc-calendar
-DTSTAMP:20261024T042139Z
-LAST-MODIFIED:20261024T042139Z
-SEQUENCE:0
-DTSTART:20261011T000000Z
-DTEND:20261011T030000Z
-SUMMARY:UFC Fight Night Main Card: Allen vs. Duncan
-DESCRIPTION:Main Card starts Sat Oct 10 5:00 PM PDT\nWatch: Paramount+\n\nB
- rendan Allen (28-7-0) vs Christian Leroy Duncan (15-3-0) · Middleweight 
- · W: Brendan Allen\nMatheus Camilo (11-4-0) vs Jai Herbert (15-6-1) · Li
- ghtweight · W: Jai Herbert\nLoopy Godínez (15-6-0) vs Ketlen Souza (17-7
- -0) · W Strawweight · W: Loopy Godínez\nAndre Fili (26-14-0) vs Kai Kam
- aka III (18-9-1) · Featherweight · W: Andre Fili\nMalcolm Wellmaker (10-
- 3-0) vs Otari Tanzilovi (11-2-0) · Bantamweight · W: Otari Tanzilovi\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
-LOCATION:Meta APEX\, Las Vegas\, NV
-URL:https://www.espn.com/mma/fightcenter/_/id/600061541/league/ufc
-CATEGORIES:UFC\,Main Card
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-600060741-card@ufc-calendar
 DTSTAMP:20261024T042139Z
 LAST-MODIFIED:20261024T042139Z

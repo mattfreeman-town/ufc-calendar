@@ -406,64 +406,6 @@
         "prelims": "2026-10-31T21:00:00+00:00"
       }
     },
-    "600061541": {
-      "bouts": {
-        "alice pereira vs daria zhelezniakova": {
-          "kind": "prelims",
-          "line": "Alice Pereira (8-1-0) vs Daria Zhelezniakova (10-4-0) \u00b7 W Bantamweight \u00b7 W: Alice Pereira"
-        },
-        "allen frye jr. vs rj harris": {
-          "kind": "prelims",
-          "line": "Allen Frye Jr. (7-1-0) vs RJ Harris (6-1-0) \u00b7 Heavyweight \u00b7 W: Allen Frye Jr."
-        },
-        "andre fili vs kai kamaka iii": {
-          "kind": "main",
-          "line": "Andre Fili (26-14-0) vs Kai Kamaka III (18-9-1) \u00b7 Featherweight \u00b7 W: Andre Fili"
-        },
-        "brendan allen vs christian leroy duncan": {
-          "kind": "main",
-          "line": "Brendan Allen (28-7-0) vs Christian Leroy Duncan (15-3-0) \u00b7 Middleweight \u00b7 W: Brendan Allen"
-        },
-        "brendson ribeiro vs felipe franco": {
-          "kind": "prelims",
-          "line": "Felipe Franco (11-3-0) vs Brendson Ribeiro (18-11-0) \u00b7 Light Heavyweight \u00b7 W: Brendson Ribeiro"
-        },
-        "ernesta kareckaite vs melissa gatto": {
-          "kind": "prelims",
-          "line": "Ernesta Kareckaite (6-2-2) vs Melissa Gatto (9-3-3) \u00b7 W Flyweight"
-        },
-        "francisco prado vs ismael bonfim": {
-          "kind": "prelims",
-          "line": "Francisco Prado (13-5-0) vs Ismael Bonfim (20-8-0) \u00b7 Lightweight \u00b7 W: Francisco Prado"
-        },
-        "gerald meerschaert vs julius walker": {
-          "kind": "prelims",
-          "line": "Julius Walker (8-3-0) vs Gerald Meerschaert (37-23-0) \u00b7 Light Heavyweight \u00b7 W: Julius Walker"
-        },
-        "jai herbert vs matheus camilo": {
-          "kind": "main",
-          "line": "Matheus Camilo (11-4-0) vs Jai Herbert (15-6-1) \u00b7 Lightweight \u00b7 W: Jai Herbert"
-        },
-        "ketlen souza vs loopy god\u00ednez": {
-          "kind": "main",
-          "line": "Loopy God\u00ednez (15-6-0) vs Ketlen Souza (17-7-0) \u00b7 W Strawweight \u00b7 W: Loopy God\u00ednez"
-        },
-        "leon shahbazyan vs niko price": {
-          "kind": "prelims",
-          "line": "Niko Price (17-11-0) vs Leon Shahbazyan (12-6-0) \u00b7 Welterweight \u00b7 W: Niko Price"
-        },
-        "malcolm wellmaker vs otari tanzilovi": {
-          "kind": "main",
-          "line": "Malcolm Wellmaker (10-3-0) vs Otari Tanzilovi (11-2-0) \u00b7 Bantamweight \u00b7 W: Otari Tanzilovi"
-        }
-      },
-      "last_start": "2026-10-11T00:00:00+00:00",
-      "log": [],
-      "starts": {
-        "main": "2026-10-11T00:00:00+00:00",
-        "prelims": "2026-10-10T21:00:00+00:00"
-      }
-    },
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
@@ -715,16 +657,6 @@
       "hash": "da483a704bc1a01bfa72058db6e49033c381130eb8ab5eac3c6ef5afb705b0af",
       "modified": "20261101T055927Z",
       "seq": 5
-    },
-    "ufc-600061541-main@ufc-calendar": {
-      "hash": "c23c52b9d555348c97603c871c0ea107d0e577048fecf1f0db535c8b922d8c89",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
-    "ufc-600061541-prelims@ufc-calendar": {
-      "hash": "fa456e64f6bbfe3c3be8a042277c72f58dbadcbd6ddbdcb73fe34e04e9fb8775",
-      "modified": "20261024T042139Z",
-      "seq": 0
     },
     "ufc-600061665-main@ufc-calendar": {
       "hash": "46f155c14c8359c0d481bcb679a005eee4d82e5d24660f181698b4872de35214",
