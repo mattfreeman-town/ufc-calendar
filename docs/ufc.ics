@@ -286,27 +286,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-early@ufc-calendar
-DTSTAMP:20261110T211710Z
-LAST-MODIFIED:20261110T211710Z
-SEQUENCE:4
+DTSTAMP:20261111T061243Z
+LAST-MODIFIED:20261111T061243Z
+SEQUENCE:5
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 SUMMARY:UFC 334 Early Prelims: Gane vs. Hokit
 DESCRIPTION:Early Prelims starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\
  n\nJared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight\nMacy
-  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nEvan Elder (
- 10-2-0) vs Samuel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Add
- ed Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early P
- relims)\nOct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) 
- · Lightweight (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs B
- aisangur Susurkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-
- 2-0) vs Samuel Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Mo
- ved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middlewe
- ight\nNov 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1
- -0) · Lightweight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (1
- 6-1-1) · Bantamweight\n\nFull card: https://www.espn.com/mma/fightcenter/
- _/id/600061400/league/ufc\nTimes and bouts can change\; this calendar refr
- eshes every few hours.
+  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nJuan Diaz (1
+ 6-1-1) vs Alatengheili (18-10-2) · Bantamweight\nEvan Elder (10-2-0) vs S
+ amuel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Added Donte Joh
+ nson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct
+  25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweig
+ ht (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Sus
+ urkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samu
+ el Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Preli
+ ms: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5:
+  Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Light
+ weight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Ba
+ ntamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · 
+ Bantamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightc
+ enter/_/id/600061400/league/ufc\nTimes and bouts can change\; this calenda
+ r refreshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Early Prelims
@@ -315,9 +317,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-prelims@ufc-calendar
-DTSTAMP:20261110T211710Z
-LAST-MODIFIED:20261110T211710Z
-SEQUENCE:4
+DTSTAMP:20261111T061243Z
+LAST-MODIFIED:20261111T061243Z
+SEQUENCE:5
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:UFC 334 Prelims: Gane vs. Hokit
@@ -334,9 +336,10 @@ DESCRIPTION:Prelims starts Sat Nov 14 4:00 PM PST\nWatch: Paramount+\n\nSte
  s: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: 
  Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightw
  eight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Ban
- tamweight\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60006140
- 0/league/ufc\nTimes and bouts can change\; this calendar refreshes every f
- ew hours.
+ tamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · B
+ antamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightce
+ nter/_/id/600061400/league/ufc\nTimes and bouts can change\; this calendar
+  refreshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -345,9 +348,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-main@ufc-calendar
-DTSTAMP:20261110T211710Z
-LAST-MODIFIED:20261110T211710Z
-SEQUENCE:4
+DTSTAMP:20261111T061243Z
+LAST-MODIFIED:20261111T061243Z
+SEQUENCE:5
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:UFC 334 Main Card: Gane vs. Hokit
@@ -364,9 +367,11 @@ DESCRIPTION:Main Card starts Sat Nov 14 6:00 PM PST\nWatch: Paramount+\n\nC
  1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelims: Donte Johns
  on (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: Removed Nazim 
  Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\nNov 10:
-  Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\n\nF
- ull card: https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc\n
- Times and bouts can change\; this calendar refreshes every few hours.
+  Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nNov
+  10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · Bantamweight (E
+ arly Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000
+ 61400/league/ufc\nTimes and bouts can change\; this calendar refreshes eve
+ ry few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -588,17 +593,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062420-main@ufc-calendar
-DTSTAMP:20261104T061602Z
-LAST-MODIFIED:20261104T061602Z
-SEQUENCE:2
+DTSTAMP:20261111T061243Z
+LAST-MODIFIED:20261111T061243Z
+SEQUENCE:3
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
 DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
  illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\nBo
- gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\nKa
- an Ofli (15-4-1) vs Joanderson Brito (20-5-1) · Featherweight\nMarwan Rah
- iki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight\n\nUpdates:\nOct 28: A
+ gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\nMa
+ rwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight\nKaan Ofli (15
+ -4-1) vs Joanderson Brito (20-5-1) · Featherweight\n\nUpdates:\nOct 28: A
  dded Quillan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightwei
  ght (Main Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (
  28-9-0) · Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) 
