@@ -437,21 +437,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-prelims@ufc-calendar
-DTSTAMP:20261108T101700Z
-LAST-MODIFIED:20261108T101700Z
-SEQUENCE:0
+DTSTAMP:20261111T215545Z
+LAST-MODIFIED:20261111T215545Z
+SEQUENCE:1
 DTSTART:20261205T150000Z
 DTEND:20261205T180000Z
 SUMMARY:UFC Fight Night Prelims: Adesanya vs Magomedov
-DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nBrun
- o Silva (15-9-2) vs Jafel Filho (17-5-0) · Flyweight\nUran Satybaldiev (9
- -1-0) vs Ivan Gnizditskiy (7-0-0) · Light Heavyweight\nMarco Tulio (14-3-
- 0) vs JunYong Park (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Meh
- emmedeli Osmanli (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs 
- Matthieu Letho Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs 
- Hecher Sosa (15-1-0) · Bantamweight\n\nFull card: https://www.espn.com/mm
- a/fightcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; this
-  calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nLeva
+ n Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nMairon Sant
+ os (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (
+ 7-0-0) vs Ion Cutelaba (20-12-1) · Light Heavyweight\nBruno Silva (15-9-2
+ ) vs Jafel Filho (17-5-0) · Flyweight\nUran Satybaldiev (9-1-0) vs Ivan G
+ nizditskiy (7-0-0) · Light Heavyweight\nMarco Tulio (14-3-0) vs JunYong P
+ ark (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Mehemmedeli Osmanl
+ i (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs Matthieu Letho 
+ Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs Hecher Sosa (15
+ -1-0) · Bantamweight\n\nUpdates:\nNov 11: Moved to Prelims: Levan Chokhel
+ i (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 11: Moved to Pre
+ lims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nN
+ ov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1
+ ) · Light Heavyweight\n\nFull card: https://www.espn.com/mma/fightcenter/
+ _/id/600062700/league/ufc\nTimes and bouts can change\; this calendar refr
+ eshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -460,21 +467,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-main@ufc-calendar
-DTSTAMP:20261108T101700Z
-LAST-MODIFIED:20261108T101700Z
-SEQUENCE:0
+DTSTAMP:20261111T215545Z
+LAST-MODIFIED:20261111T215545Z
+SEQUENCE:1
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:UFC Fight Night Main Card: Adesanya vs Magomedov
 DESCRIPTION:Main Card starts Sat Dec 5 10:00 AM PST\nWatch: Paramount+\n\nI
  srael Adesanya (24-6-0) vs Shara Magomedov (17-1-0) · Middleweight\nIan M
  achado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) · Welterweight\nSerghei
-  Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\nLevan Chokheli (1
- 5-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nMairon Santos (18-1-0) v
- s Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (7-0-0) vs Ion
-  Cutelaba (20-12-1) · Light Heavyweight\n\nFull card: https://www.espn.co
- m/mma/fightcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; 
- this calendar refreshes every few hours.
+  Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\n\nUpdates:\nNov 1
+ 1: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · 
+ Welterweight\nNov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Ab
+ dullaev (14-0-0) · Lightweight\nNov 11: Moved to Prelims: Magomed Tuchalo
+ v (7-0-0) vs Ion Cutelaba (20-12-1) · Light Heavyweight\n\nFull card: htt
+ ps://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\nTimes and bou
+ ts can change\; this calendar refreshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Main Card

@@ -527,7 +527,7 @@
           "line": "Abdul Hussein (16-2-0) vs Hecher Sosa (15-1-0) \u00b7 Bantamweight"
         },
         "akbar abdullaev vs mairon santos": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight"
         },
         "bruno silva vs jafel filho": {
@@ -539,11 +539,11 @@
           "line": "Ian Machado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) \u00b7 Welterweight"
         },
         "ion cutelaba vs magomed tuchalov": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
         },
         "islam dulatov vs levan chokheli": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
         },
         "israel adesanya vs shara magomedov": {
@@ -572,7 +572,11 @@
         }
       },
       "last_start": "2026-12-05T18:00:00+00:00",
-      "log": [],
+      "log": [
+        "Nov 11: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
+        "Nov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
+        "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
+      ],
       "starts": {
         "main": "2026-12-05T18:00:00+00:00",
         "prelims": "2026-12-05T15:00:00+00:00"
@@ -686,14 +690,14 @@
       "seq": 1
     },
     "ufc-600062700-main@ufc-calendar": {
-      "hash": "989a7102dc38c1bd20c3d6d34e6694d55a48a855b6ad6c07c00e701a144b4e16",
-      "modified": "20261108T101700Z",
-      "seq": 0
+      "hash": "f7940b72aa71c1f8f5131432a0fb3268d3caec51df8f503c8c388ae130e8b1c7",
+      "modified": "20261111T215545Z",
+      "seq": 1
     },
     "ufc-600062700-prelims@ufc-calendar": {
-      "hash": "cafb9e129344cfe194f4a01ff14a0741c693e7277f35752dcc34025dd36a7547",
-      "modified": "20261108T101700Z",
-      "seq": 0
+      "hash": "9d9659680f444ab7da3fce817b45ba242e186395c31f9aecada7fe30249bbc6d",
+      "modified": "20261111T215545Z",
+      "seq": 1
     }
   }
 }
