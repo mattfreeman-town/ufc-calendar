@@ -1,34 +1,5 @@
 {
   "events": {
-    "600060741": {
-      "bouts": {
-        "aline pereira vs smilla sundell": {
-          "kind": "card",
-          "line": "Smilla Sundell (3-0-0) vs Aline Pereira (3-3-0) \u00b7 W Bantamweight \u00b7 W: Smilla Sundell"
-        },
-        "davi cabral vs douglas da lapa": {
-          "kind": "card",
-          "line": "Douglas da Lapa (7-0-0) vs Davi Cabral (7-1-0) \u00b7 Middleweight \u00b7 W: Douglas da Lapa"
-        },
-        "erick visconde vs ilias bulaid": {
-          "kind": "card",
-          "line": "Ilias Bulaid (9-1-0) vs Erick Visconde (18-3-0) \u00b7 Featherweight \u00b7 W: Erick Visconde"
-        },
-        "greg foster vs jason asher": {
-          "kind": "card",
-          "line": "Jason Asher (5-1-0) vs Greg Foster (9-1-0) \u00b7 Lightweight \u00b7 W: Greg Foster"
-        },
-        "luis francischinelli vs will rentz": {
-          "kind": "card",
-          "line": "Will Rentz (8-3-0) vs Luis Francischinelli (7-1-0) \u00b7 Welterweight \u00b7 W: Luis Francischinelli"
-        }
-      },
-      "last_start": "2026-10-13T23:00:00+00:00",
-      "log": [],
-      "starts": {
-        "card": "2026-10-13T23:00:00+00:00"
-      }
-    },
     "600060773": {
       "bouts": {
         "chad anheliger vs steven koslow": {
@@ -605,11 +576,6 @@
     }
   },
   "vevents": {
-    "ufc-600060741-card@ufc-calendar": {
-      "hash": "843042492b1424b9b7d27e4f5b0d811ea703fd0378b573e5b48f386da48f238b",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
     "ufc-600060773-main@ufc-calendar": {
       "hash": "c791f57b226c18acf95810d8cea2671d707b169a9a0558ca1369317de405c58e",
       "modified": "20261024T042139Z",
