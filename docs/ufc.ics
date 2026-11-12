@@ -286,16 +286,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-early@ufc-calendar
-DTSTAMP:20261111T061243Z
-LAST-MODIFIED:20261111T061243Z
-SEQUENCE:5
+DTSTAMP:20261112T070729Z
+LAST-MODIFIED:20261112T070729Z
+SEQUENCE:6
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 SUMMARY:UFC 334 Early Prelims: Gane vs. Hokit
 DESCRIPTION:Early Prelims starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\
  n\nJared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight\nMacy
-  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nJuan Diaz (1
- 6-1-1) vs Alatengheili (18-10-2) · Bantamweight\nEvan Elder (10-2-0) vs S
+  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAlatengheili
+  (18-10-2) vs Juan Diaz (16-1-1) · Bantamweight\nEvan Elder (10-2-0) vs S
  amuel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Added Donte Joh
  nson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct
   25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweig
@@ -600,10 +600,39 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-600062420-prelims@ufc-calendar
+DTSTAMP:20261112T070729Z
+LAST-MODIFIED:20261112T070729Z
+SEQUENCE:0
+DTSTART:20270206T190000Z
+DTEND:20270206T220000Z
+SUMMARY:UFC Fight Night Prelims: Salkilld vs. Saint Denis
+DESCRIPTION:Prelims starts Sat Feb 6 11:00 AM PST\nWatch: Paramount+\n\nJin
+ iushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight\nMeng Bo (23-8-0) 
+ vs Bo Hyun Park (0-1-0) · W Strawweight\n\nUpdates:\nOct 28: Added Quilla
+ n Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight (Main C
+ ard)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · 
+ Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) vs Joanders
+ on Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Marwan Rahiki
+  (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\nNov 11: Adde
+ d Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight (Prelims)\nNo
+ v 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) · W Strawweight (Pre
+ lims)\nNov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2
+ -0) · Featherweight (Main Card)\nNov 11: Added Rabindra Dhant (10-1-0) vs
+  Ryo Tajima (12-3-0) · Bantamweight (Main Card)\n\nFull card: https://www
+ .espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts can c
+ hange\; this calendar refreshes every few hours.
+LOCATION:Afterpay Arena\, Sydney\, NSW
+URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-600062420-main@ufc-calendar
-DTSTAMP:20261111T061243Z
-LAST-MODIFIED:20261111T061243Z
-SEQUENCE:3
+DTSTAMP:20261112T070729Z
+LAST-MODIFIED:20261112T070729Z
+SEQUENCE:4
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
@@ -611,14 +640,21 @@ DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
  illan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight\nBo
  gdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight\nMa
  rwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight\nKaan Ofli (15
- -4-1) vs Joanderson Brito (20-5-1) · Featherweight\n\nUpdates:\nOct 28: A
- dded Quillan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightwei
- ght (Main Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (
- 28-9-0) · Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) 
- vs Joanderson Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Ma
- rwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\n\
- nFull card: https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
- \nTimes and bouts can change\; this calendar refreshes every few hours.
+ -4-1) vs Joanderson Brito (20-5-1) · Featherweight\nGeorge Mangos (7-1-0)
+  vs Dagiisuren Chagnaadorj (11-2-0) · Featherweight\nRabindra Dhant (10-1
+ -0) vs Ryo Tajima (12-3-0) · Bantamweight\n\nUpdates:\nOct 28: Added Quil
+ lan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight (Main
+  Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) 
+ · Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) vs Joand
+ erson Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Marwan Rah
+ iki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\nNov 11: A
+ dded Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight (Prelims)\
+ nNov 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) · W Strawweight (
+ Prelims)\nNov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (1
+ 1-2-0) · Featherweight (Main Card)\nNov 11: Added Rabindra Dhant (10-1-0)
+  vs Ryo Tajima (12-3-0) · Bantamweight (Main Card)\n\nFull card: https://
+ www.espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts ca
+ n change\; this calendar refreshes every few hours.
 LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Main Card

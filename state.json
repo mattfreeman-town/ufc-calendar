@@ -237,7 +237,7 @@
       "bouts": {
         "alatengheili vs juan diaz": {
           "kind": "early",
-          "line": "Juan Diaz (16-1-1) vs Alatengheili (18-10-2) \u00b7 Bantamweight"
+          "line": "Alatengheili (18-10-2) vs Juan Diaz (16-1-1) \u00b7 Bantamweight"
         },
         "amanda nunes vs kayla harrison": {
           "kind": "main",
@@ -486,9 +486,21 @@
           "kind": "main",
           "line": "Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight"
         },
+        "bo hyun park vs meng bo": {
+          "kind": "prelims",
+          "line": "Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) \u00b7 W Strawweight"
+        },
         "bogdan guskov vs robert whittaker": {
           "kind": "main",
           "line": "Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) \u00b7 Light Heavyweight"
+        },
+        "dagiisuren chagnaadorj vs george mangos": {
+          "kind": "main",
+          "line": "George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2-0) \u00b7 Featherweight"
+        },
+        "jiniushiyue vs takaya suzuki": {
+          "kind": "prelims",
+          "line": "Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) \u00b7 Flyweight"
         },
         "joanderson brito vs kaan ofli": {
           "kind": "main",
@@ -497,6 +509,10 @@
         "joosang yoo vs marwan rahiki": {
           "kind": "main",
           "line": "Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) \u00b7 Featherweight"
+        },
+        "rabindra dhant vs ryo tajima": {
+          "kind": "main",
+          "line": "Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) \u00b7 Bantamweight"
         }
       },
       "last_start": "2027-02-06T22:00:00+00:00",
@@ -504,10 +520,15 @@
         "Oct 28: Added Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight (Main Card)",
         "Nov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) \u00b7 Light Heavyweight (Main Card)",
         "Nov 3: Added Kaan Ofli (15-4-1) vs Joanderson Brito (20-5-1) \u00b7 Featherweight (Main Card)",
-        "Nov 3: Added Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) \u00b7 Featherweight (Main Card)"
+        "Nov 3: Added Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) \u00b7 Featherweight (Main Card)",
+        "Nov 11: Added Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) \u00b7 Flyweight (Prelims)",
+        "Nov 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) \u00b7 W Strawweight (Prelims)",
+        "Nov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2-0) \u00b7 Featherweight (Main Card)",
+        "Nov 11: Added Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) \u00b7 Bantamweight (Main Card)"
       ],
       "starts": {
-        "main": "2027-02-06T22:00:00+00:00"
+        "main": "2027-02-06T22:00:00+00:00",
+        "prelims": "2027-02-06T19:00:00+00:00"
       }
     },
     "600062421": {
@@ -625,9 +646,9 @@
       "seq": 9
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "926e5f449a0a318873bc9c4168240ccd1da8f0f269fc77fa71efe18712a2619d",
-      "modified": "20261111T061243Z",
-      "seq": 5
+      "hash": "e54a8f31b448b74bddcf3ee9661b728ca306231185328fdc191a860565990a65",
+      "modified": "20261112T070729Z",
+      "seq": 6
     },
     "ufc-600061400-main@ufc-calendar": {
       "hash": "96d22d27a6c6c2df69d094826922228c498bfb42afe1ffaeecbc08466113af28",
@@ -680,9 +701,14 @@
       "seq": 0
     },
     "ufc-600062420-main@ufc-calendar": {
-      "hash": "2db110f9ffd1ea47dfb82e184931c86f8cf8f9e7326f81eb58cb3b42748170d6",
-      "modified": "20261111T061243Z",
-      "seq": 3
+      "hash": "6de117f3f93b14e86d6d9de839899468ee9e1847451b5fd5dfd1ad87e35964f2",
+      "modified": "20261112T070729Z",
+      "seq": 4
+    },
+    "ufc-600062420-prelims@ufc-calendar": {
+      "hash": "a7e32dab4236d01749ee14995b9823f5d72017892cedef0139e1108c8130d6f8",
+      "modified": "20261112T070729Z",
+      "seq": 0
     },
     "ufc-600062421-card@ufc-calendar": {
       "hash": "056ff8ea47ea760852083774deb47a49435f718de81f5a2b6ce600071dee6abd",
