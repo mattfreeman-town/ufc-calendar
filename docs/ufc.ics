@@ -294,9 +294,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-prelims@ufc-calendar
-DTSTAMP:20261111T061243Z
-LAST-MODIFIED:20261111T061243Z
-SEQUENCE:5
+DTSTAMP:20261113T171128Z
+LAST-MODIFIED:20261113T171128Z
+SEQUENCE:6
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:UFC 334 Prelims: Gane vs. Hokit
@@ -304,7 +304,7 @@ DESCRIPTION:Prelims starts Sat Nov 14 4:00 PM PST\nWatch: Paramount+\n\nSte
  phen Thompson (17-9-1) vs Charles Radtke (12-5-0) · Welterweight\nDrew Do
  ber (29-15-0) vs Chris Duncan (15-3-0) · Lightweight\nJim Miller (39-19-0
  ) vs Terrance McKinney (18-9-0) · Lightweight\nDonte Johnson (9-0-0) vs C
- esar Almeida (7-3-0) · Middleweight\n\nUpdates:\nOct 25: Added Donte John
+ esar Almeida (7-3-0) · Catch Weight\n\nUpdates:\nOct 25: Added Donte John
  son (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct 
  25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweigh
  t (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susu

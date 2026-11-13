@@ -228,7 +228,7 @@
         },
         "cesar almeida vs donte johnson": {
           "kind": "prelims",
-          "line": "Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Middleweight"
+          "line": "Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Catch Weight"
         },
         "charles radtke vs stephen thompson": {
           "kind": "prelims",
@@ -622,9 +622,9 @@
       "seq": 5
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "308baec9f1899181de619bc03d1cd897eaddc216597821de2f2dad4239aa84f8",
-      "modified": "20261111T061243Z",
-      "seq": 5
+      "hash": "d0cc862e12c5c9dd37d50a2805a9a4657d8ce3ecf9e46926cdeb21b21c881be7",
+      "modified": "20261113T171128Z",
+      "seq": 6
     },
     "ufc-600061401-early@ufc-calendar": {
       "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
