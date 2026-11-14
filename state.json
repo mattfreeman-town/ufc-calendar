@@ -389,6 +389,10 @@
           "kind": "prelims",
           "line": "Amir Albazi (17-3-0) vs Alessandro Costa (17-5-0) \u00b7 Flyweight"
         },
+        "alik lorenz vs diyar nurgozhay": {
+          "kind": "prelims",
+          "line": "Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight"
+        },
         "aljamain sterling vs kevin vallejos": {
           "kind": "main",
           "line": "Aljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) \u00b7 Featherweight"
@@ -400,6 +404,10 @@
         "brian ortega vs dan hooker": {
           "kind": "main",
           "line": "Dan Hooker (24-15-0) vs Brian Ortega (16-5-0) \u00b7 Lightweight"
+        },
+        "dom mar fan vs nikolas motta": {
+          "kind": "prelims",
+          "line": "Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight"
         },
         "ikram aliskerov vs jared cannonier": {
           "kind": "main",
@@ -424,7 +432,9 @@
         "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
         "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
-        "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight (Prelims)",
+        "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -652,14 +662,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "46f155c14c8359c0d481bcb679a005eee4d82e5d24660f181698b4872de35214",
-      "modified": "20261109T194648Z",
-      "seq": 4
+      "hash": "4036a2fdcb499dbdacbe8ce64af000ed5697ab85a1720f80cf423cd35fe63c22",
+      "modified": "20261114T154734Z",
+      "seq": 5
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "07ba393b4fb44f12d771cc34bead48b888820053b964a0afa5465ebc635532f2",
-      "modified": "20261109T194648Z",
-      "seq": 4
+      "hash": "570fbb5eb5a932b50553c2d2f056021bd7305cbaa41cb9e93d1cd3aff275e550",
+      "modified": "20261114T154734Z",
+      "seq": 5
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
