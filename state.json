@@ -208,55 +208,55 @@
       "bouts": {
         "alatengheili vs juan diaz": {
           "kind": "early",
-          "line": "Alatengheili (18-10-2) vs Juan Diaz (16-1-1) \u00b7 Bantamweight"
+          "line": "Alatengheili (18-11-2) vs Juan Diaz (17-1-1) \u00b7 Bantamweight \u00b7 W: Juan Diaz"
         },
         "amanda nunes vs kayla harrison": {
           "kind": "main",
-          "line": "Kayla Harrison (19-1-0) vs Amanda Nunes (23-5-0) \u00b7 W Bantamweight"
+          "line": "Kayla Harrison (20-1-0) vs Amanda Nunes (23-6-0) \u00b7 W Bantamweight \u00b7 W: Kayla Harrison"
         },
         "bia mesquita vs macy chiasson": {
           "kind": "early",
-          "line": "Macy Chiasson (11-6-0) vs Bia Mesquita (8-0-0) \u00b7 W Bantamweight"
+          "line": "Macy Chiasson (11-7-0) vs Bia Mesquita (9-0-0) \u00b7 W Bantamweight \u00b7 W: Bia Mesquita"
         },
         "bilal hasan vs luis gurule": {
           "kind": "main",
-          "line": "Bilal Hasan (10-0-0) vs Luis Gurule (11-4-0) \u00b7 Flyweight"
+          "line": "Bilal Hasan (10-1-0) vs Luis Gurule (12-4-0) \u00b7 Flyweight \u00b7 W: Luis Gurule"
         },
         "caio borralho vs yousri belgaroui": {
           "kind": "main",
-          "line": "Caio Borralho (18-2-0) vs Yousri Belgaroui (11-3-0) \u00b7 Middleweight"
+          "line": "Caio Borralho (19-2-0) vs Yousri Belgaroui (11-4-0) \u00b7 Middleweight \u00b7 W: Caio Borralho"
         },
         "cesar almeida vs donte johnson": {
           "kind": "prelims",
-          "line": "Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) \u00b7 Catch Weight"
+          "line": "Donte Johnson (9-1-0) vs Cesar Almeida (8-3-0) \u00b7 Catch Weight \u00b7 W: Cesar Almeida"
         },
         "charles radtke vs stephen thompson": {
           "kind": "prelims",
-          "line": "Stephen Thompson (17-9-1) vs Charles Radtke (12-5-0) \u00b7 Welterweight"
+          "line": "Stephen Thompson (18-9-1) vs Charles Radtke (12-6-0) \u00b7 Welterweight \u00b7 W: Stephen Thompson"
         },
         "chris duncan vs drew dober": {
           "kind": "prelims",
-          "line": "Drew Dober (29-15-0) vs Chris Duncan (15-3-0) \u00b7 Lightweight"
+          "line": "Drew Dober (29-16-0) vs Chris Duncan (16-3-0) \u00b7 Lightweight \u00b7 W: Chris Duncan"
         },
         "ciryl gane vs josh hokit": {
           "kind": "main",
-          "line": "Ciryl Gane (14-2-0) vs Josh Hokit (10-0-0) \u00b7 Heavyweight"
+          "line": "Ciryl Gane (15-2-0) vs Josh Hokit (10-1-0) \u00b7 Heavyweight \u00b7 W: Ciryl Gane"
         },
         "evan elder vs samuel sanches": {
           "kind": "early",
-          "line": "Evan Elder (10-2-0) vs Samuel Sanches (11-1-0) \u00b7 Lightweight"
+          "line": "Evan Elder (11-2-0) vs Samuel Sanches (11-2-0) \u00b7 Lightweight \u00b7 W: Evan Elder"
         },
         "jared gordon vs melquizael costa": {
           "kind": "early",
-          "line": "Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) \u00b7 Lightweight"
+          "line": "Jared Gordon (21-10-0) vs Melquizael Costa (27-8-0) \u00b7 Lightweight \u00b7 W: Melquizael Costa"
         },
         "jim miller vs terrance mckinney": {
           "kind": "prelims",
-          "line": "Jim Miller (39-19-0) vs Terrance McKinney (18-9-0) \u00b7 Lightweight"
+          "line": "Jim Miller (39-20-0) vs Terrance McKinney (19-9-0) \u00b7 Lightweight \u00b7 W: Terrance McKinney"
         },
         "kevin holland vs uro\u0161 medi\u0107": {
           "kind": "main",
-          "line": "Uro\u0161 Medi\u0107 (14-3-0) vs Kevin Holland (29-15-0) \u00b7 Welterweight"
+          "line": "Uro\u0161 Medi\u0107 (14-3-1) vs Kevin Holland (29-15-1) \u00b7 Welterweight"
         }
       },
       "last_start": "2026-11-15T02:00:00+00:00",
@@ -513,13 +513,29 @@
       }
     },
     "600062421": {
-      "bouts": {},
-      "last_start": "2027-01-16T22:00:00+00:00",
+      "bouts": {
+        "chidi njokuani vs ignacio bahamondes": {
+          "kind": "main",
+          "line": "Ignacio Bahamondes (18-7-0) vs Chidi Njokuani (26-12-0) \u00b7 Welterweight"
+        },
+        "daniel rodriguez vs roberto soldi\u0107": {
+          "kind": "main",
+          "line": "Daniel Rodriguez (20-6-0) vs Roberto Soldi\u0107 (22-4-0) \u00b7 Welterweight"
+        },
+        "steve garcia vs yair rodriguez": {
+          "kind": "main",
+          "line": "Yair Rodriguez (21-5-0) vs Steve Garcia (19-6-0) \u00b7 Featherweight"
+        }
+      },
+      "last_start": "2027-01-17T01:00:00+00:00",
       "log": [
-        "Oct 28: Card start moved to Sat Jan 16 2:00 PM PST"
+        "Oct 28: Card start moved to Sat Jan 16 2:00 PM PST",
+        "Nov 14: Added Yair Rodriguez (21-5-0) vs Steve Garcia (19-6-0) \u00b7 Featherweight (Main Card)",
+        "Nov 14: Added Daniel Rodriguez (20-6-0) vs Roberto Soldi\u0107 (22-4-0) \u00b7 Welterweight (Main Card)",
+        "Nov 14: Added Ignacio Bahamondes (18-7-0) vs Chidi Njokuani (26-12-0) \u00b7 Welterweight (Main Card)"
       ],
       "starts": {
-        "card": "2027-01-16T22:00:00+00:00"
+        "main": "2027-01-17T01:00:00+00:00"
       }
     },
     "600062700": {
@@ -583,6 +599,40 @@
         "main": "2026-12-05T18:00:00+00:00",
         "prelims": "2026-12-05T15:00:00+00:00"
       }
+    },
+    "600062900": {
+      "bouts": {
+        "gabriel bonfim vs sean brady": {
+          "kind": "main",
+          "line": "Gabriel Bonfim (20-1-0) vs Sean Brady (19-2-0) \u00b7 Welterweight"
+        }
+      },
+      "last_start": "2027-01-24T01:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2027-01-24T01:00:00+00:00"
+      }
+    },
+    "600062901": {
+      "bouts": {
+        "bo nickal vs joe pyfer": {
+          "kind": "main",
+          "line": "Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
+        }
+      },
+      "last_start": "2027-02-14T01:00:00+00:00",
+      "log": [],
+      "starts": {
+        "main": "2027-02-14T01:00:00+00:00"
+      }
+    },
+    "600062902": {
+      "bouts": {},
+      "last_start": "2027-02-20T23:00:00+00:00",
+      "log": [],
+      "starts": {
+        "card": "2027-02-20T23:00:00+00:00"
+      }
     }
   },
   "vevents": {
@@ -622,19 +672,19 @@
       "seq": 9
     },
     "ufc-600061400-early@ufc-calendar": {
-      "hash": "e54a8f31b448b74bddcf3ee9661b728ca306231185328fdc191a860565990a65",
-      "modified": "20261112T070729Z",
-      "seq": 6
+      "hash": "468e686fc7cefb01baa5434988147c7a558d47813ad7ce5a2d17cc807a9234c9",
+      "modified": "20261115T062554Z",
+      "seq": 7
     },
     "ufc-600061400-main@ufc-calendar": {
-      "hash": "96d22d27a6c6c2df69d094826922228c498bfb42afe1ffaeecbc08466113af28",
-      "modified": "20261111T061243Z",
-      "seq": 5
+      "hash": "d7c499161ace5b1fbdefdf0af2b2572ecd657d4283d10f2cba79707adeee5808",
+      "modified": "20261115T062554Z",
+      "seq": 6
     },
     "ufc-600061400-prelims@ufc-calendar": {
-      "hash": "d0cc862e12c5c9dd37d50a2805a9a4657d8ce3ecf9e46926cdeb21b21c881be7",
-      "modified": "20261113T171128Z",
-      "seq": 6
+      "hash": "de473883b077d3ec9271919d27bd17da58b744b5bd6efab1a1a91731fea41a42",
+      "modified": "20261115T062554Z",
+      "seq": 7
     },
     "ufc-600061401-early@ufc-calendar": {
       "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
@@ -686,10 +736,10 @@
       "modified": "20261112T070729Z",
       "seq": 0
     },
-    "ufc-600062421-card@ufc-calendar": {
-      "hash": "056ff8ea47ea760852083774deb47a49435f718de81f5a2b6ce600071dee6abd",
-      "modified": "20261028T125147Z",
-      "seq": 1
+    "ufc-600062421-main@ufc-calendar": {
+      "hash": "d7bd123488dd76929273eea839af249fb46f0d56f9a4fe1ea3a90e7ffb978efa",
+      "modified": "20261115T062554Z",
+      "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
       "hash": "f7940b72aa71c1f8f5131432a0fb3268d3caec51df8f503c8c388ae130e8b1c7",
@@ -700,6 +750,21 @@
       "hash": "9d9659680f444ab7da3fce817b45ba242e186395c31f9aecada7fe30249bbc6d",
       "modified": "20261111T215545Z",
       "seq": 1
+    },
+    "ufc-600062900-main@ufc-calendar": {
+      "hash": "7b375cdb2867e30c9a00e68807d0a6789a3adc8869a3dea80f7906e24f396cfd",
+      "modified": "20261115T062554Z",
+      "seq": 0
+    },
+    "ufc-600062901-main@ufc-calendar": {
+      "hash": "62866109d911c7db3adda04cc36b12d58022b5db49dcb59fe1c1a5d8084b435a",
+      "modified": "20261115T062554Z",
+      "seq": 0
+    },
+    "ufc-600062902-card@ufc-calendar": {
+      "hash": "0767a2e955c24bced081b2defc4ed98151b9cf4693e7a42ecddeb35a3281ffa0",
+      "modified": "20261115T062554Z",
+      "seq": 0
     }
   }
 }

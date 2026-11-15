@@ -263,29 +263,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-early@ufc-calendar
-DTSTAMP:20261112T070729Z
-LAST-MODIFIED:20261112T070729Z
-SEQUENCE:6
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:7
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 SUMMARY:UFC 334 Early Prelims: Gane vs. Hokit
 DESCRIPTION:Early Prelims starts Sat Nov 14 2:00 PM PST\nWatch: Paramount+\
- n\nJared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight\nMacy
-  Chiasson (11-6-0) vs Bia Mesquita (8-0-0) · W Bantamweight\nAlatengheili
-  (18-10-2) vs Juan Diaz (16-1-1) · Bantamweight\nEvan Elder (10-2-0) vs S
- amuel Sanches (11-1-0) · Lightweight\n\nUpdates:\nOct 25: Added Donte Joh
- nson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct
-  25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweig
- ht (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Sus
- urkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samu
- el Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Preli
- ms: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5:
-  Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Light
- weight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Ba
- ntamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · 
- Bantamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightc
- enter/_/id/600061400/league/ufc\nTimes and bouts can change\; this calenda
- r refreshes every few hours.
+ n\nJared Gordon (21-10-0) vs Melquizael Costa (27-8-0) · Lightweight · W
+ : Melquizael Costa\nMacy Chiasson (11-7-0) vs Bia Mesquita (9-0-0) · W Ba
+ ntamweight · W: Bia Mesquita\nAlatengheili (18-11-2) vs Juan Diaz (17-1-1
+ ) · Bantamweight · W: Juan Diaz\nEvan Elder (11-2-0) vs Samuel Sanches (
+ 11-2-0) · Lightweight · W: Evan Elder\n\nUpdates:\nOct 25: Added Donte J
+ ohnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nO
+ ct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightwe
+ ight (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur S
+ usurkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Sa
+ muel Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Pre
+ lims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 
+ 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lig
+ htweight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · 
+ Bantamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) 
+ · Bantamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fig
+ htcenter/_/id/600061400/league/ufc\nTimes and bouts can change\; this cale
+ ndar refreshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Early Prelims
@@ -294,29 +295,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-prelims@ufc-calendar
-DTSTAMP:20261113T171128Z
-LAST-MODIFIED:20261113T171128Z
-SEQUENCE:6
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:7
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:UFC 334 Prelims: Gane vs. Hokit
 DESCRIPTION:Prelims starts Sat Nov 14 4:00 PM PST\nWatch: Paramount+\n\nSte
- phen Thompson (17-9-1) vs Charles Radtke (12-5-0) · Welterweight\nDrew Do
- ber (29-15-0) vs Chris Duncan (15-3-0) · Lightweight\nJim Miller (39-19-0
- ) vs Terrance McKinney (18-9-0) · Lightweight\nDonte Johnson (9-0-0) vs C
- esar Almeida (7-3-0) · Catch Weight\n\nUpdates:\nOct 25: Added Donte John
- son (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct 
- 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweigh
- t (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susu
- rkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samue
- l Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelim
- s: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: 
- Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightw
- eight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Ban
- tamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · B
- antamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightce
- nter/_/id/600061400/league/ufc\nTimes and bouts can change\; this calendar
-  refreshes every few hours.
+ phen Thompson (18-9-1) vs Charles Radtke (12-6-0) · Welterweight · W: St
+ ephen Thompson\nDrew Dober (29-16-0) vs Chris Duncan (16-3-0) · Lightweig
+ ht · W: Chris Duncan\nJim Miller (39-20-0) vs Terrance McKinney (19-9-0) 
+ · Lightweight · W: Terrance McKinney\nDonte Johnson (9-1-0) vs Cesar Alm
+ eida (8-3-0) · Catch Weight · W: Cesar Almeida\n\nUpdates:\nOct 25: Adde
+ d Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight (Early Pr
+ elims)\nOct 25: Added Jared Gordon (21-9-0) vs Melquizael Costa (26-8-0) 
+ · Lightweight (Early Prelims)\nOct 25: Removed Donte Johnson (9-0-0) vs B
+ aisangur Susurkaev (12-0-0) · Middleweight\nOct 27: Added Evan Elder (10-
+ 2-0) vs Samuel Sanches (11-1-0) · Lightweight (Early Prelims)\nOct 27: Mo
+ ved to Prelims: Donte Johnson (9-0-0) vs Cesar Almeida (7-3-0) · Middlewe
+ ight\nNov 5: Removed Nazim Sadykhov (11-3-1) vs Jefferson Nascimento (13-1
+ -0) · Lightweight\nNov 10: Removed Adrian Yañez (18-6-1) vs Juan Diaz (1
+ 6-1-1) · Bantamweight\nNov 10: Added Juan Diaz (16-1-1) vs Alatengheili (
+ 18-10-2) · Bantamweight (Early Prelims)\n\nFull card: https://www.espn.co
+ m/mma/fightcenter/_/id/600061400/league/ufc\nTimes and bouts can change\; 
+ this calendar refreshes every few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -325,30 +327,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061400-main@ufc-calendar
-DTSTAMP:20261111T061243Z
-LAST-MODIFIED:20261111T061243Z
-SEQUENCE:5
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:6
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:UFC 334 Main Card: Gane vs. Hokit
 DESCRIPTION:Main Card starts Sat Nov 14 6:00 PM PST\nWatch: Paramount+\n\nC
- iryl Gane (14-2-0) vs Josh Hokit (10-0-0) · Heavyweight\nKayla Harrison (
- 19-1-0) vs Amanda Nunes (23-5-0) · W Bantamweight\nCaio Borralho (18-2-0)
-  vs Yousri Belgaroui (11-3-0) · Middleweight\nUroš Medić (14-3-0) vs Ke
- vin Holland (29-15-0) · Welterweight\nBilal Hasan (10-0-0) vs Luis Gurule
-  (11-4-0) · Flyweight\n\nUpdates:\nOct 25: Added Donte Johnson (9-0-0) vs
-  Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct 25: Added Jare
- d Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight (Early Preli
- ms)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-0)
-  · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (11-
- 1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelims: Donte Johns
- on (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: Removed Nazim 
- Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\nNov 10:
-  Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nNov
-  10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · Bantamweight (E
- arly Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000
- 61400/league/ufc\nTimes and bouts can change\; this calendar refreshes eve
- ry few hours.
+ iryl Gane (15-2-0) vs Josh Hokit (10-1-0) · Heavyweight · W: Ciryl Gane\
+ nKayla Harrison (20-1-0) vs Amanda Nunes (23-6-0) · W Bantamweight · W: 
+ Kayla Harrison\nCaio Borralho (19-2-0) vs Yousri Belgaroui (11-4-0) · Mid
+ dleweight · W: Caio Borralho\nUroš Medić (14-3-1) vs Kevin Holland (29-
+ 15-1) · Welterweight\nBilal Hasan (10-1-0) vs Luis Gurule (12-4-0) · Fly
+ weight · W: Luis Gurule\n\nUpdates:\nOct 25: Added Donte Johnson (9-0-0) 
+ vs Cesar Almeida (7-3-0) · Middleweight (Early Prelims)\nOct 25: Added Ja
+ red Gordon (21-9-0) vs Melquizael Costa (26-8-0) · Lightweight (Early Pre
+ lims)\nOct 25: Removed Donte Johnson (9-0-0) vs Baisangur Susurkaev (12-0-
+ 0) · Middleweight\nOct 27: Added Evan Elder (10-2-0) vs Samuel Sanches (1
+ 1-1-0) · Lightweight (Early Prelims)\nOct 27: Moved to Prelims: Donte Joh
+ nson (9-0-0) vs Cesar Almeida (7-3-0) · Middleweight\nNov 5: Removed Nazi
+ m Sadykhov (11-3-1) vs Jefferson Nascimento (13-1-0) · Lightweight\nNov 1
+ 0: Removed Adrian Yañez (18-6-1) vs Juan Diaz (16-1-1) · Bantamweight\nN
+ ov 10: Added Juan Diaz (16-1-1) vs Alatengheili (18-10-2) · Bantamweight 
+ (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
+ 0061400/league/ufc\nTimes and bouts can change\; this calendar refreshes e
+ very few hours.
 LOCATION:Madison Square Garden\, New York\, NY
 URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -542,22 +545,46 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600062421-card@ufc-calendar
-DTSTAMP:20261028T125147Z
-LAST-MODIFIED:20261028T125147Z
-SEQUENCE:1
-DTSTART:20270116T220000Z
-DTEND:20270117T020000Z
-SUMMARY:UFC Fight Night: Dallas (card TBA)
-DESCRIPTION:Card starts Sat Jan 16 2:00 PM PST\n\nFights not announced yet.
-  This entry fills in as bouts are booked.\n\nUpdates:\nOct 28: Card start 
- moved to Sat Jan 16 2:00 PM PST\n\nFull card: https://www.espn.com/mma/fig
- htcenter/_/id/600062421/league/ufc\nTimes and bouts can change\; this cale
- ndar refreshes every few hours.
+UID:ufc-600062421-main@ufc-calendar
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:0
+DTSTART:20270117T010000Z
+DTEND:20270117T040000Z
+SUMMARY:UFC Fight Night Main Card: Rodriguez vs. Garcia
+DESCRIPTION:Main Card starts Sat Jan 16 5:00 PM PST\nWatch: Paramount+\n\nY
+ air Rodriguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight\nDaniel R
+ odriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welterweight\nIgnacio Bah
+ amondes (18-7-0) vs Chidi Njokuani (26-12-0) · Welterweight\n\nUpdates:\n
+ Oct 28: Card start moved to Sat Jan 16 2:00 PM PST\nNov 14: Added Yair Rod
+ riguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight (Main Card)\nNov
+  14: Added Daniel Rodriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welter
+ weight (Main Card)\nNov 14: Added Ignacio Bahamondes (18-7-0) vs Chidi Njo
+ kuani (26-12-0) · Welterweight (Main Card)\n\nFull card: https://www.espn
+ .com/mma/fightcenter/_/id/600062421/league/ufc\nTimes and bouts can change
+ \; this calendar refreshes every few hours.
 LOCATION:American Airlines Center\, Dallas\, TX
 URL:https://www.espn.com/mma/fightcenter/_/id/600062421/league/ufc
-CATEGORIES:UFC\,Card
-STATUS:TENTATIVE
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062900-main@ufc-calendar
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:0
+DTSTART:20270124T010000Z
+DTEND:20270124T040000Z
+SUMMARY:UFC Fight Night Main Card: Bonfim vs. Brady
+DESCRIPTION:Main Card starts Sat Jan 23 5:00 PM PST\nWatch: Paramount+\n\nG
+ abriel Bonfim (20-1-0) vs Sean Brady (19-2-0) · Welterweight\n\nFull card
+ : https://www.espn.com/mma/fightcenter/_/id/600062900/league/ufc\nTimes an
+ d bouts can change\; this calendar refreshes every few hours.
+LOCATION:Meta APEX\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600062900/league/ufc
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -642,6 +669,42 @@ LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Main Card
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062901-main@ufc-calendar
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:0
+DTSTART:20270214T010000Z
+DTEND:20270214T040000Z
+SUMMARY:UFC Fight Night Main Card: Pyfer vs. Nickal
+DESCRIPTION:Main Card starts Sat Feb 13 5:00 PM PST\nWatch: Paramount+\n\nJ
+ oe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\n\nFull card: https
+ ://www.espn.com/mma/fightcenter/_/id/600062901/league/ufc\nTimes and bouts
+  can change\; this calendar refreshes every few hours.
+LOCATION:Rocket Arena\, Cleveland\, OH
+URL:https://www.espn.com/mma/fightcenter/_/id/600062901/league/ufc
+CATEGORIES:UFC\,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062902-card@ufc-calendar
+DTSTAMP:20261115T062554Z
+LAST-MODIFIED:20261115T062554Z
+SEQUENCE:0
+DTSTART:20270220T230000Z
+DTEND:20270221T030000Z
+SUMMARY:UFC 337 (card TBA)
+DESCRIPTION:Card starts Sat Feb 20 3:00 PM PST\n\nFights not announced yet.
+  This entry fills in as bouts are booked.\n\nFull card: https://www.espn.c
+ om/mma/fightcenter/_/id/600062902/league/ufc\nTimes and bouts can change\;
+  this calendar refreshes every few hours.
+LOCATION:Kia Center\, Orlando\, FL
+URL:https://www.espn.com/mma/fightcenter/_/id/600062902/league/ufc
+CATEGORIES:UFC\,Card
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
