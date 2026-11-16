@@ -282,10 +282,6 @@
           "kind": "main",
           "line": "Sergei Pavlovich (21-3-0) vs Alex Pereira (13-4-0) \u00b7 Heavyweight"
         },
-        "bo nickal vs joe pyfer": {
-          "kind": "main",
-          "line": "Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
-        },
         "brandon moreno vs charles johnson": {
           "kind": "main",
           "line": "Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
@@ -307,7 +303,8 @@
       "log": [
         "Oct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
         "Oct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
-        "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
+        "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight",
+        "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
       ],
       "starts": {
         "early": "2026-12-12T22:00:00+00:00",
@@ -687,19 +684,19 @@
       "seq": 7
     },
     "ufc-600061401-early@ufc-calendar": {
-      "hash": "61f2444fea3a5bea587ae3a8e7ab3ebbf5fb6c4b98ba2e9544dacb9e0872e7f1",
-      "modified": "20261028T054003Z",
-      "seq": 1
+      "hash": "0f43dd2a2d12e7edc988a759d05dcd686eaeb7ced83a90b87e2ed7396992d0bf",
+      "modified": "20261116T062405Z",
+      "seq": 2
     },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "43dc0b21a3e9ce361c484d1b75803366f90f964f563a117ea385c057fcfeb1fd",
-      "modified": "20261028T054003Z",
-      "seq": 1
+      "hash": "0d9e9f18de39e8211e8e862a9eb6f0113e2949320efadc1125747f5dcf76d3f5",
+      "modified": "20261116T062405Z",
+      "seq": 2
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "9950cf0dc16d5e96b393adbd6da489bbf6425b95ad44575e5052d2e56d090c35",
-      "modified": "20261028T054003Z",
-      "seq": 1
+      "hash": "b1cd615e8bec91cd9a76f4b76a15871f058a71a373f714a831b5ff64f56d4dbe",
+      "modified": "20261116T062405Z",
+      "seq": 2
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",
