@@ -309,31 +309,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261117T035037Z
-LAST-MODIFIED:20261117T035037Z
-SEQUENCE:6
+DTSTAMP:20261117T155724Z
+LAST-MODIFIED:20261117T155724Z
+SEQUENCE:7
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
-DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nAle
- ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nShamil G
- aziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Albazi (1
- 7-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8-0) v
- s Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) vs Dom
-  Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lorenz (
- 8-2-0) · Light Heavyweight\n\nUpdates:\nNov 3: Moved to Prelims: Shamil G
- aziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nNov 5: Moved t
- o Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweig
- ht\nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna
-  (8-1-0) · Bantamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1
- -0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: A
- leksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14
- : Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prel
- ims)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Lig
- ht Heavyweight (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-
- 1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https://www.es
- pn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts can chan
- ge\; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nSha
+ mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Alba
+ zi (17-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8
+ -0) vs Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) v
+ s Dom Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lor
+ enz (8-2-0) · Light Heavyweight\n\nUpdates:\nNov 5: Moved to Main Card: K
+ yoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nNov 5: Mov
+ ed to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Ba
+ ntamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiag
+ o Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Aleksandre Topu
+ ria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: Added Nikola
+ s Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: 
+ Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight
+  (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santia
+ go Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: Aleksandre To
+ puria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https
+ ://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts
+  can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -342,9 +341,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261117T035037Z
-LAST-MODIFIED:20261117T035037Z
-SEQUENCE:6
+DTSTAMP:20261117T155724Z
+LAST-MODIFIED:20261117T155724Z
+SEQUENCE:7
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
@@ -353,19 +352,20 @@ DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
  nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nKyoji Horig
  uchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nJared Cannonier (18-
- 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNov 3: Move
- d to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavy
- weight\nNov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabay
- ev (24-3-0) · Flyweight\nNov 5: Moved to Main Card: Aleksandre Topuria (7
- -1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 8: Moved to Prelims: A
- leksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9:
-  Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) 
- · Bantamweight\nNov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-
- 0) · Lightweight (Prelims)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Ali
- k Lorenz (8-2-0) · Light Heavyweight (Prelims)\nNov 16: Moved to Prelims:
-  Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFu
- ll card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nT
- imes and bouts can change\; this calendar refreshes every few hours.
+ 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nAleksandre Topuria (7-1
+ -0) vs Santiago Luna (8-1-0) · Bantamweight\n\nUpdates:\nNov 5: Moved to 
+ Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight
+ \nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (
+ 8-1-0) · Bantamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0
+ ) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Ale
+ ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: 
+ Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelim
+ s)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light
+  Heavyweight (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-
+ 0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: A
+ leksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull
+  card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTim
+ es and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card

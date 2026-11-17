@@ -317,7 +317,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -363,14 +363,14 @@
       },
       "last_start": "2026-11-21T18:00:00+00:00",
       "log": [
-        "Nov 3: Moved to Prelims: Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight",
         "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
         "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight (Prelims)",
         "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)",
-        "Nov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -638,14 +638,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "5c0975826d915a9b5b6e02fcd83ac86b23faee6d11d774cd3043ee2e2ed4a07a",
-      "modified": "20261117T035037Z",
-      "seq": 6
+      "hash": "ce0130c7fcdb26c29c408e4d8732b78502e5f38d696e737247c126fb41112075",
+      "modified": "20261117T155724Z",
+      "seq": 7
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "fdf9bf9aab6a564b6bb0065456ce2fbfc4f623a8fb99e9ff4aafca4621e7a25e",
-      "modified": "20261117T035037Z",
-      "seq": 6
+      "hash": "3acfacfc5a70213bc73716c6b297230fb1a7141ee1cce90764de0d2cd48a77d8",
+      "modified": "20261117T155724Z",
+      "seq": 7
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
