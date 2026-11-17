@@ -1,67 +1,5 @@
 {
   "events": {
-    "600060773": {
-      "bouts": {
-        "chad anheliger vs steven koslow": {
-          "kind": "prelims",
-          "line": "Chad Anheliger (13-9-0) vs Steven Koslow (7-1-0) \u00b7 Bantamweight \u00b7 W: Steven Koslow"
-        },
-        "chelsea chandler vs melissa croden": {
-          "kind": "prelims",
-          "line": "Melissa Croden (8-4-0) vs Chelsea Chandler (8-4-0) \u00b7 W Bantamweight \u00b7 W: Chelsea Chandler"
-        },
-        "cody chovancek vs suyoung you": {
-          "kind": "prelims",
-          "line": "Cody Chovancek (9-1-0) vs SuYoung You (17-4-0) \u00b7 Bantamweight \u00b7 W: SuYoung You"
-        },
-        "cristian p\u00e9rez vs kyle nelson": {
-          "kind": "main",
-          "line": "Kyle Nelson (17-8-1) vs Cristian P\u00e9rez (16-2-0) \u00b7 Lightweight \u00b7 W: Cristian P\u00e9rez"
-        },
-        "erin blanchfield vs jasmine jasudavicius": {
-          "kind": "main",
-          "line": "Erin Blanchfield (14-3-0) vs Jasmine Jasudavicius (16-4-0) \u00b7 W Flyweight \u00b7 W: Jasmine Jasudavicius"
-        },
-        "javad mahjoub vs joel faglier": {
-          "kind": "prelims",
-          "line": "Javad Mahjoub (5-1-0) vs Joel Faglier (7-0-0) \u00b7 Heavyweight \u00b7 W: Joel Faglier"
-        },
-        "jhonata diniz vs tanner boser": {
-          "kind": "prelims",
-          "line": "Tanner Boser (23-11-1) vs Jhonata Diniz (9-3-0) \u00b7 Heavyweight \u00b7 W: Tanner Boser"
-        },
-        "joaquin buckley vs mike malott": {
-          "kind": "main",
-          "line": "Joaquin Buckley (21-9-0) vs Mike Malott (15-2-1) \u00b7 Welterweight \u00b7 W: Mike Malott"
-        },
-        "julien leblanc vs nick galanti": {
-          "kind": "prelims",
-          "line": "Julien LeBlanc (10-4-0) vs Nick Galanti (9-1-0) \u00b7 Middleweight \u00b7 W: Nick Galanti"
-        },
-        "katlyn cerminara vs mackenzie stiller": {
-          "kind": "prelims",
-          "line": "Katlyn Cerminara (19-6-0) vs Mackenzie Stiller (6-2-0) \u00b7 W Flyweight \u00b7 W: Katlyn Cerminara"
-        },
-        "kyle daukaus vs marc-andre barriault": {
-          "kind": "main",
-          "line": "Marc-Andre Barriault (18-11-0) vs Kyle Daukaus (17-6-0) \u00b7 Middleweight \u00b7 W: Marc-Andre Barriault"
-        },
-        "louis jourdain vs timmy cuamba": {
-          "kind": "main",
-          "line": "Louis Jourdain (9-4-0) vs Timmy Cuamba (11-4-0) \u00b7 Bantamweight \u00b7 W: Timmy Cuamba"
-        },
-        "mandel nallo vs nate landwehr": {
-          "kind": "main",
-          "line": "Mandel Nallo (15-4-0) vs Nate Landwehr (18-9-0) \u00b7 Lightweight \u00b7 W: Mandel Nallo"
-        }
-      },
-      "last_start": "2026-10-18T00:00:00+00:00",
-      "log": [],
-      "starts": {
-        "main": "2026-10-18T00:00:00+00:00",
-        "prelims": "2026-10-17T21:00:00+00:00"
-      }
-    },
     "600061267": {
       "bouts": {
         "aaron pico vs losene keita": {
@@ -379,7 +317,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -431,7 +369,8 @@
         "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight (Prelims)",
-        "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)"
+        "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)",
+        "Nov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -633,16 +572,6 @@
     }
   },
   "vevents": {
-    "ufc-600060773-main@ufc-calendar": {
-      "hash": "c791f57b226c18acf95810d8cea2671d707b169a9a0558ca1369317de405c58e",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
-    "ufc-600060773-prelims@ufc-calendar": {
-      "hash": "97e04cef1b1ec57a3dbf1748d49cceedf3f30b51a7e6502f830247a2990de34a",
-      "modified": "20261024T042139Z",
-      "seq": 0
-    },
     "ufc-600061267-early@ufc-calendar": {
       "hash": "1118a453d652415daa72206953a2e277013439c8f334eb3a1e610a00704a3da5",
       "modified": "20261024T204653Z",
@@ -709,14 +638,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "4036a2fdcb499dbdacbe8ce64af000ed5697ab85a1720f80cf423cd35fe63c22",
-      "modified": "20261114T154734Z",
-      "seq": 5
+      "hash": "5c0975826d915a9b5b6e02fcd83ac86b23faee6d11d774cd3043ee2e2ed4a07a",
+      "modified": "20261117T035037Z",
+      "seq": 6
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "570fbb5eb5a932b50553c2d2f056021bd7305cbaa41cb9e93d1cd3aff275e550",
-      "modified": "20261114T154734Z",
-      "seq": 5
+      "hash": "fdf9bf9aab6a564b6bb0065456ce2fbfc4f623a8fb99e9ff4aafca4621e7a25e",
+      "modified": "20261117T035037Z",
+      "seq": 6
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
