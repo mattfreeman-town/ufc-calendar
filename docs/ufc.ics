@@ -309,30 +309,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261117T155724Z
-LAST-MODIFIED:20261117T155724Z
-SEQUENCE:7
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:8
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
-DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nSha
- mil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Alba
- zi (17-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8
- -0) vs Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) v
- s Dom Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lor
- enz (8-2-0) · Light Heavyweight\n\nUpdates:\nNov 5: Moved to Main Card: K
- yoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nNov 5: Mov
- ed to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Ba
- ntamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiag
- o Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Aleksandre Topu
- ria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: Added Nikola
- s Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: 
- Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight
-  (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santia
- go Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: Aleksandre To
- puria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https
- ://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts
-  can change\; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nAle
+ ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nShamil G
+ aziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Albazi (1
+ 7-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8-0) v
+ s Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) vs Dom
+  Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lorenz (
+ 8-2-0) · Light Heavyweight\n\nUpdates:\nNov 5: Moved to Main Card: Aleksa
+ ndre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 8: Move
+ d to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Banta
+ mweight\nNov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago
+  Luna (8-1-0) · Bantamweight\nNov 14: Added Nikolas Motta (15-6-0) vs Dom
+  Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: Added Diyar Nurgozhay (
+ 12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight (Prelims)\nNov 16: Mov
+ ed to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bant
+ amweight\nNov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santia
+ go Luna (8-1-0) · Bantamweight\nNov 18: Moved to Prelims: Aleksandre Topu
+ ria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull card: https:/
+ /www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTimes and bouts c
+ an change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -341,9 +342,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261117T155724Z
-LAST-MODIFIED:20261117T155724Z
-SEQUENCE:7
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:8
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
@@ -352,20 +353,19 @@ DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
  nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nKyoji Horig
  uchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nJared Cannonier (18-
- 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\nAleksandre Topuria (7-1
- -0) vs Santiago Luna (8-1-0) · Bantamweight\n\nUpdates:\nNov 5: Moved to 
- Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight
- \nNov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (
- 8-1-0) · Bantamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0
- ) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Ale
- ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: 
- Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelim
- s)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light
-  Heavyweight (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-
- 0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: A
- leksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n\nFull
-  card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTim
- es and bouts can change\; this calendar refreshes every few hours.
+ 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNov 5: Move
+ d to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Ban
+ tamweight\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago
+  Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Aleksandre Topur
+ ia (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: Added Nikolas
+  Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: A
+ dded Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight 
+ (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiag
+ o Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: Aleksandre Top
+ uria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 18: Moved to Pr
+ elims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight
+ \n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/
+ ufc\nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -374,28 +374,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-prelims@ufc-calendar
-DTSTAMP:20261111T215545Z
-LAST-MODIFIED:20261111T215545Z
-SEQUENCE:1
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:2
 DTSTART:20261205T150000Z
 DTEND:20261205T180000Z
 SUMMARY:UFC Fight Night Prelims: Adesanya vs Magomedov
-DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nLeva
- n Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nMairon Sant
- os (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (
- 7-0-0) vs Ion Cutelaba (20-12-1) · Light Heavyweight\nBruno Silva (15-9-2
- ) vs Jafel Filho (17-5-0) · Flyweight\nUran Satybaldiev (9-1-0) vs Ivan G
- nizditskiy (7-0-0) · Light Heavyweight\nMarco Tulio (14-3-0) vs JunYong P
- ark (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Mehemmedeli Osmanl
- i (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs Matthieu Letho 
- Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs Hecher Sosa (15
- -1-0) · Bantamweight\n\nUpdates:\nNov 11: Moved to Prelims: Levan Chokhel
- i (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 11: Moved to Pre
- lims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nN
- ov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1
- ) · Light Heavyweight\n\nFull card: https://www.espn.com/mma/fightcenter/
- _/id/600062700/league/ufc\nTimes and bouts can change\; this calendar refr
- eshes every few hours.
+DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nBrun
+ o Silva (15-9-2) vs Jafel Filho (17-5-0) · Flyweight\nUran Satybaldiev (9
+ -1-0) vs Ivan Gnizditskiy (7-0-0) · Light Heavyweight\nMarco Tulio (14-3-
+ 0) vs JunYong Park (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Meh
+ emmedeli Osmanli (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs 
+ Matthieu Letho Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs 
+ Hecher Sosa (15-1-0) · Bantamweight\n\nUpdates:\nNov 11: Moved to Prelims
+ : Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 1
+ 1: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) ·
+  Lightweight\nNov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cu
+ telaba (20-12-1) · Light Heavyweight\nNov 18: Moved to Main Card: Levan C
+ hokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 18: Moved 
+ to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightw
+ eight\nNov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelab
+ a (20-12-1) · Light Heavyweight\n\nFull card: https://www.espn.com/mma/fi
+ ghtcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; this cal
+ endar refreshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -404,22 +405,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-main@ufc-calendar
-DTSTAMP:20261111T215545Z
-LAST-MODIFIED:20261111T215545Z
-SEQUENCE:1
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:2
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:UFC Fight Night Main Card: Adesanya vs Magomedov
 DESCRIPTION:Main Card starts Sat Dec 5 10:00 AM PST\nWatch: Paramount+\n\nI
  srael Adesanya (24-6-0) vs Shara Magomedov (17-1-0) · Middleweight\nIan M
  achado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) · Welterweight\nSerghei
-  Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\n\nUpdates:\nNov 1
- 1: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · 
- Welterweight\nNov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Ab
- dullaev (14-0-0) · Lightweight\nNov 11: Moved to Prelims: Magomed Tuchalo
- v (7-0-0) vs Ion Cutelaba (20-12-1) · Light Heavyweight\n\nFull card: htt
- ps://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\nTimes and bou
- ts can change\; this calendar refreshes every few hours.
+  Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\nLevan Chokheli (1
+ 5-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nMairon Santos (18-1-0) v
+ s Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (7-0-0) vs Ion
+  Cutelaba (20-12-1) · Light Heavyweight\n\nUpdates:\nNov 11: Moved to Pre
+ lims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nN
+ ov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0
+ ) · Lightweight\nNov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Io
+ n Cutelaba (20-12-1) · Light Heavyweight\nNov 18: Moved to Main Card: Lev
+ an Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 18: Mo
+ ved to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Li
+ ghtweight\nNov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cut
+ elaba (20-12-1) · Light Heavyweight\n\nFull card: https://www.espn.com/mm
+ a/fightcenter/_/id/600062700/league/ufc\nTimes and bouts can change\; this
+  calendar refreshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -427,45 +435,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600061401-early@ufc-calendar
-DTSTAMP:20261116T062405Z
-LAST-MODIFIED:20261116T062405Z
-SEQUENCE:2
-DTSTART:20261212T220000Z
-DTEND:20261213T000000Z
-SUMMARY:UFC 335 Early Prelims: Oliveira vs. Lopes
-DESCRIPTION:Early Prelims starts Sat Dec 12 2:00 PM PST\nWatch: Paramount+\
- n\nQuentin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\n\nU
- pdates:\nOct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice 
- (7-2-0) · W Flyweight\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs 
- Bo Nickal (9-1-0) · Middleweight\nOct 27: Moved to Main Card: Brandon Mor
- eno (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nNov 15: Removed Jo
- e Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\n\nFull card: https:
- //www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts 
- can change\; this calendar refreshes every few hours.
-LOCATION:T-Mobile Arena\, Las Vegas\, NV
-URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
-CATEGORIES:UFC\,Early Prelims
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-600061401-prelims@ufc-calendar
-DTSTAMP:20261116T062405Z
-LAST-MODIFIED:20261116T062405Z
-SEQUENCE:2
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:3
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:UFC 335 Prelims: Oliveira vs. Lopes
-DESCRIPTION:Prelims starts Sat Dec 12 4:00 PM PST\nWatch: Paramount+\n\nMay
- cee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\n\nUpdates:\nOc
- t 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · 
- W Flyweight\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (
- 9-1-0) · Middleweight\nOct 27: Moved to Main Card: Brandon Moreno (24-10-
- 2) vs Charles Johnson (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfer (16
- -3-0) vs Bo Nickal (9-1-0) · Middleweight\n\nFull card: https://www.espn.
- com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts can change\
- ; this calendar refreshes every few hours.
+DESCRIPTION:Prelims starts Sat Dec 12 4:00 PM PST\nWatch: Paramount+\n\nQue
+ ntin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\n\nUpdates
+ :\nOct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0
+ ) · W Flyweight\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nic
+ kal (9-1-0) · Middleweight\nOct 27: Moved to Main Card: Brandon Moreno (2
+ 4-10-2) vs Charles Johnson (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfe
+ r (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelims:
+  Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov 1
+ 8: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\n
+ \nFull card: https://www.espn.com/mma/fightcenter/_/id/600061401/league/uf
+ c\nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -474,23 +461,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061401-main@ufc-calendar
-DTSTAMP:20261116T062405Z
-LAST-MODIFIED:20261116T062405Z
-SEQUENCE:2
+DTSTAMP:20261118T113724Z
+LAST-MODIFIED:20261118T113724Z
+SEQUENCE:3
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:UFC 335 Main Card: Oliveira vs. Lopes
 DESCRIPTION:Main Card starts Sat Dec 12 6:00 PM PST\nWatch: Paramount+\n\nC
- harles Oliveira (37-11-0) vs Diego Lopes (28-8-0) · Lightweight\nSergei P
- avlovich (21-3-0) vs Alex Pereira (13-4-0) · Heavyweight\nBrandon Moreno 
+ harles Oliveira (37-11-0) vs Diego Lopes (28-8-0) · Lightweight\nAlex Per
+ eira (13-4-0) vs Sergei Pavlovich (21-3-0) · Heavyweight\nBrandon Moreno 
  (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\n\nUpdates:\nOct 27: Mo
  ved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flywei
  ght\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) 
  · Middleweight\nOct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs C
  harles Johnson (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfer (16-3-0) v
- s Bo Nickal (9-1-0) · Middleweight\n\nFull card: https://www.espn.com/mma
- /fightcenter/_/id/600061401/league/ufc\nTimes and bouts can change\; this 
- calendar refreshes every few hours.
+ s Bo Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelims: Quentin Pas
+ ley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov 18: Removed M
+ aycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\n\nFull card:
+  https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and
+  bouts can change\; this calendar refreshes every few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Main Card

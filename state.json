@@ -218,22 +218,18 @@
       "bouts": {
         "alex pereira vs sergei pavlovich": {
           "kind": "main",
-          "line": "Sergei Pavlovich (21-3-0) vs Alex Pereira (13-4-0) \u00b7 Heavyweight"
+          "line": "Alex Pereira (13-4-0) vs Sergei Pavlovich (21-3-0) \u00b7 Heavyweight"
         },
         "brandon moreno vs charles johnson": {
           "kind": "main",
           "line": "Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
-        },
-        "carli judice vs maycee barber": {
-          "kind": "prelims",
-          "line": "Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight"
         },
         "charles oliveira vs diego lopes": {
           "kind": "main",
           "line": "Charles Oliveira (37-11-0) vs Diego Lopes (28-8-0) \u00b7 Lightweight"
         },
         "junior tafa vs quentin pasley": {
-          "kind": "early",
+          "kind": "prelims",
           "line": "Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight"
         }
       },
@@ -242,10 +238,11 @@
         "Oct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
         "Oct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
         "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight",
-        "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight"
+        "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
+        "Nov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight",
+        "Nov 18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight"
       ],
       "starts": {
-        "early": "2026-12-12T22:00:00+00:00",
         "main": "2026-12-13T02:00:00+00:00",
         "prelims": "2026-12-13T00:00:00+00:00"
       }
@@ -317,7 +314,7 @@
     "600061665": {
       "bouts": {
         "aleksandre topuria vs santiago luna": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
         },
         "alessandro costa vs amir albazi": {
@@ -363,14 +360,14 @@
       },
       "last_start": "2026-11-21T18:00:00+00:00",
       "log": [
-        "Nov 5: Moved to Main Card: Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight",
         "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight (Prelims)",
         "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)",
         "Nov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
-        "Nov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 18: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -481,7 +478,7 @@
           "line": "Abdul Hussein (16-2-0) vs Hecher Sosa (15-1-0) \u00b7 Bantamweight"
         },
         "akbar abdullaev vs mairon santos": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight"
         },
         "bruno silva vs jafel filho": {
@@ -493,11 +490,11 @@
           "line": "Ian Machado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) \u00b7 Welterweight"
         },
         "ion cutelaba vs magomed tuchalov": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
         },
         "islam dulatov vs levan chokheli": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
         },
         "israel adesanya vs shara magomedov": {
@@ -529,7 +526,10 @@
       "log": [
         "Nov 11: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
-        "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
+        "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
+        "Nov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
+        "Nov 18: Moved to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
+        "Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
       ],
       "starts": {
         "main": "2026-12-05T18:00:00+00:00",
@@ -612,20 +612,15 @@
       "modified": "20261115T062554Z",
       "seq": 7
     },
-    "ufc-600061401-early@ufc-calendar": {
-      "hash": "0f43dd2a2d12e7edc988a759d05dcd686eaeb7ced83a90b87e2ed7396992d0bf",
-      "modified": "20261116T062405Z",
-      "seq": 2
-    },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "0d9e9f18de39e8211e8e862a9eb6f0113e2949320efadc1125747f5dcf76d3f5",
-      "modified": "20261116T062405Z",
-      "seq": 2
+      "hash": "142a3a771b42e75d30a08545c9379778a9246fb41722f8881177ec48142f19f0",
+      "modified": "20261118T113724Z",
+      "seq": 3
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "b1cd615e8bec91cd9a76f4b76a15871f058a71a373f714a831b5ff64f56d4dbe",
-      "modified": "20261116T062405Z",
-      "seq": 2
+      "hash": "2ff86c98d0025d82ef5b350a75ea34cedd49cc5d0c5761a8b881ef6fd8aa87d4",
+      "modified": "20261118T113724Z",
+      "seq": 3
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",
@@ -638,14 +633,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "ce0130c7fcdb26c29c408e4d8732b78502e5f38d696e737247c126fb41112075",
-      "modified": "20261117T155724Z",
-      "seq": 7
+      "hash": "4a0daa91b4dc8c91e881057558cfef0e9131f14c916e2bd7baf4ba14f936d918",
+      "modified": "20261118T113724Z",
+      "seq": 8
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "3acfacfc5a70213bc73716c6b297230fb1a7141ee1cce90764de0d2cd48a77d8",
-      "modified": "20261117T155724Z",
-      "seq": 7
+      "hash": "ca7d78d141893cf89af11b1acdcb36a13f2f07fb12251fc1c1a137cb02f7ab80",
+      "modified": "20261118T113724Z",
+      "seq": 8
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
@@ -668,14 +663,14 @@
       "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
-      "hash": "f7940b72aa71c1f8f5131432a0fb3268d3caec51df8f503c8c388ae130e8b1c7",
-      "modified": "20261111T215545Z",
-      "seq": 1
+      "hash": "28009b18adb4801c94bdb06007f813badafe4f96b1aafe7ea353ed4958b45559",
+      "modified": "20261118T113724Z",
+      "seq": 2
     },
     "ufc-600062700-prelims@ufc-calendar": {
-      "hash": "9d9659680f444ab7da3fce817b45ba242e186395c31f9aecada7fe30249bbc6d",
-      "modified": "20261111T215545Z",
-      "seq": 1
+      "hash": "3ecf6f103f8ae8d697e5f63e0a6994c1456e38ddf47c524f30afc1c2650cb318",
+      "modified": "20261118T113724Z",
+      "seq": 2
     },
     "ufc-600062900-main@ufc-calendar": {
       "hash": "7b375cdb2867e30c9a00e68807d0a6789a3adc8869a3dea80f7906e24f396cfd",
