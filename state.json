@@ -353,6 +353,10 @@
           "kind": "main",
           "line": "Ji\u0159\u00ed Proch\u00e1zka (32-6-1) vs Navajo Stirling (11-0-0) \u00b7 Light Heavyweight"
         },
+        "john mitchell vs shoaib yousaf": {
+          "kind": "prelims",
+          "line": "Shoaib Yousaf (10-3-0) vs John Mitchell (11-3-0) \u00b7 Lightweight"
+        },
         "shamil gaziev vs tallison teixeira": {
           "kind": "prelims",
           "line": "Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
@@ -360,14 +364,14 @@
       },
       "last_start": "2026-11-21T18:00:00+00:00",
       "log": [
-        "Nov 5: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight (Prelims)",
         "Nov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight (Prelims)",
         "Nov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
         "Nov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
-        "Nov 18: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+        "Nov 18: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight",
+        "Nov 19: Added Shoaib Yousaf (10-3-0) vs John Mitchell (11-3-0) \u00b7 Lightweight (Prelims)"
       ],
       "starts": {
         "main": "2026-11-21T18:00:00+00:00",
@@ -633,14 +637,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "4a0daa91b4dc8c91e881057558cfef0e9131f14c916e2bd7baf4ba14f936d918",
-      "modified": "20261118T113724Z",
-      "seq": 8
+      "hash": "383a8fcc972b706612f3ca8c633f9f00ea7634856d9b04d37fcb6de11d376f91",
+      "modified": "20261119T203326Z",
+      "seq": 9
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "ca7d78d141893cf89af11b1acdcb36a13f2f07fb12251fc1c1a137cb02f7ab80",
-      "modified": "20261118T113724Z",
-      "seq": 8
+      "hash": "740ba93680a5ffe4b41f1152eee2c8fb22b4d1ba000721352974a4276e18b150",
+      "modified": "20261119T203326Z",
+      "seq": 9
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
