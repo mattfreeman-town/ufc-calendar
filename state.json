@@ -451,13 +451,53 @@
     },
     "600062421": {
       "bouts": {
+        "alden coria vs michael aljarouj": {
+          "kind": "prelims",
+          "line": "Alden Coria (13-4-0) vs Michael Aljarouj (13-4-0) \u00b7 Flyweight"
+        },
         "chidi njokuani vs ignacio bahamondes": {
           "kind": "main",
           "line": "Chidi Njokuani (26-12-0) vs Ignacio Bahamondes (18-7-0) \u00b7 Welterweight"
         },
+        "chris curtis vs geoff neal": {
+          "kind": "main",
+          "line": "Geoff Neal (16-8-0) vs Chris Curtis (32-13-0) \u00b7 Welterweight"
+        },
         "daniel rodriguez vs roberto soldi\u0107": {
           "kind": "main",
           "line": "Daniel Rodriguez (20-6-0) vs Roberto Soldi\u0107 (22-4-0) \u00b7 Welterweight"
+        },
+        "diego ferreira vs marquel mederos": {
+          "kind": "prelims",
+          "line": "Diego Ferreira (20-7-0) vs MarQuel Mederos (12-1-1) \u00b7 Lightweight"
+        },
+        "elisha ellison vs kennedy nzechukwu": {
+          "kind": "prelims",
+          "line": "Kennedy Nzechukwu (14-7-1) vs Elisha Ellison (5-3-0)"
+        },
+        "gilbert urbina vs robert valentin": {
+          "kind": "prelims",
+          "line": "Gilbert Urbina (8-5-0) vs Robert Valentin (13-6-0) \u00b7 Middleweight"
+        },
+        "gokhan saricam vs steven asplund": {
+          "kind": "prelims",
+          "line": "Steven Asplund (8-2-0) vs Gokhan Saricam (12-2-0) \u00b7 Heavyweight"
+        },
+        "john garza vs toshiomi kazama": {
+          "kind": "prelims",
+          "line": "John Garza (6-2-0) vs Toshiomi Kazama (11-5-0) \u00b7 Bantamweight"
+        },
+        "karolina kowalkiewicz vs sam hughes": {
+          "kind": "prelims",
+          "line": "Sam Hughes (11-7-0) vs Karolina Kowalkiewicz (16-10-0) \u00b7 W Strawweight"
+        },
+        "louie sutherland vs ryan spann": {
+          "kind": "main",
+          "line": "Ryan Spann (24-12-0) vs Louie Sutherland (11-6-0) \u00b7 Heavyweight"
+        },
+        "magomed zaynukov vs piero guaylupo": {
+          "kind": "prelims",
+          "line": "Magomed Zaynukov (9-0-0) vs Piero Guaylupo (12-0-0) \u00b7 Light Heavyweight"
         },
         "steve garcia vs yair rodriguez": {
           "kind": "main",
@@ -466,13 +506,18 @@
       },
       "last_start": "2027-01-17T01:00:00+00:00",
       "log": [
-        "Oct 28: Card start moved to Sat Jan 16 2:00 PM PST",
-        "Nov 14: Added Yair Rodriguez (21-5-0) vs Steve Garcia (19-6-0) \u00b7 Featherweight (Main Card)",
-        "Nov 14: Added Daniel Rodriguez (20-6-0) vs Roberto Soldi\u0107 (22-4-0) \u00b7 Welterweight (Main Card)",
-        "Nov 14: Added Ignacio Bahamondes (18-7-0) vs Chidi Njokuani (26-12-0) \u00b7 Welterweight (Main Card)"
+        "Nov 20: Added Alden Coria (13-4-0) vs Michael Aljarouj (13-4-0) \u00b7 Flyweight (Prelims)",
+        "Nov 20: Added Diego Ferreira (20-7-0) vs MarQuel Mederos (12-1-1) \u00b7 Lightweight (Prelims)",
+        "Nov 20: Added Magomed Zaynukov (9-0-0) vs Piero Guaylupo (12-0-0) \u00b7 Light Heavyweight (Prelims)",
+        "Nov 20: Added John Garza (6-2-0) vs Toshiomi Kazama (11-5-0) \u00b7 Bantamweight (Prelims)",
+        "Nov 20: Added Steven Asplund (8-2-0) vs Gokhan Saricam (12-2-0) \u00b7 Heavyweight (Prelims)",
+        "Nov 20: Added Sam Hughes (11-7-0) vs Karolina Kowalkiewicz (16-10-0) \u00b7 W Strawweight (Prelims)",
+        "Nov 20: Added Geoff Neal (16-8-0) vs Chris Curtis (32-13-0) \u00b7 Welterweight (Main Card)",
+        "Nov 20: Added Ryan Spann (24-12-0) vs Louie Sutherland (11-6-0) \u00b7 Heavyweight (Main Card)"
       ],
       "starts": {
-        "main": "2027-01-17T01:00:00+00:00"
+        "main": "2027-01-17T01:00:00+00:00",
+        "prelims": "2027-01-16T22:00:00+00:00"
       }
     },
     "600062700": {
@@ -662,9 +707,14 @@
       "seq": 0
     },
     "ufc-600062421-main@ufc-calendar": {
-      "hash": "94ef267c074ca51ca924e1e1c88d5b50210cb764f95beed66cd2cc10a4f29dab",
-      "modified": "20261120T021808Z",
-      "seq": 1
+      "hash": "d50f32dfbd231f4eb699f5dcea3a7725956a2c0527f2df21d19daf5e47e14b38",
+      "modified": "20261120T113411Z",
+      "seq": 2
+    },
+    "ufc-600062421-prelims@ufc-calendar": {
+      "hash": "b0555b7112351d56d4ed30063df1024310175fca4fca039b55e1cb0d008b0a09",
+      "modified": "20261120T113411Z",
+      "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
       "hash": "28009b18adb4801c94bdb06007f813badafe4f96b1aafe7ea353ed4958b45559",

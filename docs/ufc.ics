@@ -488,24 +488,66 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-600062421-prelims@ufc-calendar
+DTSTAMP:20261120T113411Z
+LAST-MODIFIED:20261120T113411Z
+SEQUENCE:0
+DTSTART:20270116T220000Z
+DTEND:20270117T010000Z
+SUMMARY:UFC Fight Night Prelims: Rodriguez vs. Garcia
+DESCRIPTION:Prelims starts Sat Jan 16 2:00 PM PST\nWatch: Paramount+\n\nKen
+ nedy Nzechukwu (14-7-1) vs Elisha Ellison (5-3-0)\nGilbert Urbina (8-5-0) 
+ vs Robert Valentin (13-6-0) · Middleweight\nAlden Coria (13-4-0) vs Micha
+ el Aljarouj (13-4-0) · Flyweight\nDiego Ferreira (20-7-0) vs MarQuel Mede
+ ros (12-1-1) · Lightweight\nMagomed Zaynukov (9-0-0) vs Piero Guaylupo (1
+ 2-0-0) · Light Heavyweight\nJohn Garza (6-2-0) vs Toshiomi Kazama (11-5-0
+ ) · Bantamweight\nSteven Asplund (8-2-0) vs Gokhan Saricam (12-2-0) · He
+ avyweight\nSam Hughes (11-7-0) vs Karolina Kowalkiewicz (16-10-0) · W Str
+ awweight\n\nUpdates:\nNov 20: Added Alden Coria (13-4-0) vs Michael Aljaro
+ uj (13-4-0) · Flyweight (Prelims)\nNov 20: Added Diego Ferreira (20-7-0) 
+ vs MarQuel Mederos (12-1-1) · Lightweight (Prelims)\nNov 20: Added Magome
+ d Zaynukov (9-0-0) vs Piero Guaylupo (12-0-0) · Light Heavyweight (Prelim
+ s)\nNov 20: Added John Garza (6-2-0) vs Toshiomi Kazama (11-5-0) · Bantam
+ weight (Prelims)\nNov 20: Added Steven Asplund (8-2-0) vs Gokhan Saricam (
+ 12-2-0) · Heavyweight (Prelims)\nNov 20: Added Sam Hughes (11-7-0) vs Kar
+ olina Kowalkiewicz (16-10-0) · W Strawweight (Prelims)\nNov 20: Added Geo
+ ff Neal (16-8-0) vs Chris Curtis (32-13-0) · Welterweight (Main Card)\nNo
+ v 20: Added Ryan Spann (24-12-0) vs Louie Sutherland (11-6-0) · Heavyweig
+ ht (Main Card)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600
+ 062421/league/ufc\nTimes and bouts can change\; this calendar refreshes ev
+ ery few hours.
+LOCATION:American Airlines Center\, Dallas\, TX
+URL:https://www.espn.com/mma/fightcenter/_/id/600062421/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-600062421-main@ufc-calendar
-DTSTAMP:20261120T021808Z
-LAST-MODIFIED:20261120T021808Z
-SEQUENCE:1
+DTSTAMP:20261120T113411Z
+LAST-MODIFIED:20261120T113411Z
+SEQUENCE:2
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:UFC Fight Night Main Card: Rodriguez vs. Garcia
 DESCRIPTION:Main Card starts Sat Jan 16 5:00 PM PST\nWatch: Paramount+\n\nY
  air Rodriguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight\nDaniel R
  odriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welterweight\nChidi Njoku
- ani (26-12-0) vs Ignacio Bahamondes (18-7-0) · Welterweight\n\nUpdates:\n
- Oct 28: Card start moved to Sat Jan 16 2:00 PM PST\nNov 14: Added Yair Rod
- riguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight (Main Card)\nNov
-  14: Added Daniel Rodriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welter
- weight (Main Card)\nNov 14: Added Ignacio Bahamondes (18-7-0) vs Chidi Njo
- kuani (26-12-0) · Welterweight (Main Card)\n\nFull card: https://www.espn
- .com/mma/fightcenter/_/id/600062421/league/ufc\nTimes and bouts can change
- \; this calendar refreshes every few hours.
+ ani (26-12-0) vs Ignacio Bahamondes (18-7-0) · Welterweight\nGeoff Neal (
+ 16-8-0) vs Chris Curtis (32-13-0) · Welterweight\nRyan Spann (24-12-0) vs
+  Louie Sutherland (11-6-0) · Heavyweight\n\nUpdates:\nNov 20: Added Alden
+  Coria (13-4-0) vs Michael Aljarouj (13-4-0) · Flyweight (Prelims)\nNov 2
+ 0: Added Diego Ferreira (20-7-0) vs MarQuel Mederos (12-1-1) · Lightweigh
+ t (Prelims)\nNov 20: Added Magomed Zaynukov (9-0-0) vs Piero Guaylupo (12-
+ 0-0) · Light Heavyweight (Prelims)\nNov 20: Added John Garza (6-2-0) vs T
+ oshiomi Kazama (11-5-0) · Bantamweight (Prelims)\nNov 20: Added Steven As
+ plund (8-2-0) vs Gokhan Saricam (12-2-0) · Heavyweight (Prelims)\nNov 20:
+  Added Sam Hughes (11-7-0) vs Karolina Kowalkiewicz (16-10-0) · W Strawwe
+ ight (Prelims)\nNov 20: Added Geoff Neal (16-8-0) vs Chris Curtis (32-13-0
+ ) · Welterweight (Main Card)\nNov 20: Added Ryan Spann (24-12-0) vs Louie
+  Sutherland (11-6-0) · Heavyweight (Main Card)\n\nFull card: https://www.
+ espn.com/mma/fightcenter/_/id/600062421/league/ufc\nTimes and bouts can ch
+ ange\; this calendar refreshes every few hours.
 LOCATION:American Airlines Center\, Dallas\, TX
 URL:https://www.espn.com/mma/fightcenter/_/id/600062421/league/ufc
 CATEGORIES:UFC\,Main Card
