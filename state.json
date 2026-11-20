@@ -355,7 +355,7 @@
         },
         "john mitchell vs shoaib yousaf": {
           "kind": "prelims",
-          "line": "Shoaib Yousaf (10-3-0) vs John Mitchell (11-3-0) \u00b7 Lightweight"
+          "line": "Shoaib Yousaf (14-3-0) vs John Mitchell (11-3-0) \u00b7 Lightweight"
         },
         "shamil gaziev vs tallison teixeira": {
           "kind": "prelims",
@@ -453,7 +453,7 @@
       "bouts": {
         "chidi njokuani vs ignacio bahamondes": {
           "kind": "main",
-          "line": "Ignacio Bahamondes (18-7-0) vs Chidi Njokuani (26-12-0) \u00b7 Welterweight"
+          "line": "Chidi Njokuani (26-12-0) vs Ignacio Bahamondes (18-7-0) \u00b7 Welterweight"
         },
         "daniel rodriguez vs roberto soldi\u0107": {
           "kind": "main",
@@ -642,9 +642,9 @@
       "seq": 9
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "740ba93680a5ffe4b41f1152eee2c8fb22b4d1ba000721352974a4276e18b150",
-      "modified": "20261119T203326Z",
-      "seq": 9
+      "hash": "ee9fbdc98086e5e5d8b8de5487b5d0aaf73a543495c4e8c4c087da4401cf09dd",
+      "modified": "20261120T021808Z",
+      "seq": 10
     },
     "ufc-600062191-main@ufc-calendar": {
       "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
@@ -662,9 +662,9 @@
       "seq": 0
     },
     "ufc-600062421-main@ufc-calendar": {
-      "hash": "d7bd123488dd76929273eea839af249fb46f0d56f9a4fe1ea3a90e7ffb978efa",
-      "modified": "20261115T062554Z",
-      "seq": 0
+      "hash": "94ef267c074ca51ca924e1e1c88d5b50210cb764f95beed66cd2cc10a4f29dab",
+      "modified": "20261120T021808Z",
+      "seq": 1
     },
     "ufc-600062700-main@ufc-calendar": {
       "hash": "28009b18adb4801c94bdb06007f813badafe4f96b1aafe7ea353ed4958b45559",

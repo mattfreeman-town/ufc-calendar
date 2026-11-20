@@ -309,9 +309,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261119T203326Z
-LAST-MODIFIED:20261119T203326Z
-SEQUENCE:9
+DTSTAMP:20261120T021808Z
+LAST-MODIFIED:20261120T021808Z
+SEQUENCE:10
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
@@ -321,7 +321,7 @@ DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nAle
  7-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8-0) v
  s Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) vs Dom
   Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lorenz (
- 8-2-0) · Light Heavyweight\nShoaib Yousaf (10-3-0) vs John Mitchell (11-3
+ 8-2-0) · Light Heavyweight\nShoaib Yousaf (14-3-0) vs John Mitchell (11-3
  -0) · Lightweight\n\nUpdates:\nNov 8: Moved to Prelims: Aleksandre Topuri
  a (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main C
  ard: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n
@@ -489,16 +489,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062421-main@ufc-calendar
-DTSTAMP:20261115T062554Z
-LAST-MODIFIED:20261115T062554Z
-SEQUENCE:0
+DTSTAMP:20261120T021808Z
+LAST-MODIFIED:20261120T021808Z
+SEQUENCE:1
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:UFC Fight Night Main Card: Rodriguez vs. Garcia
 DESCRIPTION:Main Card starts Sat Jan 16 5:00 PM PST\nWatch: Paramount+\n\nY
  air Rodriguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight\nDaniel R
- odriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welterweight\nIgnacio Bah
- amondes (18-7-0) vs Chidi Njokuani (26-12-0) · Welterweight\n\nUpdates:\n
+ odriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welterweight\nChidi Njoku
+ ani (26-12-0) vs Ignacio Bahamondes (18-7-0) · Welterweight\n\nUpdates:\n
  Oct 28: Card start moved to Sat Jan 16 2:00 PM PST\nNov 14: Added Yair Rod
  riguez (21-5-0) vs Steve Garcia (19-6-0) · Featherweight (Main Card)\nNov
   14: Added Daniel Rodriguez (20-6-0) vs Roberto Soldić (22-4-0) · Welter
