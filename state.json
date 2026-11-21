@@ -220,6 +220,10 @@
           "kind": "main",
           "line": "Alex Pereira (13-4-0) vs Sergei Pavlovich (21-3-0) \u00b7 Heavyweight"
         },
+        "baisangur susurkaev vs damian pinas": {
+          "kind": "main",
+          "line": "Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight"
+        },
         "brandon moreno vs charles johnson": {
           "kind": "main",
           "line": "Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight"
@@ -227,6 +231,10 @@
         "charles oliveira vs diego lopes": {
           "kind": "main",
           "line": "Charles Oliveira (37-11-0) vs Diego Lopes (28-8-0) \u00b7 Lightweight"
+        },
+        "ethyn ewing vs kyler phillips": {
+          "kind": "main",
+          "line": "Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) \u00b7 Bantamweight"
         },
         "junior tafa vs quentin pasley": {
           "kind": "prelims",
@@ -240,7 +248,9 @@
         "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight",
         "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
         "Nov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight",
-        "Nov 18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight"
+        "Nov 18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
+        "Nov 20: Added Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) \u00b7 Bantamweight (Main Card)",
+        "Nov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight (Main Card)"
       ],
       "starts": {
         "main": "2026-12-13T02:00:00+00:00",
@@ -380,6 +390,10 @@
     },
     "600062191": {
       "bouts": {
+        "cam nelson vs sean clancy jr.": {
+          "kind": "early",
+          "line": "Cam Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) \u00b7 Welterweight"
+        },
         "carlos prates vs michael morales": {
           "kind": "main",
           "line": "Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight"
@@ -387,15 +401,28 @@
         "joshua van vs manel kape": {
           "kind": "main",
           "line": "Joshua Van (18-2-0) vs Manel Kape (23-7-0) \u00b7 Flyweight"
+        },
+        "lance gibson jr. vs michael johnson": {
+          "kind": "prelims",
+          "line": "Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) \u00b7 Lightweight"
+        },
+        "louis lee scott vs serhiy sidey": {
+          "kind": "early",
+          "line": "Serhiy Sidey (12-2-0) vs Louis Lee Scott (10-0-0) \u00b7 Bantamweight"
         }
       },
       "last_start": "2027-01-31T02:00:00+00:00",
       "log": [
         "Oct 24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) \u00b7 Flyweight (Main Card)",
-        "Oct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight (Main Card)"
+        "Oct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight (Main Card)",
+        "Nov 20: Added Serhiy Sidey (12-2-0) vs Louis Lee Scott (10-0-0) \u00b7 Bantamweight (Early Prelims)",
+        "Nov 20: Added Cam Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) \u00b7 Welterweight (Early Prelims)",
+        "Nov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) \u00b7 Lightweight (Prelims)"
       ],
       "starts": {
-        "main": "2027-01-31T02:00:00+00:00"
+        "early": "2027-01-30T22:00:00+00:00",
+        "main": "2027-01-31T02:00:00+00:00",
+        "prelims": "2027-01-31T00:00:00+00:00"
       }
     },
     "600062420": {
@@ -424,6 +451,10 @@
           "kind": "main",
           "line": "Kaan Ofli (15-4-1) vs Joanderson Brito (20-5-1) \u00b7 Featherweight"
         },
+        "jonathan micallef vs sam patterson": {
+          "kind": "prelims",
+          "line": "Jonathan Micallef (10-1-0) vs Sam Patterson (15-3-1) \u00b7 Welterweight"
+        },
         "joosang yoo vs marwan rahiki": {
           "kind": "main",
           "line": "Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) \u00b7 Featherweight"
@@ -435,14 +466,14 @@
       },
       "last_start": "2027-02-06T22:00:00+00:00",
       "log": [
-        "Oct 28: Added Quillan Salkilld (13-1-0) vs Beno\u00eet Saint Denis (17-4-0) \u00b7 Lightweight (Main Card)",
         "Nov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) \u00b7 Light Heavyweight (Main Card)",
         "Nov 3: Added Kaan Ofli (15-4-1) vs Joanderson Brito (20-5-1) \u00b7 Featherweight (Main Card)",
         "Nov 3: Added Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) \u00b7 Featherweight (Main Card)",
         "Nov 11: Added Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) \u00b7 Flyweight (Prelims)",
         "Nov 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) \u00b7 W Strawweight (Prelims)",
         "Nov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2-0) \u00b7 Featherweight (Main Card)",
-        "Nov 11: Added Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) \u00b7 Bantamweight (Main Card)"
+        "Nov 11: Added Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) \u00b7 Bantamweight (Main Card)",
+        "Nov 20: Added Jonathan Micallef (10-1-0) vs Sam Patterson (15-3-1) \u00b7 Welterweight (Prelims)"
       ],
       "starts": {
         "main": "2027-02-06T22:00:00+00:00",
@@ -662,14 +693,14 @@
       "seq": 7
     },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "142a3a771b42e75d30a08545c9379778a9246fb41722f8881177ec48142f19f0",
-      "modified": "20261118T113724Z",
-      "seq": 3
+      "hash": "feb54fdf8a0bef3a15b67c1de113d04d73e50f5a63766b628e64ca126cefad13",
+      "modified": "20261121T021203Z",
+      "seq": 4
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "2ff86c98d0025d82ef5b350a75ea34cedd49cc5d0c5761a8b881ef6fd8aa87d4",
-      "modified": "20261118T113724Z",
-      "seq": 3
+      "hash": "94cfe9571ab3c19078417ab5bec5c0f40746aa017c22ba3dc7cb80a85ea6fe1e",
+      "modified": "20261121T021203Z",
+      "seq": 4
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",
@@ -691,20 +722,30 @@
       "modified": "20261120T021808Z",
       "seq": 10
     },
+    "ufc-600062191-early@ufc-calendar": {
+      "hash": "81cf890dc075609c2c5df81e8297beb7b93270d5236cba77a7f577039cbf64d9",
+      "modified": "20261121T021203Z",
+      "seq": 0
+    },
     "ufc-600062191-main@ufc-calendar": {
-      "hash": "793ec2fe48e429dfaf5360ba10da29050670334fcb7e507b601011fb91fbaed0",
-      "modified": "20261024T204653Z",
+      "hash": "2df84edefe2dc9568626c6e8e6de6c4675c5f2507effb44772775bdf112e7921",
+      "modified": "20261121T021203Z",
+      "seq": 1
+    },
+    "ufc-600062191-prelims@ufc-calendar": {
+      "hash": "db3ea46e04b74e843b343514d05ea36379ef7490c596a689a6a317c1fed61651",
+      "modified": "20261121T021203Z",
       "seq": 0
     },
     "ufc-600062420-main@ufc-calendar": {
-      "hash": "6de117f3f93b14e86d6d9de839899468ee9e1847451b5fd5dfd1ad87e35964f2",
-      "modified": "20261112T070729Z",
-      "seq": 4
+      "hash": "2b586afe8d0ba6e5a565b3fc7a904123bc937185fe99743f30ae912c04c787dc",
+      "modified": "20261121T021203Z",
+      "seq": 5
     },
     "ufc-600062420-prelims@ufc-calendar": {
-      "hash": "a7e32dab4236d01749ee14995b9823f5d72017892cedef0139e1108c8130d6f8",
-      "modified": "20261112T070729Z",
-      "seq": 0
+      "hash": "589842a47bd4f96d02cd505dcf1db9864971ac370ad2f13dd4b66d95bab0e186",
+      "modified": "20261121T021203Z",
+      "seq": 1
     },
     "ufc-600062421-main@ufc-calendar": {
       "hash": "d50f32dfbd231f4eb699f5dcea3a7725956a2c0527f2df21d19daf5e47e14b38",

@@ -437,9 +437,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061401-prelims@ufc-calendar
-DTSTAMP:20261118T113724Z
-LAST-MODIFIED:20261118T113724Z
-SEQUENCE:3
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:4
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:UFC 335 Prelims: Oliveira vs. Lopes
@@ -452,8 +452,11 @@ DESCRIPTION:Prelims starts Sat Dec 12 4:00 PM PST\nWatch: Paramount+\n\nQue
  r (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelims:
   Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov 1
  8: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\n
- \nFull card: https://www.espn.com/mma/fightcenter/_/id/600061401/league/uf
- c\nTimes and bouts can change\; this calendar refreshes every few hours.
+ Nov 20: Added Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) · Bantamwei
+ ght (Main Card)\nNov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkae
+ v (12-0-0) · Middleweight (Main Card)\n\nFull card: https://www.espn.com/
+ mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts can change\; th
+ is calendar refreshes every few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -462,25 +465,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061401-main@ufc-calendar
-DTSTAMP:20261118T113724Z
-LAST-MODIFIED:20261118T113724Z
-SEQUENCE:3
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:4
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:UFC 335 Main Card: Oliveira vs. Lopes
 DESCRIPTION:Main Card starts Sat Dec 12 6:00 PM PST\nWatch: Paramount+\n\nC
  harles Oliveira (37-11-0) vs Diego Lopes (28-8-0) · Lightweight\nAlex Per
  eira (13-4-0) vs Sergei Pavlovich (21-3-0) · Heavyweight\nBrandon Moreno 
- (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\n\nUpdates:\nOct 27: Mo
- ved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flywei
- ght\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) 
- · Middleweight\nOct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs C
- harles Johnson (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfer (16-3-0) v
- s Bo Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelims: Quentin Pas
- ley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov 18: Removed M
- aycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\n\nFull card:
-  https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and
-  bouts can change\; this calendar refreshes every few hours.
+ (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nKyler Phillips (12-5-0
+ ) vs Ethyn Ewing (10-2-0) · Bantamweight\nDamian Pinas (11-1-0) vs Baisan
+ gur Susurkaev (12-0-0) · Middleweight\n\nUpdates:\nOct 27: Moved to Preli
+ ms: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\nOct 27:
+  Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweig
+ ht\nOct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnso
+ n (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (
+ 9-1-0) · Middleweight\nNov 18: Moved to Prelims: Quentin Pasley (4-0-0) v
+ s Junior Tafa (7-6-0) · Light Heavyweight\nNov 18: Removed Maycee Barber 
+ (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\nNov 20: Added Kyler Phill
+ ips (12-5-0) vs Ethyn Ewing (10-2-0) · Bantamweight (Main Card)\nNov 20: 
+ Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) · Middleweigh
+ t (Main Card)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000
+ 61401/league/ufc\nTimes and bouts can change\; this calendar refreshes eve
+ ry few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -573,10 +581,61 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-600062191-main@ufc-calendar
-DTSTAMP:20261024T204653Z
-LAST-MODIFIED:20261024T204653Z
+UID:ufc-600062191-early@ufc-calendar
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
 SEQUENCE:0
+DTSTART:20270130T220000Z
+DTEND:20270131T000000Z
+SUMMARY:UFC 336 Early Prelims: Van vs. Kape
+DESCRIPTION:Early Prelims starts Sat Jan 30 2:00 PM PST\nWatch: Paramount+\
+ n\nSerhiy Sidey (12-2-0) vs Louis Lee Scott (10-0-0) · Bantamweight\nCam 
+ Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight\n\nUpdates:\nOct
+  24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweight (Main C
+ ard)\nOct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) · 
+ Welterweight (Main Card)\nNov 20: Added Serhiy Sidey (12-2-0) vs Louis Lee
+  Scott (10-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Cam Nelson 
+ (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims)\nNov 20
+ : Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightwei
+ ght (Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000
+ 62191/league/ufc\nTimes and bouts can change\; this calendar refreshes eve
+ ry few hours.
+LOCATION:Scotiabank Arena\, Toronto\, ON
+URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062191-prelims@ufc-calendar
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:0
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:UFC 336 Prelims: Van vs. Kape
+DESCRIPTION:Prelims starts Sat Jan 30 4:00 PM PST\nWatch: Paramount+\n\nLan
+ ce Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightweight\n\nUpda
+ tes:\nOct 24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweigh
+ t (Main Card)\nOct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19
+ -0-0) · Welterweight (Main Card)\nNov 20: Added Serhiy Sidey (12-2-0) vs 
+ Louis Lee Scott (10-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Ca
+ m Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims
+ )\nNov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) ·
+  Lightweight (Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/
+ _/id/600062191/league/ufc\nTimes and bouts can change\; this calendar refr
+ eshes every few hours.
+LOCATION:Scotiabank Arena\, Toronto\, ON
+URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
+CATEGORIES:UFC\,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-600062191-main@ufc-calendar
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:1
 DTSTART:20270131T020000Z
 DTEND:20270131T050000Z
 SUMMARY:UFC 336 Main Card: Van vs. Kape
@@ -585,9 +644,13 @@ DESCRIPTION:Main Card starts Sat Jan 30 6:00 PM PST\nWatch: Paramount+\n\nJ
  7-0) vs Michael Morales (19-0-0) · Welterweight\n\nUpdates:\nOct 24: Adde
  d Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweight (Main Card)\nOct
   24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) · Welterwei
- ght (Main Card)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
- 0062191/league/ufc\nTimes and bouts can change\; this calendar refreshes e
- very few hours.
+ ght (Main Card)\nNov 20: Added Serhiy Sidey (12-2-0) vs Louis Lee Scott (1
+ 0-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Cam Nelson (8-1-0) v
+ s Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims)\nNov 20: Added L
+ ance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightweight (Prel
+ ims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600062191/lea
+ gue/ufc\nTimes and bouts can change\; this calendar refreshes every few ho
+ urs.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -596,27 +659,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062420-prelims@ufc-calendar
-DTSTAMP:20261112T070729Z
-LAST-MODIFIED:20261112T070729Z
-SEQUENCE:0
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:1
 DTSTART:20270206T190000Z
 DTEND:20270206T220000Z
 SUMMARY:UFC Fight Night Prelims: Salkilld vs. Saint Denis
 DESCRIPTION:Prelims starts Sat Feb 6 11:00 AM PST\nWatch: Paramount+\n\nJin
  iushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight\nMeng Bo (23-8-0) 
- vs Bo Hyun Park (0-1-0) · W Strawweight\n\nUpdates:\nOct 28: Added Quilla
- n Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight (Main C
- ard)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) · 
- Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) vs Joanders
- on Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Marwan Rahiki
-  (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\nNov 11: Adde
- d Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight (Prelims)\nNo
- v 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) · W Strawweight (Pre
- lims)\nNov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2
- -0) · Featherweight (Main Card)\nNov 11: Added Rabindra Dhant (10-1-0) vs
-  Ryo Tajima (12-3-0) · Bantamweight (Main Card)\n\nFull card: https://www
- .espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts can c
- hange\; this calendar refreshes every few hours.
+ vs Bo Hyun Park (0-1-0) · W Strawweight\nJonathan Micallef (10-1-0) vs Sa
+ m Patterson (15-3-1) · Welterweight\n\nUpdates:\nNov 1: Added Bogdan Gusk
+ ov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight (Main Card)\
+ nNov 3: Added Kaan Ofli (15-4-1) vs Joanderson Brito (20-5-1) · Featherwe
+ ight (Main Card)\nNov 3: Added Marwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0
+ ) · Featherweight (Main Card)\nNov 11: Added Jiniushiyue (13-4-0) vs Taka
+ ya Suzuki (8-1-0) · Flyweight (Prelims)\nNov 11: Added Meng Bo (23-8-0) v
+ s Bo Hyun Park (0-1-0) · W Strawweight (Prelims)\nNov 11: Added George Ma
+ ngos (7-1-0) vs Dagiisuren Chagnaadorj (11-2-0) · Featherweight (Main Car
+ d)\nNov 11: Added Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) · Bantam
+ weight (Main Card)\nNov 20: Added Jonathan Micallef (10-1-0) vs Sam Patter
+ son (15-3-1) · Welterweight (Prelims)\n\nFull card: https://www.espn.com/
+ mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts can change\; th
+ is calendar refreshes every few hours.
 LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -625,9 +689,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062420-main@ufc-calendar
-DTSTAMP:20261112T070729Z
-LAST-MODIFIED:20261112T070729Z
-SEQUENCE:4
+DTSTAMP:20261121T021203Z
+LAST-MODIFIED:20261121T021203Z
+SEQUENCE:5
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:UFC Fight Night Main Card: Salkilld vs. Saint Denis
@@ -637,19 +701,19 @@ DESCRIPTION:Main Card starts Sat Feb 6 2:00 PM PST\nWatch: Paramount+\n\nQu
  rwan Rahiki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight\nKaan Ofli (15
  -4-1) vs Joanderson Brito (20-5-1) · Featherweight\nGeorge Mangos (7-1-0)
   vs Dagiisuren Chagnaadorj (11-2-0) · Featherweight\nRabindra Dhant (10-1
- -0) vs Ryo Tajima (12-3-0) · Bantamweight\n\nUpdates:\nOct 28: Added Quil
- lan Salkilld (13-1-0) vs Benoît Saint Denis (17-4-0) · Lightweight (Main
-  Card)\nNov 1: Added Bogdan Guskov (18-4-1) vs Robert Whittaker (28-9-0) 
- · Light Heavyweight (Main Card)\nNov 3: Added Kaan Ofli (15-4-1) vs Joand
- erson Brito (20-5-1) · Featherweight (Main Card)\nNov 3: Added Marwan Rah
- iki (9-1-0) vs JooSang Yoo (9-2-0) · Featherweight (Main Card)\nNov 11: A
- dded Jiniushiyue (13-4-0) vs Takaya Suzuki (8-1-0) · Flyweight (Prelims)\
- nNov 11: Added Meng Bo (23-8-0) vs Bo Hyun Park (0-1-0) · W Strawweight (
- Prelims)\nNov 11: Added George Mangos (7-1-0) vs Dagiisuren Chagnaadorj (1
- 1-2-0) · Featherweight (Main Card)\nNov 11: Added Rabindra Dhant (10-1-0)
-  vs Ryo Tajima (12-3-0) · Bantamweight (Main Card)\n\nFull card: https://
- www.espn.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts ca
- n change\; this calendar refreshes every few hours.
+ -0) vs Ryo Tajima (12-3-0) · Bantamweight\n\nUpdates:\nNov 1: Added Bogda
+ n Guskov (18-4-1) vs Robert Whittaker (28-9-0) · Light Heavyweight (Main 
+ Card)\nNov 3: Added Kaan Ofli (15-4-1) vs Joanderson Brito (20-5-1) · Fea
+ therweight (Main Card)\nNov 3: Added Marwan Rahiki (9-1-0) vs JooSang Yoo 
+ (9-2-0) · Featherweight (Main Card)\nNov 11: Added Jiniushiyue (13-4-0) v
+ s Takaya Suzuki (8-1-0) · Flyweight (Prelims)\nNov 11: Added Meng Bo (23-
+ 8-0) vs Bo Hyun Park (0-1-0) · W Strawweight (Prelims)\nNov 11: Added Geo
+ rge Mangos (7-1-0) vs Dagiisuren Chagnaadorj (11-2-0) · Featherweight (Ma
+ in Card)\nNov 11: Added Rabindra Dhant (10-1-0) vs Ryo Tajima (12-3-0) · 
+ Bantamweight (Main Card)\nNov 20: Added Jonathan Micallef (10-1-0) vs Sam 
+ Patterson (15-3-1) · Welterweight (Prelims)\n\nFull card: https://www.esp
+ n.com/mma/fightcenter/_/id/600062420/league/ufc\nTimes and bouts can chang
+ e\; this calendar refreshes every few hours.
 LOCATION:Afterpay Arena\, Sydney\, NSW
 URL:https://www.espn.com/mma/fightcenter/_/id/600062420/league/ufc
 CATEGORIES:UFC\,Main Card
