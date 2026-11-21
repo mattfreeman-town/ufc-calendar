@@ -309,24 +309,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-prelims@ufc-calendar
-DTSTAMP:20261120T021808Z
-LAST-MODIFIED:20261120T021808Z
-SEQUENCE:10
+DTSTAMP:20261121T191221Z
+LAST-MODIFIED:20261121T191221Z
+SEQUENCE:11
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:UFC Fight Night Prelims: Procházka vs. Stirling
 DESCRIPTION:Prelims starts Sat Nov 21 7:00 AM PST\nWatch: Paramount+\n\nAle
- ksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nShamil G
- aziev (15-3-0) vs Tallison Teixeira (9-2-0) · Heavyweight\nAmir Albazi (1
- 7-3-0) vs Alessandro Costa (17-5-0) · Flyweight\nJake Matthews (23-8-0) v
- s Tahir Abdullayev (20-3-0) · Welterweight\nNikolas Motta (15-6-0) vs Dom
-  Mar Fan (9-3-0) · Lightweight\nDiyar Nurgozhay (12-2-0) vs Alik Lorenz (
- 8-2-0) · Light Heavyweight\nShoaib Yousaf (14-3-0) vs John Mitchell (11-3
- -0) · Lightweight\n\nUpdates:\nNov 8: Moved to Prelims: Aleksandre Topuri
- a (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main C
- ard: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\n
- Nov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight
-  (Prelims)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) 
+ ksandre Topuria (7-2-0) vs Santiago Luna (9-1-0) · Bantamweight · W: San
+ tiago Luna\nShamil Gaziev (15-4-0) vs Tallison Teixeira (10-2-0) · Heavyw
+ eight · W: Tallison Teixeira\nAmir Albazi (18-3-0) vs Alessandro Costa (1
+ 7-6-0) · Flyweight · W: Amir Albazi\nJake Matthews (23-9-0) vs Tahir Abd
+ ullayev (21-3-0) · Welterweight · W: Tahir Abdullayev\nNikolas Motta (15
+ -7-0) vs Dom Mar Fan (10-3-0) · Lightweight · W: Dom Mar Fan\nDiyar Nurg
+ ozhay (13-2-0) vs Alik Lorenz (8-3-0) · Light Heavyweight · W: Diyar Nur
+ gozhay\nShoaib Yousaf (14-4-0) vs John Mitchell (12-3-0) · Lightweight ·
+  W: John Mitchell\n\nUpdates:\nNov 8: Moved to Prelims: Aleksandre Topuria
+  (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Ca
+ rd: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nN
+ ov 14: Added Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight 
+ (Prelims)\nNov 14: Added Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) 
  · Light Heavyweight (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topur
  ia (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main
   Card: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight
@@ -343,9 +345,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061665-main@ufc-calendar
-DTSTAMP:20261119T203326Z
-LAST-MODIFIED:20261119T203326Z
-SEQUENCE:9
+DTSTAMP:20261121T191221Z
+LAST-MODIFIED:20261121T191221Z
+SEQUENCE:10
 DTSTART:20261121T180000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night Main Card: Procházka vs. Stirling
@@ -354,19 +356,20 @@ DESCRIPTION:Main Card starts Sat Nov 21 10:00 AM PST\nWatch: Paramount+\n\n
  t\nAljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) · Featherweight\
  nDan Hooker (24-15-0) vs Brian Ortega (16-5-0) · Lightweight\nKyoji Horig
  uchi (36-6-0) vs Asu Almabayev (24-3-0) · Flyweight\nJared Cannonier (18-
- 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight\n\nUpdates:\nNov 8: Move
- d to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Banta
- mweight\nNov 9: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santiago
-  Luna (8-1-0) · Bantamweight\nNov 14: Added Nikolas Motta (15-6-0) vs Dom
-  Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: Added Diyar Nurgozhay (
- 12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight (Prelims)\nNov 16: Mov
- ed to Prelims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bant
- amweight\nNov 17: Moved to Main Card: Aleksandre Topuria (7-1-0) vs Santia
- go Luna (8-1-0) · Bantamweight\nNov 18: Moved to Prelims: Aleksandre Topu
- ria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 19: Added Shoaib
-  Yousaf (10-3-0) vs John Mitchell (11-3-0) · Lightweight (Prelims)\n\nFul
- l card: https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc\nTi
- mes and bouts can change\; this calendar refreshes every few hours.
+ 10-0) vs Ikram Aliskerov (18-2-0) · Middleweight · W: Ikram Aliskerov\n\
+ nUpdates:\nNov 8: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiago
+  Luna (8-1-0) · Bantamweight\nNov 9: Moved to Main Card: Aleksandre Topur
+ ia (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 14: Added Nikolas
+  Motta (15-6-0) vs Dom Mar Fan (9-3-0) · Lightweight (Prelims)\nNov 14: A
+ dded Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) · Light Heavyweight 
+ (Prelims)\nNov 16: Moved to Prelims: Aleksandre Topuria (7-1-0) vs Santiag
+ o Luna (8-1-0) · Bantamweight\nNov 17: Moved to Main Card: Aleksandre Top
+ uria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight\nNov 18: Moved to Pr
+ elims: Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) · Bantamweight
+ \nNov 19: Added Shoaib Yousaf (10-3-0) vs John Mitchell (11-3-0) · Lightw
+ eight (Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/60
+ 0061665/league/ufc\nTimes and bouts can change\; this calendar refreshes e
+ very few hours.
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
 CATEGORIES:UFC\,Main Card
@@ -465,18 +468,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061401-main@ufc-calendar
-DTSTAMP:20261121T021203Z
-LAST-MODIFIED:20261121T021203Z
-SEQUENCE:4
+DTSTAMP:20261121T191221Z
+LAST-MODIFIED:20261121T191221Z
+SEQUENCE:5
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:UFC 335 Main Card: Oliveira vs. Lopes
 DESCRIPTION:Main Card starts Sat Dec 12 6:00 PM PST\nWatch: Paramount+\n\nC
  harles Oliveira (37-11-0) vs Diego Lopes (28-8-0) · Lightweight\nAlex Per
  eira (13-4-0) vs Sergei Pavlovich (21-3-0) · Heavyweight\nBrandon Moreno 
- (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nKyler Phillips (12-5-0
- ) vs Ethyn Ewing (10-2-0) · Bantamweight\nDamian Pinas (11-1-0) vs Baisan
- gur Susurkaev (12-0-0) · Middleweight\n\nUpdates:\nOct 27: Moved to Preli
+ (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nDamian Pinas (11-1-0) 
+ vs Baisangur Susurkaev (12-0-0) · Middleweight\nKyler Phillips (12-5-0) v
+ s Ethyn Ewing (10-2-0) · Bantamweight\n\nUpdates:\nOct 27: Moved to Preli
  ms: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\nOct 27:
   Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweig
  ht\nOct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnso

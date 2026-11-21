@@ -325,15 +325,15 @@
       "bouts": {
         "aleksandre topuria vs santiago luna": {
           "kind": "prelims",
-          "line": "Aleksandre Topuria (7-1-0) vs Santiago Luna (8-1-0) \u00b7 Bantamweight"
+          "line": "Aleksandre Topuria (7-2-0) vs Santiago Luna (9-1-0) \u00b7 Bantamweight \u00b7 W: Santiago Luna"
         },
         "alessandro costa vs amir albazi": {
           "kind": "prelims",
-          "line": "Amir Albazi (17-3-0) vs Alessandro Costa (17-5-0) \u00b7 Flyweight"
+          "line": "Amir Albazi (18-3-0) vs Alessandro Costa (17-6-0) \u00b7 Flyweight \u00b7 W: Amir Albazi"
         },
         "alik lorenz vs diyar nurgozhay": {
           "kind": "prelims",
-          "line": "Diyar Nurgozhay (12-2-0) vs Alik Lorenz (8-2-0) \u00b7 Light Heavyweight"
+          "line": "Diyar Nurgozhay (13-2-0) vs Alik Lorenz (8-3-0) \u00b7 Light Heavyweight \u00b7 W: Diyar Nurgozhay"
         },
         "aljamain sterling vs kevin vallejos": {
           "kind": "main",
@@ -349,15 +349,15 @@
         },
         "dom mar fan vs nikolas motta": {
           "kind": "prelims",
-          "line": "Nikolas Motta (15-6-0) vs Dom Mar Fan (9-3-0) \u00b7 Lightweight"
+          "line": "Nikolas Motta (15-7-0) vs Dom Mar Fan (10-3-0) \u00b7 Lightweight \u00b7 W: Dom Mar Fan"
         },
         "ikram aliskerov vs jared cannonier": {
           "kind": "main",
-          "line": "Jared Cannonier (18-10-0) vs Ikram Aliskerov (18-2-0) \u00b7 Middleweight"
+          "line": "Jared Cannonier (18-10-0) vs Ikram Aliskerov (18-2-0) \u00b7 Middleweight \u00b7 W: Ikram Aliskerov"
         },
         "jake matthews vs tahir abdullayev": {
           "kind": "prelims",
-          "line": "Jake Matthews (23-8-0) vs Tahir Abdullayev (20-3-0) \u00b7 Welterweight"
+          "line": "Jake Matthews (23-9-0) vs Tahir Abdullayev (21-3-0) \u00b7 Welterweight \u00b7 W: Tahir Abdullayev"
         },
         "ji\u0159\u00ed proch\u00e1zka vs navajo stirling": {
           "kind": "main",
@@ -365,11 +365,11 @@
         },
         "john mitchell vs shoaib yousaf": {
           "kind": "prelims",
-          "line": "Shoaib Yousaf (14-3-0) vs John Mitchell (11-3-0) \u00b7 Lightweight"
+          "line": "Shoaib Yousaf (14-4-0) vs John Mitchell (12-3-0) \u00b7 Lightweight \u00b7 W: John Mitchell"
         },
         "shamil gaziev vs tallison teixeira": {
           "kind": "prelims",
-          "line": "Shamil Gaziev (15-3-0) vs Tallison Teixeira (9-2-0) \u00b7 Heavyweight"
+          "line": "Shamil Gaziev (15-4-0) vs Tallison Teixeira (10-2-0) \u00b7 Heavyweight \u00b7 W: Tallison Teixeira"
         }
       },
       "last_start": "2026-11-21T18:00:00+00:00",
@@ -693,9 +693,9 @@
       "seq": 7
     },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "feb54fdf8a0bef3a15b67c1de113d04d73e50f5a63766b628e64ca126cefad13",
-      "modified": "20261121T021203Z",
-      "seq": 4
+      "hash": "0412813ee4b937680fa98ce8e7766ff29f6d3cd3a00eb4c0a3ebce50e2cc274a",
+      "modified": "20261121T191221Z",
+      "seq": 5
     },
     "ufc-600061401-prelims@ufc-calendar": {
       "hash": "94cfe9571ab3c19078417ab5bec5c0f40746aa017c22ba3dc7cb80a85ea6fe1e",
@@ -713,14 +713,14 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "383a8fcc972b706612f3ca8c633f9f00ea7634856d9b04d37fcb6de11d376f91",
-      "modified": "20261119T203326Z",
-      "seq": 9
+      "hash": "a2ca87260f9b85193cea58f227dfde0bfc03b35bb38cd52d4cc7d0f63074bf46",
+      "modified": "20261121T191221Z",
+      "seq": 10
     },
     "ufc-600061665-prelims@ufc-calendar": {
-      "hash": "ee9fbdc98086e5e5d8b8de5487b5d0aaf73a543495c4e8c4c087da4401cf09dd",
-      "modified": "20261120T021808Z",
-      "seq": 10
+      "hash": "e35ba56140dcd2fe127d5e80b3faa7ef298ef9ce6a17f1455a7f0a2c6a88ec16",
+      "modified": "20261121T191221Z",
+      "seq": 11
     },
     "ufc-600062191-early@ufc-calendar": {
       "hash": "81cf890dc075609c2c5df81e8297beb7b93270d5236cba77a7f577039cbf64d9",
