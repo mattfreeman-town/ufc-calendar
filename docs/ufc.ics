@@ -591,9 +591,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062191-early@ufc-calendar
-DTSTAMP:20261121T021203Z
-LAST-MODIFIED:20261121T021203Z
-SEQUENCE:0
+DTSTAMP:20261122T111909Z
+LAST-MODIFIED:20261122T111909Z
+SEQUENCE:1
 DTSTART:20270130T220000Z
 DTEND:20270131T000000Z
 SUMMARY:UFC 336 Early Prelims: Van vs. Kape
@@ -606,9 +606,10 @@ DESCRIPTION:Early Prelims starts Sat Jan 30 2:00 PM PST\nWatch: Paramount+\
   Scott (10-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Cam Nelson 
  (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims)\nNov 20
  : Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightwei
- ght (Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/6000
- 62191/league/ufc\nTimes and bouts can change\; this calendar refreshes eve
- ry few hours.
+ ght (Prelims)\nNov 22: Added Tresean Gore (8-4-0) vs Marc-Andre Barriault 
+ (18-11-0) · Middleweight (Prelims)\n\nFull card: https://www.espn.com/mma
+ /fightcenter/_/id/600062191/league/ufc\nTimes and bouts can change\; this 
+ calendar refreshes every few hours.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
 CATEGORIES:UFC\,Early Prelims
@@ -617,23 +618,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062191-prelims@ufc-calendar
-DTSTAMP:20261121T021203Z
-LAST-MODIFIED:20261121T021203Z
-SEQUENCE:0
+DTSTAMP:20261122T111909Z
+LAST-MODIFIED:20261122T111909Z
+SEQUENCE:1
 DTSTART:20270131T000000Z
 DTEND:20270131T020000Z
 SUMMARY:UFC 336 Prelims: Van vs. Kape
 DESCRIPTION:Prelims starts Sat Jan 30 4:00 PM PST\nWatch: Paramount+\n\nLan
- ce Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightweight\n\nUpda
- tes:\nOct 24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweigh
- t (Main Card)\nOct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19
- -0-0) · Welterweight (Main Card)\nNov 20: Added Serhiy Sidey (12-2-0) vs 
- Louis Lee Scott (10-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Ca
- m Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims
- )\nNov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) ·
-  Lightweight (Prelims)\n\nFull card: https://www.espn.com/mma/fightcenter/
- _/id/600062191/league/ufc\nTimes and bouts can change\; this calendar refr
- eshes every few hours.
+ ce Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightweight\nTresea
+ n Gore (8-4-0) vs Marc-Andre Barriault (18-11-0) · Middleweight\n\nUpdate
+ s:\nOct 24: Added Joshua Van (18-2-0) vs Manel Kape (23-7-0) · Flyweight 
+ (Main Card)\nOct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0
+ -0) · Welterweight (Main Card)\nNov 20: Added Serhiy Sidey (12-2-0) vs Lo
+ uis Lee Scott (10-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Cam 
+ Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims)\
+ nNov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · L
+ ightweight (Prelims)\nNov 22: Added Tresean Gore (8-4-0) vs Marc-Andre Bar
+ riault (18-11-0) · Middleweight (Prelims)\n\nFull card: https://www.espn.
+ com/mma/fightcenter/_/id/600062191/league/ufc\nTimes and bouts can change\
+ ; this calendar refreshes every few hours.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -642,9 +645,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062191-main@ufc-calendar
-DTSTAMP:20261121T021203Z
-LAST-MODIFIED:20261121T021203Z
-SEQUENCE:1
+DTSTAMP:20261122T111909Z
+LAST-MODIFIED:20261122T111909Z
+SEQUENCE:2
 DTSTART:20270131T020000Z
 DTEND:20270131T050000Z
 SUMMARY:UFC 336 Main Card: Van vs. Kape
@@ -657,9 +660,10 @@ DESCRIPTION:Main Card starts Sat Jan 30 6:00 PM PST\nWatch: Paramount+\n\nJ
  0-0-0) · Bantamweight (Early Prelims)\nNov 20: Added Cam Nelson (8-1-0) v
  s Sean Clancy Jr. (9-0-0) · Welterweight (Early Prelims)\nNov 20: Added L
  ance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) · Lightweight (Prel
- ims)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600062191/lea
- gue/ufc\nTimes and bouts can change\; this calendar refreshes every few ho
- urs.
+ ims)\nNov 22: Added Tresean Gore (8-4-0) vs Marc-Andre Barriault (18-11-0)
+  · Middleweight (Prelims)\n\nFull card: https://www.espn.com/mma/fightcen
+ ter/_/id/600062191/league/ufc\nTimes and bouts can change\; this calendar 
+ refreshes every few hours.
 LOCATION:Scotiabank Arena\, Toronto\, ON
 URL:https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc
 CATEGORIES:UFC\,Main Card

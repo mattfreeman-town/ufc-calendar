@@ -409,6 +409,10 @@
         "louis lee scott vs serhiy sidey": {
           "kind": "early",
           "line": "Serhiy Sidey (12-2-0) vs Louis Lee Scott (10-0-0) \u00b7 Bantamweight"
+        },
+        "marc-andre barriault vs tresean gore": {
+          "kind": "prelims",
+          "line": "Tresean Gore (8-4-0) vs Marc-Andre Barriault (18-11-0) \u00b7 Middleweight"
         }
       },
       "last_start": "2027-01-31T02:00:00+00:00",
@@ -417,7 +421,8 @@
         "Oct 24: Added Carlos Prates (24-7-0) vs Michael Morales (19-0-0) \u00b7 Welterweight (Main Card)",
         "Nov 20: Added Serhiy Sidey (12-2-0) vs Louis Lee Scott (10-0-0) \u00b7 Bantamweight (Early Prelims)",
         "Nov 20: Added Cam Nelson (8-1-0) vs Sean Clancy Jr. (9-0-0) \u00b7 Welterweight (Early Prelims)",
-        "Nov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) \u00b7 Lightweight (Prelims)"
+        "Nov 20: Added Lance Gibson Jr. (10-2-0) vs Michael Johnson (25-20-0) \u00b7 Lightweight (Prelims)",
+        "Nov 22: Added Tresean Gore (8-4-0) vs Marc-Andre Barriault (18-11-0) \u00b7 Middleweight (Prelims)"
       ],
       "starts": {
         "early": "2027-01-30T22:00:00+00:00",
@@ -729,19 +734,19 @@
       "seq": 11
     },
     "ufc-600062191-early@ufc-calendar": {
-      "hash": "81cf890dc075609c2c5df81e8297beb7b93270d5236cba77a7f577039cbf64d9",
-      "modified": "20261121T021203Z",
-      "seq": 0
-    },
-    "ufc-600062191-main@ufc-calendar": {
-      "hash": "2df84edefe2dc9568626c6e8e6de6c4675c5f2507effb44772775bdf112e7921",
-      "modified": "20261121T021203Z",
+      "hash": "86523260ba02984be76a07889e1eaeb716bde725168f682f025edb3cb4d63616",
+      "modified": "20261122T111909Z",
       "seq": 1
     },
+    "ufc-600062191-main@ufc-calendar": {
+      "hash": "5cd1a9af70c1c04e1801c1397d31d25cc27340f11f0237053a341b1d3ad12a99",
+      "modified": "20261122T111909Z",
+      "seq": 2
+    },
     "ufc-600062191-prelims@ufc-calendar": {
-      "hash": "db3ea46e04b74e843b343514d05ea36379ef7490c596a689a6a317c1fed61651",
-      "modified": "20261121T021203Z",
-      "seq": 0
+      "hash": "e0744027dc7bc02040a359231ae0a4f8ab166601c589ced4aeb2fbcd80d6d017",
+      "modified": "20261122T111909Z",
+      "seq": 1
     },
     "ufc-600062420-main@ufc-calendar": {
       "hash": "2b586afe8d0ba6e5a565b3fc7a904123bc937185fe99743f30ae912c04c787dc",
