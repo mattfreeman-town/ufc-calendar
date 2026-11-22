@@ -337,15 +337,15 @@
         },
         "aljamain sterling vs kevin vallejos": {
           "kind": "main",
-          "line": "Aljamain Sterling (26-5-0) vs Kevin Vallejos (18-1-0) \u00b7 Featherweight"
+          "line": "Aljamain Sterling (26-6-0) vs Kevin Vallejos (19-1-0) \u00b7 Featherweight \u00b7 W: Kevin Vallejos"
         },
         "asu almabayev vs kyoji horiguchi": {
           "kind": "main",
-          "line": "Kyoji Horiguchi (36-6-0) vs Asu Almabayev (24-3-0) \u00b7 Flyweight"
+          "line": "Kyoji Horiguchi (37-6-0) vs Asu Almabayev (24-4-0) \u00b7 Flyweight \u00b7 W: Kyoji Horiguchi"
         },
         "brian ortega vs dan hooker": {
           "kind": "main",
-          "line": "Dan Hooker (24-15-0) vs Brian Ortega (16-5-0) \u00b7 Lightweight"
+          "line": "Dan Hooker (25-15-0) vs Brian Ortega (16-6-0) \u00b7 Lightweight \u00b7 W: Dan Hooker"
         },
         "dom mar fan vs nikolas motta": {
           "kind": "prelims",
@@ -353,7 +353,7 @@
         },
         "ikram aliskerov vs jared cannonier": {
           "kind": "main",
-          "line": "Jared Cannonier (18-10-0) vs Ikram Aliskerov (18-2-0) \u00b7 Middleweight \u00b7 W: Ikram Aliskerov"
+          "line": "Jared Cannonier (18-11-0) vs Ikram Aliskerov (19-2-0) \u00b7 Middleweight \u00b7 W: Ikram Aliskerov"
         },
         "jake matthews vs tahir abdullayev": {
           "kind": "prelims",
@@ -361,7 +361,7 @@
         },
         "ji\u0159\u00ed proch\u00e1zka vs navajo stirling": {
           "kind": "main",
-          "line": "Ji\u0159\u00ed Proch\u00e1zka (32-6-1) vs Navajo Stirling (11-0-0) \u00b7 Light Heavyweight"
+          "line": "Ji\u0159\u00ed Proch\u00e1zka (32-7-1) vs Navajo Stirling (12-0-0) \u00b7 Light Heavyweight \u00b7 W: Navajo Stirling"
         },
         "john mitchell vs shoaib yousaf": {
           "kind": "prelims",
@@ -565,6 +565,10 @@
           "kind": "prelims",
           "line": "Bruno Silva (15-9-2) vs Jafel Filho (17-5-0) \u00b7 Flyweight"
         },
+        "gabriel santos vs luke riley": {
+          "kind": "main",
+          "line": "Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight"
+        },
         "ian machado garry vs yaroslav amosov": {
           "kind": "main",
           "line": "Ian Machado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) \u00b7 Welterweight"
@@ -574,7 +578,7 @@
           "line": "Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
         },
         "islam dulatov vs levan chokheli": {
-          "kind": "main",
+          "kind": "prelims",
           "line": "Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
         },
         "israel adesanya vs shara magomedov": {
@@ -609,7 +613,9 @@
         "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
         "Nov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 18: Moved to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
-        "Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
+        "Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
+        "Nov 21: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
+        "Nov 21: Added Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight (Main Card)"
       ],
       "starts": {
         "main": "2026-12-05T18:00:00+00:00",
@@ -713,9 +719,9 @@
       "seq": 5
     },
     "ufc-600061665-main@ufc-calendar": {
-      "hash": "a2ca87260f9b85193cea58f227dfde0bfc03b35bb38cd52d4cc7d0f63074bf46",
-      "modified": "20261121T191221Z",
-      "seq": 10
+      "hash": "e5792265d9ee3148a980f904fd040b794020b683c685881c381f03ad1dc3dd79",
+      "modified": "20261122T011653Z",
+      "seq": 11
     },
     "ufc-600061665-prelims@ufc-calendar": {
       "hash": "e35ba56140dcd2fe127d5e80b3faa7ef298ef9ce6a17f1455a7f0a2c6a88ec16",
@@ -758,14 +764,14 @@
       "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
-      "hash": "28009b18adb4801c94bdb06007f813badafe4f96b1aafe7ea353ed4958b45559",
-      "modified": "20261118T113724Z",
-      "seq": 2
+      "hash": "3d8ef2a46c533c8d67343093588ba9d0035de459d8b6eedeb3bd1bba30656390",
+      "modified": "20261122T011653Z",
+      "seq": 3
     },
     "ufc-600062700-prelims@ufc-calendar": {
-      "hash": "3ecf6f103f8ae8d697e5f63e0a6994c1456e38ddf47c524f30afc1c2650cb318",
-      "modified": "20261118T113724Z",
-      "seq": 2
+      "hash": "2135af14506fce929423f9ce354ed56a537d12ff8ef617077122abb6850b2e4d",
+      "modified": "20261122T011653Z",
+      "seq": 3
     },
     "ufc-600062900-main@ufc-calendar": {
       "hash": "7b375cdb2867e30c9a00e68807d0a6789a3adc8869a3dea80f7906e24f396cfd",
