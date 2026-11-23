@@ -583,7 +583,7 @@
           "line": "Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight"
         },
         "islam dulatov vs levan chokheli": {
-          "kind": "prelims",
+          "kind": "main",
           "line": "Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
         },
         "israel adesanya vs shara magomedov": {
@@ -613,14 +613,14 @@
       },
       "last_start": "2026-12-05T18:00:00+00:00",
       "log": [
-        "Nov 11: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
         "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
         "Nov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 18: Moved to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
         "Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
         "Nov 21: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
-        "Nov 21: Added Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight (Main Card)"
+        "Nov 21: Added Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight (Main Card)",
+        "Nov 23: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
       ],
       "starts": {
         "main": "2026-12-05T18:00:00+00:00",
@@ -769,14 +769,14 @@
       "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
-      "hash": "3d8ef2a46c533c8d67343093588ba9d0035de459d8b6eedeb3bd1bba30656390",
-      "modified": "20261122T011653Z",
-      "seq": 3
+      "hash": "6dfe57b18d09a44d3a1073497a9054a3585fa1ae43037e92900c2336891d2a0a",
+      "modified": "20261123T123238Z",
+      "seq": 4
     },
     "ufc-600062700-prelims@ufc-calendar": {
-      "hash": "2135af14506fce929423f9ce354ed56a537d12ff8ef617077122abb6850b2e4d",
-      "modified": "20261122T011653Z",
-      "seq": 3
+      "hash": "16ab69916dd0e25aa743de46236d4a4a816f0d3f37bd891e434aaab2fdd9912d",
+      "modified": "20261123T123238Z",
+      "seq": 4
     },
     "ufc-600062900-main@ufc-calendar": {
       "hash": "7b375cdb2867e30c9a00e68807d0a6789a3adc8869a3dea80f7906e24f396cfd",

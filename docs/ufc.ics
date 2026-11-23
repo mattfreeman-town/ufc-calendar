@@ -379,9 +379,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-prelims@ufc-calendar
-DTSTAMP:20261122T011653Z
-LAST-MODIFIED:20261122T011653Z
-SEQUENCE:3
+DTSTAMP:20261123T123238Z
+LAST-MODIFIED:20261123T123238Z
+SEQUENCE:4
 DTSTART:20261205T150000Z
 DTEND:20261205T180000Z
 SUMMARY:UFC Fight Night Prelims: Adesanya vs Magomedov
@@ -391,20 +391,19 @@ DESCRIPTION:Prelims starts Sat Dec 5 7:00 AM PST\nWatch: Paramount+\n\nBrun
  0) vs JunYong Park (19-7-0) · Middleweight\nPavel Andrusca (9-0-0) vs Meh
  emmedeli Osmanli (12-2-0) · Bantamweight\nModestino Rodrigues (8-1-0) vs 
  Matthieu Letho Duclos (11-3-0) · Middleweight\nAbdul Hussein (16-2-0) vs 
- Hecher Sosa (15-1-0) · Bantamweight\nLevan Chokheli (15-3-0) vs Islam Dul
- atov (12-1-0) · Welterweight\n\nUpdates:\nNov 11: Moved to Prelims: Levan
-  Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 11: Move
- d to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightw
- eight\nNov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba 
- (20-12-1) · Light Heavyweight\nNov 18: Moved to Main Card: Levan Chokheli
-  (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 18: Moved to Main
-  Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\n
- Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-1
- 2-1) · Light Heavyweight\nNov 21: Moved to Prelims: Levan Chokheli (15-3-
- 0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 21: Added Luke Riley (14
- -0-0) vs Gabriel Santos (12-2-0) · Featherweight (Main Card)\n\nFull card
- : https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\nTimes an
- d bouts can change\; this calendar refreshes every few hours.
+ Hecher Sosa (15-1-0) · Bantamweight\n\nUpdates:\nNov 11: Moved to Prelims
+ : Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nNov 1
+ 1: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) ·
+  Light Heavyweight\nNov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs
+  Islam Dulatov (12-1-0) · Welterweight\nNov 18: Moved to Main Card: Mairo
+ n Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nNov 18: Move
+ d to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) · Ligh
+ t Heavyweight\nNov 21: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam 
+ Dulatov (12-1-0) · Welterweight\nNov 21: Added Luke Riley (14-0-0) vs Gab
+ riel Santos (12-2-0) · Featherweight (Main Card)\nNov 23: Moved to Main C
+ ard: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\n\n
+ Full card: https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\
+ nTimes and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -413,9 +412,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600062700-main@ufc-calendar
-DTSTAMP:20261122T011653Z
-LAST-MODIFIED:20261122T011653Z
-SEQUENCE:3
+DTSTAMP:20261123T123238Z
+LAST-MODIFIED:20261123T123238Z
+SEQUENCE:4
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:UFC Fight Night Main Card: Adesanya vs Magomedov
@@ -423,21 +422,22 @@ DESCRIPTION:Main Card starts Sat Dec 5 10:00 AM PST\nWatch: Paramount+\n\nI
  srael Adesanya (24-6-0) vs Shara Magomedov (17-1-0) · Middleweight\nIan M
  achado Garry (17-2-0) vs Yaroslav Amosov (30-1-0) · Welterweight\nSerghei
   Spivac (18-7-0) vs Mario Pinto (13-0-0) · Heavyweight\nLuke Riley (14-0-
- 0) vs Gabriel Santos (12-2-0) · Featherweight\nMairon Santos (18-1-0) vs 
- Akbar Abdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (7-0-0) vs Ion C
- utelaba (20-12-1) · Light Heavyweight\n\nUpdates:\nNov 11: Moved to Preli
- ms: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov
-  11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) 
- · Lightweight\nNov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion 
- Cutelaba (20-12-1) · Light Heavyweight\nNov 18: Moved to Main Card: Levan
-  Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 18: Move
- d to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Ligh
- tweight\nNov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutel
- aba (20-12-1) · Light Heavyweight\nNov 21: Moved to Prelims: Levan Chokhe
- li (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\nNov 21: Added Luke 
- Riley (14-0-0) vs Gabriel Santos (12-2-0) · Featherweight (Main Card)\n\n
- Full card: https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\
- nTimes and bouts can change\; this calendar refreshes every few hours.
+ 0) vs Gabriel Santos (12-2-0) · Featherweight\nLevan Chokheli (15-3-0) vs
+  Islam Dulatov (12-1-0) · Welterweight\nMairon Santos (18-1-0) vs Akbar A
+ bdullaev (14-0-0) · Lightweight\nMagomed Tuchalov (7-0-0) vs Ion Cutelaba
+  (20-12-1) · Light Heavyweight\n\nUpdates:\nNov 11: Moved to Prelims: Mai
+ ron Santos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nNov 11: Mo
+ ved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) · Ligh
+ t Heavyweight\nNov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs Isla
+ m Dulatov (12-1-0) · Welterweight\nNov 18: Moved to Main Card: Mairon San
+ tos (18-1-0) vs Akbar Abdullaev (14-0-0) · Lightweight\nNov 18: Moved to 
+ Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) · Light Hea
+ vyweight\nNov 21: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulat
+ ov (12-1-0) · Welterweight\nNov 21: Added Luke Riley (14-0-0) vs Gabriel 
+ Santos (12-2-0) · Featherweight (Main Card)\nNov 23: Moved to Main Card: 
+ Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) · Welterweight\n\nFull 
+ card: https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc\nTime
+ s and bouts can change\; this calendar refreshes every few hours.
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
 CATEGORIES:UFC\,Main Card
