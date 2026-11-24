@@ -517,6 +517,10 @@
           "kind": "prelims",
           "line": "Bruno Silva (15-9-2) vs Jafel Filho (17-5-0) \u00b7 Flyweight"
         },
+        "elves brener vs mateusz r\u0119becki": {
+          "kind": "prelims",
+          "line": "Mateusz R\u0119becki (21-5-0) vs Elves Brener (17-6-0) \u00b7 Lightweight"
+        },
         "gabriel santos vs luke riley": {
           "kind": "main",
           "line": "Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight"
@@ -560,14 +564,14 @@
       },
       "last_start": "2026-12-05T18:00:00+00:00",
       "log": [
-        "Nov 11: Moved to Prelims: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
         "Nov 11: Moved to Prelims: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
         "Nov 18: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 18: Moved to Main Card: Mairon Santos (18-1-0) vs Akbar Abdullaev (14-0-0) \u00b7 Lightweight",
         "Nov 18: Moved to Main Card: Magomed Tuchalov (7-0-0) vs Ion Cutelaba (20-12-1) \u00b7 Light Heavyweight",
         "Nov 21: Moved to Prelims: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
         "Nov 21: Added Luke Riley (14-0-0) vs Gabriel Santos (12-2-0) \u00b7 Featherweight (Main Card)",
-        "Nov 23: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight"
+        "Nov 23: Moved to Main Card: Levan Chokheli (15-3-0) vs Islam Dulatov (12-1-0) \u00b7 Welterweight",
+        "Nov 24: Added Mateusz R\u0119becki (21-5-0) vs Elves Brener (17-6-0) \u00b7 Lightweight (Prelims)"
       ],
       "starts": {
         "main": "2026-12-05T18:00:00+00:00",
@@ -701,14 +705,14 @@
       "seq": 0
     },
     "ufc-600062700-main@ufc-calendar": {
-      "hash": "6dfe57b18d09a44d3a1073497a9054a3585fa1ae43037e92900c2336891d2a0a",
-      "modified": "20261123T123238Z",
-      "seq": 4
+      "hash": "d73e721464ff55e79cabaeea84f4df78683a36d342a52111f60681ecafb36953",
+      "modified": "20261124T133913Z",
+      "seq": 5
     },
     "ufc-600062700-prelims@ufc-calendar": {
-      "hash": "16ab69916dd0e25aa743de46236d4a4a816f0d3f37bd891e434aaab2fdd9912d",
-      "modified": "20261123T123238Z",
-      "seq": 4
+      "hash": "4f5ac5c3e9d5a604b16b2935413bde0e406b37f8c221851505715fe36c788ce9",
+      "modified": "20261124T133913Z",
+      "seq": 5
     },
     "ufc-600062900-main@ufc-calendar": {
       "hash": "7b375cdb2867e30c9a00e68807d0a6789a3adc8869a3dea80f7906e24f396cfd",
