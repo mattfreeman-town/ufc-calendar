@@ -176,18 +176,18 @@
       },
       "last_start": "2026-12-13T02:00:00+00:00",
       "log": [
-        "Oct 27: Moved to Prelims: Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
         "Oct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
         "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight",
         "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
         "Nov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight",
         "Nov 18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
         "Nov 20: Added Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) \u00b7 Bantamweight (Main Card)",
-        "Nov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight (Main Card)"
+        "Nov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight (Main Card)",
+        "Nov 25: Prelims start moved to Sat Dec 12 3:00 PM PST"
       ],
       "starts": {
         "main": "2026-12-13T02:00:00+00:00",
-        "prelims": "2026-12-13T00:00:00+00:00"
+        "prelims": "2026-12-12T23:00:00+00:00"
       }
     },
     "600061420": {
@@ -456,7 +456,7 @@
         },
         "elisha ellison vs kennedy nzechukwu": {
           "kind": "prelims",
-          "line": "Kennedy Nzechukwu (14-7-1) vs Elisha Ellison (5-3-0)"
+          "line": "Kennedy Nzechukwu (14-7-1) vs Elisha Ellison (5-3-0) \u00b7 Heavyweight"
         },
         "gilbert urbina vs robert valentin": {
           "kind": "prelims",
@@ -480,7 +480,7 @@
         },
         "magomed zaynukov vs piero guaylupo": {
           "kind": "prelims",
-          "line": "Magomed Zaynukov (9-0-0) vs Piero Guaylupo (12-0-0) \u00b7 Light Heavyweight"
+          "line": "Magomed Zaynukov (9-0-0) vs Piero Guaylupo (12-0-0) \u00b7 Lightweight"
         },
         "steve garcia vs yair rodriguez": {
           "kind": "main",
@@ -640,14 +640,14 @@
       "seq": 7
     },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "0412813ee4b937680fa98ce8e7766ff29f6d3cd3a00eb4c0a3ebce50e2cc274a",
-      "modified": "20261121T191221Z",
-      "seq": 5
+      "hash": "ee5f5a66189c831a55cb970c0ffaab2c4c443ee298b669564418cf1aade265b1",
+      "modified": "20261125T082845Z",
+      "seq": 6
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "94cfe9571ab3c19078417ab5bec5c0f40746aa017c22ba3dc7cb80a85ea6fe1e",
-      "modified": "20261121T021203Z",
-      "seq": 4
+      "hash": "f00a417418c05959cc0e4091c4655e91e99cbd2d50f7e8b76608a4c8f96f91ab",
+      "modified": "20261125T082845Z",
+      "seq": 5
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",
@@ -700,9 +700,9 @@
       "seq": 2
     },
     "ufc-600062421-prelims@ufc-calendar": {
-      "hash": "b0555b7112351d56d4ed30063df1024310175fca4fca039b55e1cb0d008b0a09",
-      "modified": "20261120T113411Z",
-      "seq": 0
+      "hash": "c034a55c1ef296f38d9131afbc063c960aaf2e3e6633999f0b9a2501e3765bdf",
+      "modified": "20261125T082845Z",
+      "seq": 1
     },
     "ufc-600062700-main@ufc-calendar": {
       "hash": "d73e721464ff55e79cabaeea84f4df78683a36d342a52111f60681ecafb36953",
