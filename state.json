@@ -169,23 +169,32 @@
           "kind": "main",
           "line": "Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) \u00b7 Bantamweight"
         },
+        "jacqueline cavalcanti vs michelle montague": {
+          "kind": "early",
+          "line": "Jacqueline Cavalcanti (10-2-0) vs Michelle Montague (8-0-0) \u00b7 W Bantamweight"
+        },
         "junior tafa vs quentin pasley": {
           "kind": "prelims",
           "line": "Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight"
+        },
+        "nilson rojas vs roque concei\u00e7\u00e3o": {
+          "kind": "early",
+          "line": "Roque Concei\u00e7\u00e3o (12-3-0) vs Nilson Rojas (9-1-0) \u00b7 Flyweight"
         }
       },
       "last_start": "2026-12-13T02:00:00+00:00",
       "log": [
-        "Oct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
-        "Oct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) \u00b7 Flyweight",
         "Nov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) \u00b7 Middleweight",
         "Nov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) \u00b7 Light Heavyweight",
         "Nov 18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) \u00b7 W Flyweight",
         "Nov 20: Added Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) \u00b7 Bantamweight (Main Card)",
         "Nov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) \u00b7 Middleweight (Main Card)",
-        "Nov 25: Prelims start moved to Sat Dec 12 3:00 PM PST"
+        "Nov 25: Prelims start moved to Sat Dec 12 3:00 PM PST",
+        "Nov 27: Added Roque Concei\u00e7\u00e3o (12-3-0) vs Nilson Rojas (9-1-0) \u00b7 Flyweight (Early Prelims)",
+        "Nov 27: Added Jacqueline Cavalcanti (10-2-0) vs Michelle Montague (8-0-0) \u00b7 W Bantamweight (Early Prelims)"
       ],
       "starts": {
+        "early": "2026-12-12T22:00:00+00:00",
         "main": "2026-12-13T02:00:00+00:00",
         "prelims": "2026-12-12T23:00:00+00:00"
       }
@@ -639,15 +648,20 @@
       "modified": "20261115T062554Z",
       "seq": 7
     },
+    "ufc-600061401-early@ufc-calendar": {
+      "hash": "818555b8d3bf7d63b218b386188fc5b22f5c29079a082c5355e1f762a4b0c7f1",
+      "modified": "20261127T211557Z",
+      "seq": 0
+    },
     "ufc-600061401-main@ufc-calendar": {
-      "hash": "ee5f5a66189c831a55cb970c0ffaab2c4c443ee298b669564418cf1aade265b1",
-      "modified": "20261125T082845Z",
-      "seq": 6
+      "hash": "c91adc37610b67635c258b9fc2788021fac5ed2435481b87b586f80273e270d9",
+      "modified": "20261127T211557Z",
+      "seq": 7
     },
     "ufc-600061401-prelims@ufc-calendar": {
-      "hash": "f00a417418c05959cc0e4091c4655e91e99cbd2d50f7e8b76608a4c8f96f91ab",
-      "modified": "20261125T082845Z",
-      "seq": 5
+      "hash": "b823d066c850cbd74ddebb64ddf027e7907245a99cda29b894835f1c24bce17a",
+      "modified": "20261127T211557Z",
+      "seq": 6
     },
     "ufc-600061420-main@ufc-calendar": {
       "hash": "811889b0937719dfbf5707b02c46aa9be9f1c3374adcc1d2faa4def721ba1c0b",

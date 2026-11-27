@@ -377,27 +377,56 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-600061401-early@ufc-calendar
+DTSTAMP:20261127T211557Z
+LAST-MODIFIED:20261127T211557Z
+SEQUENCE:0
+DTSTART:20261212T220000Z
+DTEND:20261212T230000Z
+SUMMARY:UFC 335 Early Prelims: Oliveira vs. Lopes
+DESCRIPTION:Early Prelims starts Sat Dec 12 2:00 PM PST\nWatch: Paramount+\
+ n\nRoque Conceição (12-3-0) vs Nilson Rojas (9-1-0) · Flyweight\nJacque
+ line Cavalcanti (10-2-0) vs Michelle Montague (8-0-0) · W Bantamweight\n\
+ nUpdates:\nNov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Midd
+ leweight\nNov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa 
+ (7-6-0) · Light Heavyweight\nNov 18: Removed Maycee Barber (15-3-0) vs Ca
+ rli Judice (7-2-0) · W Flyweight\nNov 20: Added Kyler Phillips (12-5-0) v
+ s Ethyn Ewing (10-2-0) · Bantamweight (Main Card)\nNov 20: Added Damian P
+ inas (11-1-0) vs Baisangur Susurkaev (12-0-0) · Middleweight (Main Card)\
+ nNov 25: Prelims start moved to Sat Dec 12 3:00 PM PST\nNov 27: Added Roqu
+ e Conceição (12-3-0) vs Nilson Rojas (9-1-0) · Flyweight (Early Prelims
+ )\nNov 27: Added Jacqueline Cavalcanti (10-2-0) vs Michelle Montague (8-0-
+ 0) · W Bantamweight (Early Prelims)\n\nFull card: https://www.espn.com/mm
+ a/fightcenter/_/id/600061401/league/ufc\nTimes and bouts can change\; this
+  calendar refreshes every few hours.
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
+CATEGORIES:UFC\,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-600061401-prelims@ufc-calendar
-DTSTAMP:20261125T082845Z
-LAST-MODIFIED:20261125T082845Z
-SEQUENCE:5
+DTSTAMP:20261127T211557Z
+LAST-MODIFIED:20261127T211557Z
+SEQUENCE:6
 DTSTART:20261212T230000Z
 DTEND:20261213T020000Z
 SUMMARY:UFC 335 Prelims: Oliveira vs. Lopes
 DESCRIPTION:Prelims starts Sat Dec 12 3:00 PM PST\nWatch: Paramount+\n\nQue
  ntin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\n\nUpdates
- :\nOct 27: Moved to Main Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · 
- Middleweight\nOct 27: Moved to Main Card: Brandon Moreno (24-10-2) vs Char
- les Johnson (20-9-0) · Flyweight\nNov 15: Removed Joe Pyfer (16-3-0) vs B
- o Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelims: Quentin Pasley
-  (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov 18: Removed Mayc
- ee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight\nNov 20: Added K
- yler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) · Bantamweight (Main Card)
- \nNov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurkaev (12-0-0) · M
- iddleweight (Main Card)\nNov 25: Prelims start moved to Sat Dec 12 3:00 PM
-  PST\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061401/lea
- gue/ufc\nTimes and bouts can change\; this calendar refreshes every few ho
- urs.
+ :\nNov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight
+ \nNov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) 
+ · Light Heavyweight\nNov 18: Removed Maycee Barber (15-3-0) vs Carli Judi
+ ce (7-2-0) · W Flyweight\nNov 20: Added Kyler Phillips (12-5-0) vs Ethyn 
+ Ewing (10-2-0) · Bantamweight (Main Card)\nNov 20: Added Damian Pinas (11
+ -1-0) vs Baisangur Susurkaev (12-0-0) · Middleweight (Main Card)\nNov 25:
+  Prelims start moved to Sat Dec 12 3:00 PM PST\nNov 27: Added Roque Concei
+ ção (12-3-0) vs Nilson Rojas (9-1-0) · Flyweight (Early Prelims)\nNov 2
+ 7: Added Jacqueline Cavalcanti (10-2-0) vs Michelle Montague (8-0-0) · W 
+ Bantamweight (Early Prelims)\n\nFull card: https://www.espn.com/mma/fightc
+ enter/_/id/600061401/league/ufc\nTimes and bouts can change\; this calenda
+ r refreshes every few hours.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Prelims
@@ -406,9 +435,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-600061401-main@ufc-calendar
-DTSTAMP:20261125T082845Z
-LAST-MODIFIED:20261125T082845Z
-SEQUENCE:6
+DTSTAMP:20261127T211557Z
+LAST-MODIFIED:20261127T211557Z
+SEQUENCE:7
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:UFC 335 Main Card: Oliveira vs. Lopes
@@ -417,18 +446,19 @@ DESCRIPTION:Main Card starts Sat Dec 12 6:00 PM PST\nWatch: Paramount+\n\nC
  eira (13-4-0) vs Sergei Pavlovich (21-3-0) · Heavyweight\nBrandon Moreno 
  (24-10-2) vs Charles Johnson (20-9-0) · Flyweight\nDamian Pinas (11-1-0) 
  vs Baisangur Susurkaev (12-0-0) · Middleweight\nKyler Phillips (12-5-0) v
- s Ethyn Ewing (10-2-0) · Bantamweight\n\nUpdates:\nOct 27: Moved to Main 
- Card: Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\nOct 27: Mov
- ed to Main Card: Brandon Moreno (24-10-2) vs Charles Johnson (20-9-0) · F
- lyweight\nNov 15: Removed Joe Pyfer (16-3-0) vs Bo Nickal (9-1-0) · Middl
- eweight\nNov 18: Moved to Prelims: Quentin Pasley (4-0-0) vs Junior Tafa (
- 7-6-0) · Light Heavyweight\nNov 18: Removed Maycee Barber (15-3-0) vs Car
- li Judice (7-2-0) · W Flyweight\nNov 20: Added Kyler Phillips (12-5-0) vs
-  Ethyn Ewing (10-2-0) · Bantamweight (Main Card)\nNov 20: Added Damian Pi
- nas (11-1-0) vs Baisangur Susurkaev (12-0-0) · Middleweight (Main Card)\n
- Nov 25: Prelims start moved to Sat Dec 12 3:00 PM PST\n\nFull card: https:
- //www.espn.com/mma/fightcenter/_/id/600061401/league/ufc\nTimes and bouts 
- can change\; this calendar refreshes every few hours.
+ s Ethyn Ewing (10-2-0) · Bantamweight\n\nUpdates:\nNov 15: Removed Joe Py
+ fer (16-3-0) vs Bo Nickal (9-1-0) · Middleweight\nNov 18: Moved to Prelim
+ s: Quentin Pasley (4-0-0) vs Junior Tafa (7-6-0) · Light Heavyweight\nNov
+  18: Removed Maycee Barber (15-3-0) vs Carli Judice (7-2-0) · W Flyweight
+ \nNov 20: Added Kyler Phillips (12-5-0) vs Ethyn Ewing (10-2-0) · Bantamw
+ eight (Main Card)\nNov 20: Added Damian Pinas (11-1-0) vs Baisangur Susurk
+ aev (12-0-0) · Middleweight (Main Card)\nNov 25: Prelims start moved to S
+ at Dec 12 3:00 PM PST\nNov 27: Added Roque Conceição (12-3-0) vs Nilson 
+ Rojas (9-1-0) · Flyweight (Early Prelims)\nNov 27: Added Jacqueline Caval
+ canti (10-2-0) vs Michelle Montague (8-0-0) · W Bantamweight (Early Preli
+ ms)\n\nFull card: https://www.espn.com/mma/fightcenter/_/id/600061401/leag
+ ue/ufc\nTimes and bouts can change\; this calendar refreshes every few hou
+ rs.
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
 URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
 CATEGORIES:UFC\,Main Card
